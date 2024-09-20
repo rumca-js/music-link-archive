@@ -30,6 +30,11 @@
  - date_published: 1999-03-17T00:00:00+00:00
  - tags: ['chiptune']
 
+ ## Can-D-Music (Navigator)
+ - [https://www.youtube.com/watch?v=unfh0EkjoG0](https://www.youtube.com/watch?v=unfh0EkjoG0)
+ - date_published: 1999-03-21T00:00:00+00:00
+ - tags: ['technoviking', 'techno']
+
  ## Cool Acid (1998/1999) - FastTracker II
  - [https://www.youtube.com/watch?v=YI_geRPR9SI](https://www.youtube.com/watch?v=YI_geRPR9SI)
  - date_published: 1999-03-22T00:00:00+00:00

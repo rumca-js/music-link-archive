@@ -266,6 +266,10 @@
  - date_published: 2012-08-29T00:00:00+00:00
  - tags: ['hip-hop']
 
+ ## Mr Oizo - Flat beat (Official Video with Flat Eric - 1999 - F Communications)
+ - [https://www.youtube.com/watch?v=qmsbP13xu6k](https://www.youtube.com/watch?v=qmsbP13xu6k)
+ - date_published: 2012-09-02T00:00:00+00:00
+
  ## Serialowy Burdel Cover by CeZik
  - [https://www.youtube.com/watch?v=wOqYxP79xrU](https://www.youtube.com/watch?v=wOqYxP79xrU)
  - date_published: 2012-09-02T00:00:00+00:00

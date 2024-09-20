@@ -394,6 +394,11 @@
  - [https://www.youtube.com/watch?v=DgMnCLHQuqc](https://www.youtube.com/watch?v=DgMnCLHQuqc)
  - date_published: 2021-09-06T00:00:00+00:00
 
+ ## Gibbs - Cień przypadku
+ - [https://www.youtube.com/watch?v=BxjvvI-vtpc](https://www.youtube.com/watch?v=BxjvvI-vtpc)
+ - date_published: 2021-09-09T00:00:00+00:00
+ - tags: ['hip-hop']
+
  ## The Matrix Remixed / 'Red Pill Blue Pill' (Extended) / Techno Acid Soundtrack
  - [https://www.youtube.com/watch?v=vngVw9Cz2eA](https://www.youtube.com/watch?v=vngVw9Cz2eA)
  - date_published: 2021-09-10T00:00:00+00:00

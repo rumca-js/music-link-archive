@@ -259,6 +259,10 @@
  - date_published: 2007-11-08T00:00:00+00:00
  - tags: ['electro house', 'psychodelic trance']
 
+ ## Pogodno - Piosenka O Śmiesznym Tytule
+ - [https://www.youtube.com/watch?v=TVuSY7--7Sw](https://www.youtube.com/watch?v=TVuSY7--7Sw)
+ - date_published: 2007-11-12T00:00:00+00:00
+
  ## Röyksopp - What Else Is There ?
  - [https://www.youtube.com/watch?v=ADBKdSCbmiM](https://www.youtube.com/watch?v=ADBKdSCbmiM)
  - date_published: 2007-11-15T00:00:00+00:00

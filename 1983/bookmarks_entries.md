@@ -77,6 +77,10 @@
  - date_published: 1983-07-26T00:00:00+00:00
  - tags: ['70s80s90s']
 
+ ## Styx - Mr. Roboto (Official Video)
+ - [https://www.youtube.com/watch?v=uc6f_2nPSX8](https://www.youtube.com/watch?v=uc6f_2nPSX8)
+ - date_published: 1983-08-10T00:00:00+00:00
+
  ## Lionel Richie - All night long (lyrics)
  - [https://www.youtube.com/watch?v=2PEGcXHhE98](https://www.youtube.com/watch?v=2PEGcXHhE98)
  - date_published: 1983-08-26T00:00:00+00:00

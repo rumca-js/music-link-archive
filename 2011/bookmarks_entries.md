@@ -138,6 +138,11 @@
  - date_published: 2011-03-31T00:00:00+00:00
  - tags: ['pop']
 
+ ## Kraftwerk - The Robots (Official Video)
+ - [https://www.youtube.com/watch?v=D_8Pma1vHmw](https://www.youtube.com/watch?v=D_8Pma1vHmw)
+ - date_published: 2011-04-03T00:00:00+00:00
+ - tags: ['electronic']
+
  ## Anna Jurksztowicz - Hej Man (Praktik remix)
  - [https://www.youtube.com/watch?v=P70Fd_L8V5I](https://www.youtube.com/watch?v=P70Fd_L8V5I)
  - date_published: 2011-04-05T00:00:00+00:00
@@ -465,6 +470,11 @@
  - [https://www.youtube.com/watch?v=UZAKTCeE70Y](https://www.youtube.com/watch?v=UZAKTCeE70Y)
  - date_published: 2011-10-18T00:00:00+00:00
  - tags: ['live']
+
+ ## Coldplay - Paradise (Official Video)
+ - [https://www.youtube.com/watch?v=1G4isv_Fylg](https://www.youtube.com/watch?v=1G4isv_Fylg)
+ - date_published: 2011-10-19T00:00:00+00:00
+ - tags: ['pop']
 
  ## El Mudo - Shakaron Makaron
  - [https://www.youtube.com/watch?v=dgDeslyYJOE](https://www.youtube.com/watch?v=dgDeslyYJOE)

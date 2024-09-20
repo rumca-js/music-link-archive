@@ -16,7 +16,7 @@
  ## Przybysze z Matplanety
  - [https://www.youtube.com/watch?v=FW8vxkdslQ4](https://www.youtube.com/watch?v=FW8vxkdslQ4)
  - date_published: 2022-01-27T00:00:00+00:00
- - tags: ['cringe', 'nostalgia']
+ - tags: ['funny', 'cringe', 'nostalgia']
 
  ## Deep Feelings Mix | Deep House, Vocal House, Nu Disco, Chillout | Mix by Deep House Nation #17
  - [https://www.youtube.com/watch?v=hqyelPdw_uc](https://www.youtube.com/watch?v=hqyelPdw_uc)
@@ -93,7 +93,7 @@
  ## Gnome - Wenceslas (Official Video)
  - [https://www.youtube.com/watch?v=LzG-qji05Lc](https://www.youtube.com/watch?v=LzG-qji05Lc)
  - date_published: 2022-04-21T00:00:00+00:00
- - tags: ['metal', 'weird']
+ - tags: ['weird', 'funny', 'metal']
 
  ## Deftones - White Pony (Full Album)
  - [https://www.youtube.com/watch?v=v1npHeOskdQ](https://www.youtube.com/watch?v=v1npHeOskdQ)
@@ -210,6 +210,7 @@
  ## Gibbs - Znikam
  - [https://www.youtube.com/watch?v=alKMn0Yw9xk](https://www.youtube.com/watch?v=alKMn0Yw9xk)
  - date_published: 2022-08-05T00:00:00+00:00
+ - tags: ['hip-hop']
 
  ## Chill Lofi Mix [chill lo-fi hip hop beats]
  - [https://www.youtube.com/watch?v=CLeZyIID9Bo](https://www.youtube.com/watch?v=CLeZyIID9Bo)
@@ -281,6 +282,10 @@
  - [https://www.youtube.com/watch?v=09JOIHs-_0s](https://www.youtube.com/watch?v=09JOIHs-_0s)
  - date_published: 2022-11-09T00:00:00+00:00
  - tags: ['melodic techno', 'youtube mix']
+
+ ## Dawid Podsiadło - To co masz Ty! (Tekst)
+ - [https://www.youtube.com/watch?v=OCydN2iodmU](https://www.youtube.com/watch?v=OCydN2iodmU)
+ - date_published: 2022-11-13T00:00:00+00:00
 
  ## Attention | @charlieputh | funk cover ft. Sophia James
  - [https://www.youtube.com/watch?v=iovD2NLiLPo](https://www.youtube.com/watch?v=iovD2NLiLPo)

@@ -151,6 +151,10 @@
  - date_published: 2013-04-08T00:00:00+00:00
  - tags: ['funny']
 
+ ## Michael Gray - The Weekend (Official Video)
+ - [https://www.youtube.com/watch?v=N3kkNfH4yco](https://www.youtube.com/watch?v=N3kkNfH4yco)
+ - date_published: 2013-04-11T00:00:00+00:00
+
  ## PSY - GENTLEMAN M/V
  - [https://www.youtube.com/watch?v=ASO_zypdnsQ](https://www.youtube.com/watch?v=ASO_zypdnsQ)
  - date_published: 2013-04-13T00:00:00+00:00
@@ -213,6 +217,10 @@
  - date_published: 2013-05-24T00:00:00+00:00
  - tags: ['full album', 'hip-hop']
 
+ ## Dawid Podsiadło - Trojkaty i Kwadraty
+ - [https://www.youtube.com/watch?v=Wg4A_d9F7xk](https://www.youtube.com/watch?v=Wg4A_d9F7xk)
+ - date_published: 2013-05-30T00:00:00+00:00
+
  ## Enej - Symetryczno-Liryczna (Official video)
  - [https://www.youtube.com/watch?v=eTJPQ4TW4Jw](https://www.youtube.com/watch?v=eTJPQ4TW4Jw)
  - date_published: 2013-06-03T00:00:00+00:00
@@ -236,6 +244,10 @@
  - [https://www.youtube.com/watch?v=DEhJgRveaV8](https://www.youtube.com/watch?v=DEhJgRveaV8)
  - date_published: 2013-06-30T00:00:00+00:00
  - tags: ['creative', 'funny']
+
+ ## Dawid Podsiadło - Nieznajomy (Video Edit)
+ - [https://www.youtube.com/watch?v=g4UDeQTjMYk](https://www.youtube.com/watch?v=g4UDeQTjMYk)
+ - date_published: 2013-07-05T00:00:00+00:00
 
  ## さくら(Sakura)　25絃箏 (25 strings koto)
  - [https://www.youtube.com/watch?v=JDTp_YQizqE](https://www.youtube.com/watch?v=JDTp_YQizqE)

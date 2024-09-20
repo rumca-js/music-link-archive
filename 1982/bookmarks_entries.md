@@ -8,6 +8,11 @@
  - date_published: 1982-01-12T00:00:00+00:00
  - tags: ['70s80s90spl', 'new wave']
 
+ ## Das Model (2009 Remaster)
+ - [https://www.youtube.com/watch?v=o0iga1eNgvA](https://www.youtube.com/watch?v=o0iga1eNgvA)
+ - date_published: 1982-01-25T00:00:00+00:00
+ - tags: ['electronic']
+
  ## Der Kommissar - After the Fire (Remaster Best Quality)
  - [https://www.youtube.com/watch?v=fxa2HtNzuo0](https://www.youtube.com/watch?v=fxa2HtNzuo0)
  - date_published: 1982-02-17T00:00:00+00:00
@@ -96,4 +101,9 @@
  - [https://www.youtube.com/watch?v=KwIe_sjKeAY](https://www.youtube.com/watch?v=KwIe_sjKeAY)
  - date_published: 1982-11-24T00:00:00+00:00
  - tags: ['70s80s90s']
+
+ ## Kraftwerk - Das Model
+ - [https://www.youtube.com/watch?v=OQIYEPe6DWY](https://www.youtube.com/watch?v=OQIYEPe6DWY)
+ - date_published: 1982-12-08T00:00:00+00:00
+ - tags: ['electronic']
 

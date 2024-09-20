@@ -223,3 +223,12 @@
  - [https://www.youtube.com/watch?v=sR2UO8pfsXI](https://www.youtube.com/watch?v=sR2UO8pfsXI)
  - date_published: 2024-09-06T15:01:04+00:00
 
+ ## Jake the Kid - On My Own
+ - [https://www.youtube.com/watch?v=chR2BFatt4Y](https://www.youtube.com/watch?v=chR2BFatt4Y)
+ - date_published: 2024-09-12T18:47:32+00:00
+
+ ## NANOWAR OF STEEL - Stormwarrior Of The Storm (Official Video with Lyrics) | Napalm Records
+ - [https://www.youtube.com/watch?v=Jy99ywCp3qU](https://www.youtube.com/watch?v=Jy99ywCp3qU)
+ - date_published: 2024-09-17T12:00:00+00:00
+ - tags: ['funny']
+

@@ -242,6 +242,10 @@
  - date_published: 2016-06-14T00:00:00+00:00
  - tags: ['funny']
 
+ ## Dawid Podsiadlo - Pastempomat
+ - [https://www.youtube.com/watch?v=c9B4Z_HRAcI](https://www.youtube.com/watch?v=c9B4Z_HRAcI)
+ - date_published: 2016-06-17T00:00:00+00:00
+
  ## Men I Trust - Lauren
  - [https://www.youtube.com/watch?v=TNsSBhl_2LI](https://www.youtube.com/watch?v=TNsSBhl_2LI)
  - date_published: 2016-06-20T00:00:00+00:00

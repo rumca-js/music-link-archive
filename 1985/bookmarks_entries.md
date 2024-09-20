@@ -47,6 +47,10 @@
  - date_published: 1985-03-12T00:00:00+00:00
  - tags: ['synthwave']
 
+ ## MacGyver - Intro [HQ]
+ - [https://www.youtube.com/watch?v=yOEe1uzurKo](https://www.youtube.com/watch?v=yOEe1uzurKo)
+ - date_published: 1985-03-31T00:00:00+00:00
+
  ## Akademia Pana Kleksa - Dzik jest dziki
  - [https://www.youtube.com/watch?v=0MmWTZY_drE](https://www.youtube.com/watch?v=0MmWTZY_drE)
  - date_published: 1985-04-21T00:00:00+00:00

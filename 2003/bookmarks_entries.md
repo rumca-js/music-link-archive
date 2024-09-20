@@ -130,6 +130,10 @@
  - [https://www.youtube.com/watch?v=E1Jsdu0S6mw](https://www.youtube.com/watch?v=E1Jsdu0S6mw)
  - date_published: 2003-09-10T00:00:00+00:00
 
+ ## Kombajn Do Zbierania Kur Po Wioskach - Mucha
+ - [https://www.youtube.com/watch?v=0hubJKTd2kY](https://www.youtube.com/watch?v=0hubJKTd2kY)
+ - date_published: 2003-09-24T00:00:00+00:00
+
  ## No Doubt - It's My Life (Edited)
  - [https://www.youtube.com/watch?v=ubvV498pyIM](https://www.youtube.com/watch?v=ubvV498pyIM)
  - date_published: 2003-10-06T00:00:00+00:00

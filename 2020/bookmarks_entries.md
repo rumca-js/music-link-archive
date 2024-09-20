@@ -276,11 +276,6 @@
  - date_published: 2020-04-28T00:00:00+00:00
  - tags: ['live']
 
- ## Putumayo Republica Dominicana - Latin🎵
- - [https://www.youtube.com/watch?v=swCTfqW17fI](https://www.youtube.com/watch?v=swCTfqW17fI)
- - date_published: 2020-04-29T00:00:00+00:00
- - tags: ['youtube mix']
-
  ## Parcels - Live Vol. 1 (Complete Footage)
  - [https://www.youtube.com/watch?v=e4TFD2PfVPw](https://www.youtube.com/watch?v=e4TFD2PfVPw)
  - date_published: 2020-04-30T00:00:00+00:00
@@ -521,7 +516,7 @@
  ## The Ocean - Phanerozoic II: Mesozoic | Cenozoic (FULL ALBUM)
  - [https://www.youtube.com/watch?v=L6hRFcVZFlA](https://www.youtube.com/watch?v=L6hRFcVZFlA)
  - date_published: 2020-09-24T00:00:00+00:00
- - tags: ['full album']
+ - tags: ['full album', 'progressive rock']
 
  ## Ancient Slavic Pagan Music Mix 2 (Pagania II)
  - [https://www.youtube.com/watch?v=_YaSYOhMoaE](https://www.youtube.com/watch?v=_YaSYOhMoaE)

@@ -421,6 +421,10 @@
  - date_published: 2018-06-06T00:00:00+00:00
  - tags: ['live']
 
+ ## Dawid Podsiadlo - Małomiasteczkowy
+ - [https://www.youtube.com/watch?v=X2XWBcd5jn0](https://www.youtube.com/watch?v=X2XWBcd5jn0)
+ - date_published: 2018-06-06T00:00:00+00:00
+
  ## Talking Heads - Psycho Killer
  - [https://www.youtube.com/watch?v=CKti7QixnJI](https://www.youtube.com/watch?v=CKti7QixnJI)
  - date_published: 2018-06-08T00:00:00+00:00

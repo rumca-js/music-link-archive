@@ -282,6 +282,10 @@
  - date_published: 2000-11-11T00:00:00+00:00
  - tags: ['full album']
 
+ ## Theatre of Tragedy - Machine
+ - [https://www.youtube.com/watch?v=0CUl4VnSE_4](https://www.youtube.com/watch?v=0CUl4VnSE_4)
+ - date_published: 2000-11-22T00:00:00+00:00
+
  ## Creed - With Arms Wide Open
  - [https://www.youtube.com/watch?v=99j0zLuNhi8&pp=ygUFY3JlZWQ%3D](https://www.youtube.com/watch?v=99j0zLuNhi8&pp=ygUFY3JlZWQ%3D)
  - date_published: 2000-12-02T00:00:00+00:00

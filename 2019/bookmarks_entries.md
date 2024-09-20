@@ -561,6 +561,14 @@
  - date_published: 2019-08-30T00:00:00+00:00
  - tags: ['live']
 
+ ## TOOL - Descending (Audio)
+ - [https://www.youtube.com/watch?v=PcSoLwFisaw](https://www.youtube.com/watch?v=PcSoLwFisaw)
+ - date_published: 2019-08-30T04:00:03+00:00
+
+ ## TOOL - Vicarious (Official Video)
+ - [https://www.youtube.com/watch?v=h_TUP2vuaDs](https://www.youtube.com/watch?v=h_TUP2vuaDs)
+ - date_published: 2019-08-30T04:00:05+00:00
+
  ## Max Brhon - Cyberpunk [NCS Release]
  - [https://www.youtube.com/watch?v=iqoNoU-rm14](https://www.youtube.com/watch?v=iqoNoU-rm14)
  - date_published: 2019-08-31T00:00:00+00:00

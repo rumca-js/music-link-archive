@@ -32,10 +32,14 @@
  - date_published: 2023-01-28T00:00:00+00:00
  - tags: ['anime']
 
+ ## Dawid Podsiadło - mori (Official Video)
+ - [https://www.youtube.com/watch?v=2DiP0mMeaT8](https://www.youtube.com/watch?v=2DiP0mMeaT8)
+ - date_published: 2023-02-07T00:00:00+00:00
+
  ## Orbital - Optical Delusion (2023)
  - [https://www.youtube.com/watch?v=QXJZxv9M0PM](https://www.youtube.com/watch?v=QXJZxv9M0PM)
  - date_published: 2023-02-17T00:00:00+00:00
- - tags: ['full album']
+ - tags: ['full album', 'electronic']
 
  ## Miss Monique - MiMo Weekly Podcast 038 @ Bali [Melodic Techno/ Progressive House DJ Mix]
  - [https://www.youtube.com/watch?v=yoRySSq634o](https://www.youtube.com/watch?v=yoRySSq634o)
@@ -151,10 +155,6 @@
  - [https://www.youtube.com/watch?v=2DjNR10udHY](https://www.youtube.com/watch?v=2DjNR10udHY)
  - date_published: 2023-06-07T00:00:00+00:00
 
- ## Michael Gray - The Weekend (Lyrics)
- - [https://www.youtube.com/watch?v=IVTS34W1KuE](https://www.youtube.com/watch?v=IVTS34W1KuE)
- - date_published: 2023-06-09T00:00:00+00:00
-
  ## KLANGPHONICS  - Laminar (Moonbootica Remix)
  - [https://www.youtube.com/watch?v=Ityqyy1pqik](https://www.youtube.com/watch?v=Ityqyy1pqik)
  - date_published: 2023-06-26T12:46:55+00:00
@@ -255,6 +255,10 @@
  - date_published: 2023-09-28T00:00:00+00:00
  - tags: ['melodic techno', 'youtube mix']
 
+ ## Republica Dominicana (Official Putumayo Version)
+ - [https://www.youtube.com/watch?v=saHKhYwLlF4](https://www.youtube.com/watch?v=saHKhYwLlF4)
+ - date_published: 2023-10-02T00:00:00+00:00
+
  ## Darkness (Full Song on Tape Cassette)
  - [https://www.youtube.com/watch?v=uQt_f8acve8](https://www.youtube.com/watch?v=uQt_f8acve8)
  - date_published: 2023-10-04T12:00:46+00:00
@@ -288,11 +292,6 @@
  ## Już nigdy nic
  - [https://www.youtube.com/watch?v=qbeRrWbdgDI](https://www.youtube.com/watch?v=qbeRrWbdgDI)
  - date_published: 2023-10-12T00:00:00+00:00
-
- ## LukHash - Mydoom
- - [https://www.youtube.com/watch?v=cB9B8Bc-nvs](https://www.youtube.com/watch?v=cB9B8Bc-nvs)
- - date_published: 2023-10-19T00:00:00+00:00
- - tags: ['keygen', 'chiptune']
 
  ## Vexento - Wandering Samurai
  - [https://www.youtube.com/watch?v=5vQvSUevVRo](https://www.youtube.com/watch?v=5vQvSUevVRo)
