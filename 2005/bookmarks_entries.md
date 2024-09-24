@@ -129,6 +129,11 @@
  - date_published: 2005-11-18T00:00:00+00:00
  - tags: ['funk']
 
+ ## Powerwolf - Return in Bloodred (FULL ALBUM)
+ - [https://www.youtube.com/watch?v=EuAQL4n5H2g](https://www.youtube.com/watch?v=EuAQL4n5H2g)
+ - date_published: 2005-11-20T00:00:00+00:00
+ - tags: ['power metal']
+
  ## Jamiroquai - Seven Days In Sunny June
  - [https://www.youtube.com/watch?v=FRSH-egVyzk](https://www.youtube.com/watch?v=FRSH-egVyzk)
  - date_published: 2005-11-24T00:00:00+00:00
