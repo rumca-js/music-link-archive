@@ -76,7 +76,7 @@
  ## Orbital - Halcyon On and On
  - [https://www.youtube.com/watch?v=bV-hSgL1R74](https://www.youtube.com/watch?v=bV-hSgL1R74)
  - date_published: 2009-02-26T00:00:00+00:00
- - tags: ['aphexy', 'trance']
+ - tags: ['aphexy', 'ambient house']
 
  ## Daft Punk - Face to Face (Official Video)
  - [https://www.youtube.com/watch?v=dKJfJMMsqX4](https://www.youtube.com/watch?v=dKJfJMMsqX4)

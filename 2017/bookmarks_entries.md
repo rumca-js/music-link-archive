@@ -683,6 +683,7 @@
  ## Snail's House - Pixel Galaxy (Official MV)
  - [https://www.youtube.com/watch?v=3nlSDxvt6JU](https://www.youtube.com/watch?v=3nlSDxvt6JU)
  - date_published: 2017-10-23T00:00:00+00:00
+ - tags: ['gaming']
 
  ## AViVA - GRRRLS
  - [https://www.youtube.com/watch?v=Shk7qcvqDOo](https://www.youtube.com/watch?v=Shk7qcvqDOo)
@@ -795,7 +796,7 @@
  ## DEEP PSYCHEDELIC DOWNTEMPO UNDERGROUND MIX | Chillout | Organic | Trip | Ambient | Deep House |
  - [https://www.youtube.com/watch?v=iNiImDNtLpQ](https://www.youtube.com/watch?v=iNiImDNtLpQ)
  - date_published: 2017-12-01T00:00:00+00:00
- - tags: ['youtube mix', 'relaxing']
+ - tags: ['youtube mix', 'psybient', 'relaxing']
 
  ## Vladimir Cauchemar - Aulos (Official Music Video)
  - [https://www.youtube.com/watch?v=hpjV962DLWs](https://www.youtube.com/watch?v=hpjV962DLWs)

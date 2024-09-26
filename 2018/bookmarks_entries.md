@@ -554,6 +554,7 @@
  ## Pachanga Boys - Time (extended mix)
  - [https://www.youtube.com/watch?v=EuqvLiB7i7g](https://www.youtube.com/watch?v=EuqvLiB7i7g)
  - date_published: 2018-07-31T00:00:00+00:00
+ - tags: ['ambient house']
 
  ## Danheim - Vikinger (feat. Sigurbodi)
  - [https://www.youtube.com/watch?v=VK3Jp5eJ-Qo](https://www.youtube.com/watch?v=VK3Jp5eJ-Qo)

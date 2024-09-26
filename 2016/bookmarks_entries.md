@@ -106,6 +106,10 @@
  - date_published: 2016-03-06T00:00:00+00:00
  - tags: ['religion']
 
+ ## SOFI TUKKER - Hey Lion (Official Audio)
+ - [https://www.youtube.com/watch?v=DeQIMBGT-fE](https://www.youtube.com/watch?v=DeQIMBGT-fE)
+ - date_published: 2016-03-07T00:00:00+00:00
+
  ## Julien Baker: NPR Music Tiny Desk Concert
  - [https://www.youtube.com/watch?v=tADWPTqR_4A](https://www.youtube.com/watch?v=tADWPTqR_4A)
  - date_published: 2016-03-07T00:00:00+00:00
@@ -223,6 +227,11 @@
  - date_published: 2016-06-02T00:00:00+00:00
  - tags: ['sampledelia']
 
+ ## Teminite - Beastmode
+ - [https://www.youtube.com/watch?v=wWN6hZu9jjE](https://www.youtube.com/watch?v=wWN6hZu9jjE)
+ - date_published: 2016-06-03T00:00:00+00:00
+ - tags: ['drum and bass']
+
  ## AURORA - Home
  - [https://www.youtube.com/watch?v=9Vpsn1PurGA](https://www.youtube.com/watch?v=9Vpsn1PurGA)
  - date_published: 2016-06-10T00:00:00+00:00
@@ -260,11 +269,6 @@
  - [https://www.youtube.com/watch?v=C7v2iGM_K3k](https://www.youtube.com/watch?v=C7v2iGM_K3k)
  - date_published: 2016-07-01T00:00:00+00:00
  - tags: ['reggae']
-
- ## SOFI TUKKER - Drinkee (Official Video)
- - [https://www.youtube.com/watch?v=dlF1KxtArCg](https://www.youtube.com/watch?v=dlF1KxtArCg)
- - date_published: 2016-07-01T00:00:00+00:00
- - tags: ['foreign']
 
  ## Los Hacheros: NPR Music Tiny Desk Concert
  - [https://www.youtube.com/watch?v=bWdZP2Qj6wA](https://www.youtube.com/watch?v=bWdZP2Qj6wA)
@@ -421,6 +425,10 @@
 
  ## Data & Picard
  - [https://www.youtube.com/watch?v=bl5TUw7sUBs](https://www.youtube.com/watch?v=bl5TUw7sUBs)
+ - date_published: 2016-10-17T00:00:00+00:00
+
+ ## SOFI TUKKER - Awoo feat. Betta Lemme (Official Video)
+ - [https://www.youtube.com/watch?v=x7g_SWE90O8](https://www.youtube.com/watch?v=x7g_SWE90O8)
  - date_published: 2016-10-17T00:00:00+00:00
 
  ## Andy Shauf - "Quite Like You"

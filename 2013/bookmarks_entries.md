@@ -202,6 +202,11 @@
  - [https://www.youtube.com/watch?v=CfihYWRWRTQ](https://www.youtube.com/watch?v=CfihYWRWRTQ)
  - date_published: 2013-05-08T00:00:00+00:00
 
+ ## Rebolledo - Guerrero (Official Video) 'Guerrero' EP
+ - [https://www.youtube.com/watch?v=mC1cEhmKhQ8](https://www.youtube.com/watch?v=mC1cEhmKhQ8)
+ - date_published: 2013-05-13T00:00:00+00:00
+ - tags: ['foreign']
+
  ## Anamanaguchi - Endless Fantasy - Full Album (HQ)
  - [https://www.youtube.com/watch?v=EP1mczaq3zo](https://www.youtube.com/watch?v=EP1mczaq3zo)
  - date_published: 2013-05-20T00:00:00+00:00
@@ -338,6 +343,11 @@
  - [https://www.youtube.com/watch?v=NF-kLy44Hls](https://www.youtube.com/watch?v=NF-kLy44Hls)
  - date_published: 2013-09-16T00:00:00+00:00
  - tags: ['french house']
+
+ ## Matias Aguayo - El Sucu Tucu (Official Video) 'The Visitor' Album
+ - [https://www.youtube.com/watch?v=_jnpLNGAm1M](https://www.youtube.com/watch?v=_jnpLNGAm1M)
+ - date_published: 2013-09-19T00:00:00+00:00
+ - tags: ['foreign']
 
  ## C2C - Delta (Official Video)
  - [https://www.youtube.com/watch?v=PZbkF-15ObM](https://www.youtube.com/watch?v=PZbkF-15ObM)

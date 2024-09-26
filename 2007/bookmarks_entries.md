@@ -51,6 +51,10 @@
  - date_published: 2007-02-14T00:00:00+00:00
  - tags: ['internet', 'cringe', 'funny']
 
+ ## Baby Dance - Ugachaka (I Can't Stop This Feeling...)
+ - [https://www.youtube.com/watch?v=Mz8CssbPUak](https://www.youtube.com/watch?v=Mz8CssbPUak)
+ - date_published: 2007-02-20T00:00:00+00:00
+
  ## Sistars - Freedom
  - [https://www.youtube.com/watch?v=a-uAxvjWzVU](https://www.youtube.com/watch?v=a-uAxvjWzVU)
  - date_published: 2007-03-12T00:00:00+00:00

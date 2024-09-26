@@ -429,6 +429,11 @@
  - date_published: 2015-09-24T00:00:00+00:00
  - tags: ['cringe']
 
+ ## Teminite - Ascent
+ - [https://www.youtube.com/watch?v=qzv-ySVqZXw](https://www.youtube.com/watch?v=qzv-ySVqZXw)
+ - date_published: 2015-09-26T00:00:00+00:00
+ - tags: ['dubstep']
+
  ## Dawid Podsiadlo - W Dobra Strone (Video Edit)
  - [https://www.youtube.com/watch?v=5iB2C8D5ezE](https://www.youtube.com/watch?v=5iB2C8D5ezE)
  - date_published: 2015-09-30T00:00:00+00:00
@@ -479,7 +484,7 @@
  ## Spag Heddy - It's Me
  - [https://www.youtube.com/watch?v=NiO4CfD4VVY](https://www.youtube.com/watch?v=NiO4CfD4VVY)
  - date_published: 2015-10-21T00:00:00+00:00
- - tags: ['drum and bass']
+ - tags: ['dubstep']
 
  ## Megaloschemos II (Bulgarian Orthodox Hymn)
  - [https://www.youtube.com/watch?v=o81A31hlgEA](https://www.youtube.com/watch?v=o81A31hlgEA)
@@ -500,6 +505,11 @@
  - [https://www.youtube.com/watch?v=evBgLWQwAFA](https://www.youtube.com/watch?v=evBgLWQwAFA)
  - date_published: 2015-11-09T00:00:00+00:00
  - tags: ['live']
+
+ ## SOFI TUKKER - Drinkee (Official Audio)
+ - [https://www.youtube.com/watch?v=6S4ToE8oGVw](https://www.youtube.com/watch?v=6S4ToE8oGVw)
+ - date_published: 2015-11-13T00:00:00+00:00
+ - tags: ['foreign']
 
  ## Adele - Hello (metal cover by Leo Moracchioli)
  - [https://www.youtube.com/watch?v=LtQUJMBH8uE](https://www.youtube.com/watch?v=LtQUJMBH8uE)

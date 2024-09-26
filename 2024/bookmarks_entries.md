@@ -203,6 +203,10 @@
  - [https://www.youtube.com/watch?v=dlkUT03r4eE](https://www.youtube.com/watch?v=dlkUT03r4eE)
  - date_published: 2024-06-07T15:30:12+00:00
 
+ ## AURORA - A Soul With No King (Live Performance) | Vevo
+ - [https://www.youtube.com/watch?v=s95nd960XsY](https://www.youtube.com/watch?v=s95nd960XsY)
+ - date_published: 2024-06-11T16:00:56+00:00
+
  ## LukHash - Magnétique
  - [https://www.youtube.com/watch?v=aIcbtk8TYo0](https://www.youtube.com/watch?v=aIcbtk8TYo0)
  - date_published: 2024-07-05T15:00:01+00:00
