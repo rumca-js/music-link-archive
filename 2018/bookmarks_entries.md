@@ -429,6 +429,11 @@
  - [https://www.youtube.com/watch?v=CKti7QixnJI](https://www.youtube.com/watch?v=CKti7QixnJI)
  - date_published: 2018-06-08T00:00:00+00:00
 
+ ## Møme - Møment I (Live Session / Bali) ft. JPL
+ - [https://www.youtube.com/watch?v=pCUez21QIhc](https://www.youtube.com/watch?v=pCUez21QIhc)
+ - date_published: 2018-06-08T00:00:00+00:00
+ - tags: ['chillout']
+
  ## Synthwave goose - Blade Runner 2049
  - [https://www.youtube.com/watch?v=_gYjh863j4g](https://www.youtube.com/watch?v=_gYjh863j4g)
  - date_published: 2018-06-18T00:00:00+00:00
@@ -700,7 +705,7 @@
  ## HEAD SPLITTER - Welcome to Night City
  - [https://www.youtube.com/watch?v=HCfgzjEEdWU](https://www.youtube.com/watch?v=HCfgzjEEdWU)
  - date_published: 2018-09-25T00:00:00+00:00
- - tags: ['synthwave']
+ - tags: ['dark techno', 'synthwave']
 
  ## Beck - Colors
  - [https://www.youtube.com/watch?v=WRCA_Fo0rWA](https://www.youtube.com/watch?v=WRCA_Fo0rWA)

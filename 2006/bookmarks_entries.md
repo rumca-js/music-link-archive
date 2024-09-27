@@ -67,11 +67,6 @@
  - date_published: 2006-04-27T00:00:00+00:00
  - tags: ['punk rock']
 
- ## White Town - Your Woman (Official HD Video)
- - [https://www.youtube.com/watch?v=lVL-zZnD3VU](https://www.youtube.com/watch?v=lVL-zZnD3VU)
- - date_published: 2006-05-16T00:00:00+00:00
- - tags: ['70s80s90s']
-
  ## Summer Wine (Single Edit)
  - [https://www.youtube.com/watch?v=KIvz5zYXCoI](https://www.youtube.com/watch?v=KIvz5zYXCoI)
  - date_published: 2006-05-24T00:00:00+00:00
