@@ -92,6 +92,10 @@
  - [https://www.youtube.com/watch?v=9Pes54J8PVw](https://www.youtube.com/watch?v=9Pes54J8PVw)
  - date_published: 2010-02-24T00:00:00+00:00
 
+ ## Eric Clapton - Change The World
+ - [https://www.youtube.com/watch?v=x11NA63gLDM](https://www.youtube.com/watch?v=x11NA63gLDM)
+ - date_published: 2010-02-25T00:00:00+00:00
+
  ## Niwea - Miły Młody Człowiek (official video)
  - [https://www.youtube.com/watch?v=grrhxjGVerc](https://www.youtube.com/watch?v=grrhxjGVerc)
  - date_published: 2010-02-26T00:00:00+00:00

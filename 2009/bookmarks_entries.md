@@ -375,6 +375,10 @@
  - date_published: 2009-07-01T00:00:00+00:00
  - tags: ['pop']
 
+ ## Eureka Seven Opening 2 HD High definition
+ - [https://www.youtube.com/watch?v=i81fGPmMpj4](https://www.youtube.com/watch?v=i81fGPmMpj4)
+ - date_published: 2009-07-01T00:00:00+00:00
+
  ## Vitalic - Poney Part 1
  - [https://www.youtube.com/watch?v=JukJgxLiFLE](https://www.youtube.com/watch?v=JukJgxLiFLE)
  - date_published: 2009-07-01T00:00:00+00:00
@@ -483,6 +487,10 @@
  - date_published: 2009-10-03T00:00:00+00:00
  - tags: ['pop']
 
+ ## The Strokes - Reptilia (Official HD Video)
+ - [https://www.youtube.com/watch?v=b8-tXG8KrWs](https://www.youtube.com/watch?v=b8-tXG8KrWs)
+ - date_published: 2009-10-03T00:00:00+00:00
+
  ## Three Days Grace - I Hate Everything About You (Official Video)
  - [https://www.youtube.com/watch?v=d8ekz_CSBVg](https://www.youtube.com/watch?v=d8ekz_CSBVg)
  - date_published: 2009-10-03T00:00:00+00:00
@@ -501,6 +509,10 @@
  - [https://www.youtube.com/watch?v=lOfZLb33uCg](https://www.youtube.com/watch?v=lOfZLb33uCg)
  - date_published: 2009-10-03T00:00:00+00:00
  - tags: ['funny']
+
+ ## The Strokes - You Only Live Once (Official HD Video)
+ - [https://www.youtube.com/watch?v=pT68FS3YbQ4](https://www.youtube.com/watch?v=pT68FS3YbQ4)
+ - date_published: 2009-10-03T00:00:00+00:00
 
  ## Foo Fighters - Times Like These (Official HD Video)
  - [https://www.youtube.com/watch?v=rhzmNRtIp8k](https://www.youtube.com/watch?v=rhzmNRtIp8k)
@@ -522,6 +534,10 @@
  - [https://www.youtube.com/watch?v=sTJ1XwGDcA4](https://www.youtube.com/watch?v=sTJ1XwGDcA4)
  - date_published: 2009-10-05T00:00:00+00:00
  - tags: ['70s80s90s']
+
+ ## The Wallflowers - One Headlight (Official Music Video)
+ - [https://www.youtube.com/watch?v=Zzyfcys1aLM](https://www.youtube.com/watch?v=Zzyfcys1aLM)
+ - date_published: 2009-10-05T00:00:00+00:00
 
  ## The Rasmus - In the Shadows (US Version)
  - [https://www.youtube.com/watch?v=_ao2u7F_Qzg](https://www.youtube.com/watch?v=_ao2u7F_Qzg)
@@ -598,10 +614,12 @@
  ## MGMT - Time to Pretend (Official HD Video)
  - [https://www.youtube.com/watch?v=B9dSYgd5Elk](https://www.youtube.com/watch?v=B9dSYgd5Elk)
  - date_published: 2009-10-25T00:00:00+00:00
+ - tags: ['indie pop']
 
  ## MGMT - Kids (Official HD Video)
  - [https://www.youtube.com/watch?v=fe4EK4HSPkI](https://www.youtube.com/watch?v=fe4EK4HSPkI)
  - date_published: 2009-10-25T00:00:00+00:00
+ - tags: ['indie pop']
 
  ## Incubus - Drive
  - [https://www.youtube.com/watch?v=fgT9zGkiLig](https://www.youtube.com/watch?v=fgT9zGkiLig)
@@ -620,6 +638,10 @@
  - [https://www.youtube.com/watch?v=6BnT_wkuMBA](https://www.youtube.com/watch?v=6BnT_wkuMBA)
  - date_published: 2009-10-26T00:00:00+00:00
  - tags: ['hip-hop']
+
+ ## Eric Clapton - My Father's Eyes (Official Music Video) | Warner Vault
+ - [https://www.youtube.com/watch?v=bocDpFVhyDw](https://www.youtube.com/watch?v=bocDpFVhyDw)
+ - date_published: 2009-10-27T00:00:00+00:00
 
  ## Deee-Lite - Groove Is In The Heart (Official Video)
  - [https://www.youtube.com/watch?v=etviGf1uWlg](https://www.youtube.com/watch?v=etviGf1uWlg)

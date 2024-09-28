@@ -325,6 +325,11 @@
  - [https://www.youtube.com/watch?v=kSCLon-1wTo](https://www.youtube.com/watch?v=kSCLon-1wTo)
  - date_published: 2023-11-13T15:59:32+00:00
 
+ ## Classic Blues Music Best Songs - Excellent Collections of Vintage Blues Songs - Best Blues Mix
+ - [https://www.youtube.com/watch?v=YUH1IeR1sqo](https://www.youtube.com/watch?v=YUH1IeR1sqo)
+ - date_published: 2023-11-23T00:00:00+00:00
+ - tags: ['youtube mix', 'blues']
+
  ## Stilz - Initiate (Castroe Remix)
  - [https://www.youtube.com/watch?v=Bte7zzYL1x8](https://www.youtube.com/watch?v=Bte7zzYL1x8)
  - date_published: 2023-11-24T16:30:02+00:00

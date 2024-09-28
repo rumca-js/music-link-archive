@@ -193,6 +193,14 @@
  - date_published: 1992-09-19T00:00:00+00:00
  - tags: ['jungle']
 
+ ## Running on Faith (Acoustic Live)
+ - [https://www.youtube.com/watch?v=6WzWzCDqWgs](https://www.youtube.com/watch?v=6WzWzCDqWgs)
+ - date_published: 1992-09-29T00:00:00+00:00
+
+ ## Signe (Acoustic Live)
+ - [https://www.youtube.com/watch?v=8mhbCa2RGRs](https://www.youtube.com/watch?v=8mhbCa2RGRs)
+ - date_published: 1992-09-29T00:00:00+00:00
+
  ## Michael Jackson - Remember The Time (Official Video)
  - [https://www.youtube.com/watch?v=LeiFF0gvqcc](https://www.youtube.com/watch?v=LeiFF0gvqcc)
  - date_published: 1992-10-03T00:00:00+00:00

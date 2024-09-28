@@ -22,6 +22,10 @@
  - date_published: 1977-10-09T00:00:00+00:00
  - tags: ['pop']
 
+ ## Cocaine
+ - [https://www.youtube.com/watch?v=O6yeLNNVa4A](https://www.youtube.com/watch?v=O6yeLNNVa4A)
+ - date_published: 1977-10-30T00:00:00+00:00
+
  ## Heart - "Barracuda" (1977)
  - [https://www.youtube.com/watch?v=PeMvMNpvB5M](https://www.youtube.com/watch?v=PeMvMNpvB5M)
  - date_published: 1977-12-18T00:00:00+00:00

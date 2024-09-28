@@ -166,6 +166,10 @@
  - date_published: 1999-10-05T00:00:00+00:00
  - tags: ['nu metal']
 
+ ## Eric Clapton - Old Love (amazing live version)
+ - [https://www.youtube.com/watch?v=O_j9KEjrY4o](https://www.youtube.com/watch?v=O_j9KEjrY4o)
+ - date_published: 1999-10-05T00:00:00+00:00
+
  ## Marilyn Manson - Coma White
  - [https://www.youtube.com/watch?v=QQPJYnr48yU](https://www.youtube.com/watch?v=QQPJYnr48yU)
  - date_published: 1999-10-08T00:00:00+00:00
@@ -203,6 +207,10 @@
  - [https://www.youtube.com/watch?v=VC4ORS5n9Hg](https://www.youtube.com/watch?v=VC4ORS5n9Hg)
  - date_published: 1999-10-25T00:00:00+00:00
  - tags: ['hip-hop']
+
+ ## Eric Clapton - Wonderful Tonight [Official Live]
+ - [https://www.youtube.com/watch?v=UprwkbzUX6g](https://www.youtube.com/watch?v=UprwkbzUX6g)
+ - date_published: 1999-10-27T00:00:00+00:00
 
  ## Red Hot Chili Peppers - Californication (Official Music Video) [HD UPGRADE]
  - [https://www.youtube.com/watch?v=YlUKcNNmywk](https://www.youtube.com/watch?v=YlUKcNNmywk)

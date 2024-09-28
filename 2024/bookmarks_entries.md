@@ -199,6 +199,10 @@
  - [https://www.youtube.com/watch?v=uKsyE3y1bVw](https://www.youtube.com/watch?v=uKsyE3y1bVw)
  - date_published: 2024-06-06T22:00:43+00:00
 
+ ## AURORA - Earthly Delights (Visualiser)
+ - [https://www.youtube.com/watch?v=vEpfjJy53ko](https://www.youtube.com/watch?v=vEpfjJy53ko)
+ - date_published: 2024-06-07T08:04:18+00:00
+
  ## LukHash - Dream Off
  - [https://www.youtube.com/watch?v=dlkUT03r4eE](https://www.youtube.com/watch?v=dlkUT03r4eE)
  - date_published: 2024-06-07T15:30:12+00:00

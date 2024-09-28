@@ -71,6 +71,18 @@
  - date_published: 1989-09-12T00:00:00+00:00
  - tags: ['post-punk', '70s80s90spl']
 
+ ## Before You Accuse Me
+ - [https://www.youtube.com/watch?v=416wa6CHs04](https://www.youtube.com/watch?v=416wa6CHs04)
+ - date_published: 1989-09-29T00:00:00+00:00
+
+ ## Old Love
+ - [https://www.youtube.com/watch?v=kjKbuwhiW6s](https://www.youtube.com/watch?v=kjKbuwhiW6s)
+ - date_published: 1989-09-29T00:00:00+00:00
+
+ ## Bad Love
+ - [https://www.youtube.com/watch?v=QcmcAUQtcVM](https://www.youtube.com/watch?v=QcmcAUQtcVM)
+ - date_published: 1989-09-29T00:00:00+00:00
+
  ## Billy Joel - We Didn't Start the Fire (Official Video)
  - [https://www.youtube.com/watch?v=eFTLKWw542g](https://www.youtube.com/watch?v=eFTLKWw542g)
  - date_published: 1989-10-03T00:00:00+00:00

@@ -47,6 +47,10 @@
  - date_published: 1970-10-23T00:00:00+00:00
  - tags: ['aaaa']
 
+ ## Layla
+ - [https://www.youtube.com/watch?v=5dCSUD37qxQ](https://www.youtube.com/watch?v=5dCSUD37qxQ)
+ - date_published: 1970-10-30T00:00:00+00:00
+
  ## TOP 100 VIETNAM WAR SONGS GREATEST rock n roll vietnam war music 60s 70s classic rock songs
  - [https://www.youtube.com/watch?v=_-5cYbk-QYI](https://www.youtube.com/watch?v=_-5cYbk-QYI)
  - date_published: 1970-11-25T00:00:00+00:00

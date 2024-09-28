@@ -40,6 +40,10 @@
  - date_published: 1975-07-29T00:00:00+00:00
  - tags: ['ethio-jazz', 'full album']
 
+ ## Knockin' On Heaven's Door
+ - [https://www.youtube.com/watch?v=9jPi0Ag-AZw](https://www.youtube.com/watch?v=9jPi0Ag-AZw)
+ - date_published: 1975-07-31T00:00:00+00:00
+
  ## The Temple Of The King
  - [https://www.youtube.com/watch?v=B7nKzCRL_oo](https://www.youtube.com/watch?v=B7nKzCRL_oo)
  - date_published: 1975-07-31T00:00:00+00:00

@@ -121,6 +121,10 @@
  - date_published: 2007-06-02T00:00:00+00:00
  - tags: ['chiptune']
 
+ ## Arctic Monkeys - Fluorescent Adolescent (Official Video)
+ - [https://www.youtube.com/watch?v=ma9I9VBKPiw](https://www.youtube.com/watch?v=ma9I9VBKPiw)
+ - date_published: 2007-06-06T00:00:00+00:00
+
  ## 100 Amiga games in 10 minutes!
  - [https://www.youtube.com/watch?v=hUoJBerFDsA](https://www.youtube.com/watch?v=hUoJBerFDsA)
  - date_published: 2007-06-09T00:00:00+00:00
@@ -249,6 +253,18 @@
  ## Yaro - "Rowery Dwa" - video
  - [https://www.youtube.com/watch?v=WJ5JYqRtQFQ](https://www.youtube.com/watch?v=WJ5JYqRtQFQ)
  - date_published: 2007-10-24T00:00:00+00:00
+
+ ## Eric Clapton - "Forever Man" [Official Music Video]
+ - [https://www.youtube.com/watch?v=0gDvR1sZ6I4](https://www.youtube.com/watch?v=0gDvR1sZ6I4)
+ - date_published: 2007-10-27T00:00:00+00:00
+
+ ## Eric Clapton - Blue Eyes Blue (Video)
+ - [https://www.youtube.com/watch?v=HNOR36mPtbk](https://www.youtube.com/watch?v=HNOR36mPtbk)
+ - date_published: 2007-10-27T00:00:00+00:00
+
+ ## Eric Clapton - "Pretending" [Official Music Video]
+ - [https://www.youtube.com/watch?v=zm2PvnM7Vds](https://www.youtube.com/watch?v=zm2PvnM7Vds)
+ - date_published: 2007-10-27T00:00:00+00:00
 
  ## Strawberry Fields Forever (From "Across The Universe" Soundtrack)
  - [https://www.youtube.com/watch?v=FPEl86wxqbs](https://www.youtube.com/watch?v=FPEl86wxqbs)

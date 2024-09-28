@@ -72,6 +72,11 @@
  - date_published: 2011-02-24T00:00:00+00:00
  - tags: ['electronic', 'full album']
 
+ ## The Strokes - Under Cover of Darkness (Official Video)
+ - [https://www.youtube.com/watch?v=_l09H-3zzgA](https://www.youtube.com/watch?v=_l09H-3zzgA)
+ - date_published: 2011-02-26T00:00:00+00:00
+ - tags: ['indie rock']
+
  ## Flux Pavilion - Bass Cannon
  - [https://www.youtube.com/watch?v=h3cE9iXIx9c](https://www.youtube.com/watch?v=h3cE9iXIx9c)
  - date_published: 2011-03-07T00:00:00+00:00

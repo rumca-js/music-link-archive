@@ -69,6 +69,10 @@
  - date_published: 1991-07-18T00:00:00+00:00
  - tags: ['grunge']
 
+ ## Eric Clapton - Tears In Heaven (Official Video)
+ - [https://www.youtube.com/watch?v=JxPj3GAYYZ0](https://www.youtube.com/watch?v=JxPj3GAYYZ0)
+ - date_published: 1991-07-22T00:00:00+00:00
+
  ## Unchain My Heart
  - [https://www.youtube.com/watch?v=vYuhA1rQkaM](https://www.youtube.com/watch?v=vYuhA1rQkaM)
  - date_published: 1991-07-25T00:00:00+00:00

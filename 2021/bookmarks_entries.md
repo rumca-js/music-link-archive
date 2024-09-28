@@ -432,6 +432,10 @@
  - date_published: 2021-09-20T00:00:00+00:00
  - tags: ['youtube mix', 'relaxing']
 
+ ## Eric Clapton - After Midnight | The Lady In The Balcony: Lockdown Sessions
+ - [https://www.youtube.com/watch?v=MkrA-gSG-vE](https://www.youtube.com/watch?v=MkrA-gSG-vE)
+ - date_published: 2021-09-24T00:00:00+00:00
+
  ## 1 Hour of Chad Orthodox Chants to Redeem Your Soul
  - [https://www.youtube.com/watch?v=_xaj8QSJZ0E](https://www.youtube.com/watch?v=_xaj8QSJZ0E)
  - date_published: 2021-10-04T00:00:00+00:00

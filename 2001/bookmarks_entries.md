@@ -268,6 +268,7 @@
  ## The Strokes - Last Nite (Official HD Video)
  - [https://www.youtube.com/watch?v=TOypSnKFHrE](https://www.youtube.com/watch?v=TOypSnKFHrE)
  - date_published: 2001-10-03T00:00:00+00:00
+ - tags: ['indie rock']
 
  ## The Cranberries MIX - The Cranberries Greatest Hits - Top 10 Best The Cranberries Songs
  - [https://www.youtube.com/watch?v=xbnOkQdz3Go](https://www.youtube.com/watch?v=xbnOkQdz3Go)
@@ -355,6 +356,11 @@
  - [https://www.youtube.com/watch?v=1hHSH9sJUEo](https://www.youtube.com/watch?v=1hHSH9sJUEo)
  - date_published: 2001-11-08T00:00:00+00:00
  - tags: ['funk']
+
+ ## ERIC CLAPTON Live at Budokan, Tokyo, 2001 (Full Concert)
+ - [https://www.youtube.com/watch?v=3FE70D5mRp0](https://www.youtube.com/watch?v=3FE70D5mRp0)
+ - date_published: 2001-11-21T00:00:00+00:00
+ - tags: ['blues', 'concert']
 
  ## Creed - My Sacrifice
  - [https://www.youtube.com/watch?v=O-fyNgHdmLI&pp=ygUFY3JlZWQ%3D](https://www.youtube.com/watch?v=O-fyNgHdmLI&pp=ygUFY3JlZWQ%3D)

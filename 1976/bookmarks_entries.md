@@ -50,6 +50,10 @@
  - date_published: 1976-10-29T00:00:00+00:00
  - tags: ['dub']
 
+ ## Eric Clapton - I've Got A Rock N'roll Heart
+ - [https://www.youtube.com/watch?v=bMiBbAvsFfY](https://www.youtube.com/watch?v=bMiBbAvsFfY)
+ - date_published: 1976-11-17T00:00:00+00:00
+
  ## Jean Michel Jarre — Oxygene (1976/Full album)
  - [https://www.youtube.com/watch?v=5ab7tIZNplM](https://www.youtube.com/watch?v=5ab7tIZNplM)
  - date_published: 1976-12-10T00:00:00+00:00

@@ -46,6 +46,10 @@
  - date_published: 1978-06-21T00:00:00+00:00
  - tags: ['70s80s90s', 'disco']
 
+ ## Promises
+ - [https://www.youtube.com/watch?v=U8P0EVFKV74](https://www.youtube.com/watch?v=U8P0EVFKV74)
+ - date_published: 1978-07-26T00:00:00+00:00
+
  ## Queen - Don't Stop Me Now (Official Video)
  - [https://www.youtube.com/watch?v=HgzGwKwLmgM](https://www.youtube.com/watch?v=HgzGwKwLmgM)
  - date_published: 1978-08-01T00:00:00+00:00
@@ -69,4 +73,5 @@
  ## Equinoxe 5
  - [https://www.youtube.com/watch?v=MO7--KBgpAQ](https://www.youtube.com/watch?v=MO7--KBgpAQ)
  - date_published: 1978-11-04T00:00:00+00:00
+ - tags: ['synth-pop', 'space music', 'electronic']
 

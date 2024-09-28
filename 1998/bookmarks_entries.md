@@ -117,6 +117,14 @@
  - date_published: 1998-09-15T00:00:00+00:00
  - tags: ['hip-hop']
 
+ ## My Father's Eyes
+ - [https://www.youtube.com/watch?v=7JibodCUsLU](https://www.youtube.com/watch?v=7JibodCUsLU)
+ - date_published: 1998-09-29T00:00:00+00:00
+
+ ## River of Tears
+ - [https://www.youtube.com/watch?v=OxbEUmWqwz8](https://www.youtube.com/watch?v=OxbEUmWqwz8)
+ - date_published: 1998-09-29T00:00:00+00:00
+
  ## Paul van Dyk - For An Angel (1998)
  - [https://www.youtube.com/watch?v=--3eIRSg2RY](https://www.youtube.com/watch?v=--3eIRSg2RY)
  - date_published: 1998-10-01T00:00:00+00:00
