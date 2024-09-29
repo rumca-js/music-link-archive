@@ -135,6 +135,10 @@
  - date_published: 1998-10-04T00:00:00+00:00
  - tags: ['full album', 'symphonic metal']
 
+ ## Marilyn Manson - Sweet Dreams (Are Made Of This) (Alt. Version)
+ - [https://www.youtube.com/watch?v=QUvVdTlA23w](https://www.youtube.com/watch?v=QUvVdTlA23w)
+ - date_published: 1998-10-08T00:00:00+00:00
+
  ## Theatre of Tragedy - Cassandra
  - [https://www.youtube.com/watch?v=_J4Onll7VNs](https://www.youtube.com/watch?v=_J4Onll7VNs)
  - date_published: 1998-10-10T00:00:00+00:00

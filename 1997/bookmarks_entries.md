@@ -171,6 +171,10 @@
  - date_published: 1997-11-06T00:00:00+00:00
  - tags: ['punk']
 
+ ## Tiamat ~ A deeper kind of slumber (full album)
+ - [https://www.youtube.com/watch?v=G-zGdOaUWCk](https://www.youtube.com/watch?v=G-zGdOaUWCk)
+ - date_published: 1997-11-14T00:00:00+00:00
+
  ## Elektryczne Gitary - Kiler
  - [https://www.youtube.com/watch?v=leYyu4wH4dQ](https://www.youtube.com/watch?v=leYyu4wH4dQ)
  - date_published: 1997-11-15T00:00:00+00:00

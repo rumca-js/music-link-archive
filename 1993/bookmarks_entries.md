@@ -3,11 +3,6 @@
  - date_published: 1993-01-21T00:00:00+00:00
  - tags: ['hip-hop']
 
- ## AMORPHIS - Tales From The Thousand Lakes (Full Album Stream)
- - [https://www.youtube.com/watch?v=trrtsdy4EL0](https://www.youtube.com/watch?v=trrtsdy4EL0)
- - date_published: 1993-01-21T00:00:00+00:00
- - tags: ['full album', 'death metal']
-
  ## Wu-Tang Clan - Method Man (Official Video)
  - [https://www.youtube.com/watch?v=PEnwXYJcSZc](https://www.youtube.com/watch?v=PEnwXYJcSZc)
  - date_published: 1993-02-07T00:00:00+00:00
@@ -207,6 +202,10 @@
  - [https://www.youtube.com/watch?v=RijB8wnJCN0](https://www.youtube.com/watch?v=RijB8wnJCN0)
  - date_published: 1993-10-25T00:00:00+00:00
  - tags: ['hip-hop']
+
+ ## Sepultura - Territory [OFFICIAL VIDEO]
+ - [https://www.youtube.com/watch?v=Q_WHGV5bejk](https://www.youtube.com/watch?v=Q_WHGV5bejk)
+ - date_published: 1993-10-27T00:00:00+00:00
 
  ## Bjork - Come to me
  - [https://www.youtube.com/watch?v=PJ10NHdU11Y](https://www.youtube.com/watch?v=PJ10NHdU11Y)

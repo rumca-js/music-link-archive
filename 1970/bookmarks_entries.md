@@ -23,6 +23,10 @@
  - date_published: 1970-04-21T00:00:00+00:00
  - tags: ['youtube mix']
 
+ ## Deep Purple - Child In Time - Live (1970)
+ - [https://www.youtube.com/watch?v=OorZcOzNcgE](https://www.youtube.com/watch?v=OorZcOzNcgE)
+ - date_published: 1970-05-25T00:00:00+00:00
+
  ## Focus - Hocus Pocus
  - [https://www.youtube.com/watch?v=MV0F_XiR48Q](https://www.youtube.com/watch?v=MV0F_XiR48Q)
  - date_published: 1970-06-08T00:00:00+00:00

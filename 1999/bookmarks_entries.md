@@ -170,6 +170,10 @@
  - [https://www.youtube.com/watch?v=O_j9KEjrY4o](https://www.youtube.com/watch?v=O_j9KEjrY4o)
  - date_published: 1999-10-05T00:00:00+00:00
 
+ ## Marilyn Manson - The Dope Show (Official Music Video)
+ - [https://www.youtube.com/watch?v=5R682M3ZEyk](https://www.youtube.com/watch?v=5R682M3ZEyk)
+ - date_published: 1999-10-08T00:00:00+00:00
+
  ## Marilyn Manson - Coma White
  - [https://www.youtube.com/watch?v=QQPJYnr48yU](https://www.youtube.com/watch?v=QQPJYnr48yU)
  - date_published: 1999-10-08T00:00:00+00:00

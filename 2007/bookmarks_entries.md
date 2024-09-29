@@ -102,11 +102,6 @@
  - date_published: 2007-04-18T00:00:00+00:00
  - tags: ['funny', 'weird', 'hip-hop']
 
- ## AMORPHIS - "Black Winter Day" (Official Music Video)
- - [https://www.youtube.com/watch?v=FxG5pjI8wLk](https://www.youtube.com/watch?v=FxG5pjI8wLk)
- - date_published: 2007-04-19T00:00:00+00:00
- - tags: ['death metal']
-
  ## Alanis Morissette - You Oughta Know (Official 4K Music Video)
  - [https://www.youtube.com/watch?v=NPcyTyilmYY](https://www.youtube.com/watch?v=NPcyTyilmYY)
  - date_published: 2007-05-17T00:00:00+00:00

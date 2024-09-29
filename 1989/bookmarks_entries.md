@@ -43,6 +43,11 @@
  - date_published: 1989-06-03T00:00:00+00:00
  - tags: ['70s80s90s']
 
+ ## Candlemass - Tales Of Creation (full album) [1989]
+ - [https://www.youtube.com/watch?v=oGHcrR7X1bE](https://www.youtube.com/watch?v=oGHcrR7X1bE)
+ - date_published: 1989-07-02T00:00:00+00:00
+ - tags: ['full album', 'doom metal']
+
  ## Rockin' in the Free World
  - [https://www.youtube.com/watch?v=DvxxdZpMFHg](https://www.youtube.com/watch?v=DvxxdZpMFHg)
  - date_published: 1989-07-19T00:00:00+00:00

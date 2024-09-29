@@ -12,6 +12,10 @@
  - date_published: 1972-07-31T00:00:00+00:00
  - tags: ['70s80s90s']
 
+ ## Deep Purple - Highway Star 1972 Video HQ
+ - [https://www.youtube.com/watch?v=UAKCR7kQMTQ](https://www.youtube.com/watch?v=UAKCR7kQMTQ)
+ - date_published: 1972-11-10T00:00:00+00:00
+
  ## B̲lack S̲abbath – V̲ol 4 (Full Album) 1972
  - [https://www.youtube.com/watch?v=LU99kUnWW3E](https://www.youtube.com/watch?v=LU99kUnWW3E)
  - date_published: 1972-12-01T00:00:00+00:00

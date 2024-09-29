@@ -33,6 +33,10 @@
  - date_published: 1992-01-14T00:00:00+00:00
  - tags: ['post-punk', '70s80s90spl']
 
+ ## TIAMAT - The Sleeping Beauty (OFFICIAL VIDEO)
+ - [https://www.youtube.com/watch?v=KPS4HEc8KLQ](https://www.youtube.com/watch?v=KPS4HEc8KLQ)
+ - date_published: 1992-01-14T00:00:00+00:00
+
  ## No Ordinary Love (Remastered)
  - [https://www.youtube.com/watch?v=s7zwEjYHH0I](https://www.youtube.com/watch?v=s7zwEjYHH0I)
  - date_published: 1992-01-20T00:00:00+00:00
@@ -46,6 +50,10 @@
  - [https://www.youtube.com/watch?v=U8b88US-6ts](https://www.youtube.com/watch?v=U8b88US-6ts)
  - date_published: 1992-02-21T00:00:00+00:00
  - tags: ['rock']
+
+ ## In a Dream
+ - [https://www.youtube.com/watch?v=BsADszPVcK0](https://www.youtube.com/watch?v=BsADszPVcK0)
+ - date_published: 1992-02-22T00:00:00+00:00
 
  ## The Cure - Friday I'm In Love
  - [https://www.youtube.com/watch?v=mGgMZpGYiy8](https://www.youtube.com/watch?v=mGgMZpGYiy8)
@@ -219,6 +227,11 @@
  - [https://www.youtube.com/watch?v=MSaohyJ_E2w](https://www.youtube.com/watch?v=MSaohyJ_E2w)
  - date_published: 1992-10-09T00:00:00+00:00
  - tags: ['chiptune']
+
+ ## Tiamat - Clouds (1992) full album
+ - [https://www.youtube.com/watch?v=1FDb2Tgzf7s](https://www.youtube.com/watch?v=1FDb2Tgzf7s)
+ - date_published: 1992-10-10T00:00:00+00:00
+ - tags: ['full album']
 
  ## Tränen der Sehnsucht
  - [https://www.youtube.com/watch?v=2_q6g5uqSmM](https://www.youtube.com/watch?v=2_q6g5uqSmM)

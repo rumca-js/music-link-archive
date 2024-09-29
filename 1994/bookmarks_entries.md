@@ -12,6 +12,10 @@
  - date_published: 1994-01-06T00:00:00+00:00
  - tags: ['progressive rock']
 
+ ## TIAMAT - Brighter Than The Sun (OFFICIAL VIDEO)
+ - [https://www.youtube.com/watch?v=aqyjQ6-avK8](https://www.youtube.com/watch?v=aqyjQ6-avK8)
+ - date_published: 1994-01-07T00:00:00+00:00
+
  ## Pink Floyd - What Do You Want From Me
  - [https://www.youtube.com/watch?v=A8i7248HqEY](https://www.youtube.com/watch?v=A8i7248HqEY)
  - date_published: 1994-01-08T00:00:00+00:00
@@ -20,6 +24,15 @@
  ## Cluster One
  - [https://www.youtube.com/watch?v=hoEDw18mkbU](https://www.youtube.com/watch?v=hoEDw18mkbU)
  - date_published: 1994-01-08T00:00:00+00:00
+
+ ## TIAMAT - Whatever That Hurts (OFFICIAL VIDEO)
+ - [https://www.youtube.com/watch?v=iB9YYC-8jwY](https://www.youtube.com/watch?v=iB9YYC-8jwY)
+ - date_published: 1994-01-16T00:00:00+00:00
+
+ ## AMORPHIS - Tales From The Thousand Lakes (Full Album Stream)
+ - [https://www.youtube.com/watch?v=trrtsdy4EL0](https://www.youtube.com/watch?v=trrtsdy4EL0)
+ - date_published: 1994-01-21T00:00:00+00:00
+ - tags: ['full album', 'death metal']
 
  ## Blur - Parklife (Official 4K Music Video)
  - [https://www.youtube.com/watch?v=YSuHrTfcikU](https://www.youtube.com/watch?v=YSuHrTfcikU)
@@ -47,6 +60,16 @@
  ## Justyna Steczkowska   'Boskie Buenos Buenos Aires' Szansa na sukces
  - [https://www.youtube.com/watch?v=tMfHxbnUpuw](https://www.youtube.com/watch?v=tMfHxbnUpuw)
  - date_published: 1994-04-06T00:00:00+00:00
+
+ ## AMORPHIS - "Black Winter Day" (Official Music Video)
+ - [https://www.youtube.com/watch?v=FxG5pjI8wLk](https://www.youtube.com/watch?v=FxG5pjI8wLk)
+ - date_published: 1994-04-19T00:00:00+00:00
+ - tags: ['death metal']
+
+ ## Tiamat - Wildhoney (1994) [Full Album]
+ - [https://www.youtube.com/watch?v=CH5agUgipZc](https://www.youtube.com/watch?v=CH5agUgipZc)
+ - date_published: 1994-05-17T00:00:00+00:00
+ - tags: ['full album']
 
  ## Nas - N.Y. State of Mind (Official Audio)
  - [https://www.youtube.com/watch?v=hI8A14Qcv68](https://www.youtube.com/watch?v=hI8A14Qcv68)

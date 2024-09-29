@@ -309,6 +309,34 @@
  - date_published: 2018-04-24T00:00:00+00:00
  - tags: ['funny']
 
+ ## A Perfect Circle - Eat The Elephant [Audio]
+ - [https://www.youtube.com/watch?v=7IpKcDvAHow](https://www.youtube.com/watch?v=7IpKcDvAHow)
+ - date_published: 2018-04-24T17:00:01+00:00
+
+ ## A Perfect Circle - By And Down The River [Audio]
+ - [https://www.youtube.com/watch?v=IL2N7d4WXzw](https://www.youtube.com/watch?v=IL2N7d4WXzw)
+ - date_published: 2018-04-24T17:00:01+00:00
+
+ ## A Perfect Circle - Delicious [Audio]
+ - [https://www.youtube.com/watch?v=M9kxjxHNtbs](https://www.youtube.com/watch?v=M9kxjxHNtbs)
+ - date_published: 2018-04-24T17:00:02+00:00
+
+ ## A Perfect Circle - The Contrarian [Audio]
+ - [https://www.youtube.com/watch?v=TZnraQmPFq8](https://www.youtube.com/watch?v=TZnraQmPFq8)
+ - date_published: 2018-04-24T17:00:03+00:00
+
+ ## A Perfect Circle - Feathers [Audio]
+ - [https://www.youtube.com/watch?v=lLre0GVbJK0](https://www.youtube.com/watch?v=lLre0GVbJK0)
+ - date_published: 2018-04-24T17:00:08+00:00
+
+ ## A Perfect Circle - Get The Lead Out [Audio]
+ - [https://www.youtube.com/watch?v=u_KhWud4sUA](https://www.youtube.com/watch?v=u_KhWud4sUA)
+ - date_published: 2018-04-24T17:00:09+00:00
+
+ ## A Perfect Circle - Hourglass [Audio]
+ - [https://www.youtube.com/watch?v=nShkRKrozrA](https://www.youtube.com/watch?v=nShkRKrozrA)
+ - date_published: 2018-04-24T17:00:10+00:00
+
  ## Skjalg A. Skagen - Decades
  - [https://www.youtube.com/watch?v=6wn7De2awKs](https://www.youtube.com/watch?v=6wn7De2awKs)
  - date_published: 2018-05-01T00:00:00+00:00

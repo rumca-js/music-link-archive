@@ -403,6 +403,11 @@
  - [https://www.youtube.com/watch?v=52Gg9CqhbP8](https://www.youtube.com/watch?v=52Gg9CqhbP8)
  - date_published: 2012-11-26T00:00:00+00:00
 
+ ## Candlemass - Ancient dreams(full album)
+ - [https://www.youtube.com/watch?v=fifqBn0Gyoc](https://www.youtube.com/watch?v=fifqBn0Gyoc)
+ - date_published: 2012-11-27T00:00:00+00:00
+ - tags: ['full album', 'doom metal']
+
  ## Ona tańczy dla mnie (jazz cover) by CeZik
  - [https://www.youtube.com/watch?v=YdXr6epIwF0](https://www.youtube.com/watch?v=YdXr6epIwF0)
  - date_published: 2012-11-28T00:00:00+00:00

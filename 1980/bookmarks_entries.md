@@ -98,6 +98,10 @@
  - date_published: 1980-10-08T00:00:00+00:00
  - tags: ['70s80s90s']
 
+ ## Motörhead – Ace Of Spades (Official Video)
+ - [https://www.youtube.com/watch?v=3mbvWn1EY6g](https://www.youtube.com/watch?v=3mbvWn1EY6g)
+ - date_published: 1980-10-27T00:00:00+00:00
+
  ## The B 52's - Private Idaho (HQ)
  - [https://www.youtube.com/watch?v=ASHO3gOSnaM](https://www.youtube.com/watch?v=ASHO3gOSnaM)
  - date_published: 1980-10-29T00:00:00+00:00
