@@ -43,8 +43,18 @@
  - date_published: 2005-04-20T00:00:00+00:00
  - tags: ['heavy metal']
 
+ ## Natural Dread Killaz - Good sensi
+ - [https://www.youtube.com/watch?v=aWddm6sgjUQ](https://www.youtube.com/watch?v=aWddm6sgjUQ)
+ - date_published: 2005-05-12T00:00:00+00:00
+ - tags: ['reggae']
+
  ## Serce
  - [https://www.youtube.com/watch?v=Gr3o_inhLks](https://www.youtube.com/watch?v=Gr3o_inhLks)
+ - date_published: 2005-05-28T00:00:00+00:00
+ - tags: ['reggae']
+
+ ## Bless
+ - [https://www.youtube.com/watch?v=oPyw_qf2WMc](https://www.youtube.com/watch?v=oPyw_qf2WMc)
  - date_published: 2005-05-28T00:00:00+00:00
  - tags: ['reggae']
 
@@ -123,6 +133,11 @@
  - [https://www.youtube.com/watch?v=t09higEubD8](https://www.youtube.com/watch?v=t09higEubD8)
  - date_published: 2005-11-07T00:00:00+00:00
  - tags: ['electronic', 'full album', 'aphexy']
+
+ ## Jamal - Kiedys Bedzie Nas Wiecej [Official Music Video]
+ - [https://www.youtube.com/watch?v=C81ig24IPpE](https://www.youtube.com/watch?v=C81ig24IPpE)
+ - date_published: 2005-11-08T00:00:00+00:00
+ - tags: ['reggae']
 
  ## Jamiroquai - Feels Just Like It Should
  - [https://www.youtube.com/watch?v=H9W9rc-P9UQ](https://www.youtube.com/watch?v=H9W9rc-P9UQ)

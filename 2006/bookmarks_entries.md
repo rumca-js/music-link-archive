@@ -76,6 +76,11 @@
  - date_published: 2006-05-25T00:00:00+00:00
  - tags: ['industrial metal']
 
+ ## Rockers Anthem
+ - [https://www.youtube.com/watch?v=ZFmRW9A7saI](https://www.youtube.com/watch?v=ZFmRW9A7saI)
+ - date_published: 2006-05-28T00:00:00+00:00
+ - tags: ['reggae']
+
  ## Gregorian - The unforgiven
  - [https://www.youtube.com/watch?v=XZH5YipyRn4](https://www.youtube.com/watch?v=XZH5YipyRn4)
  - date_published: 2006-06-04T00:00:00+00:00
@@ -101,6 +106,11 @@
  ## Reggaemova
  - [https://www.youtube.com/watch?v=ZJHhXnO-NAo](https://www.youtube.com/watch?v=ZJHhXnO-NAo)
  - date_published: 2006-07-24T00:00:00+00:00
+ - tags: ['reggae']
+
+ ## Kochac Aby Zyc
+ - [https://www.youtube.com/watch?v=Xb77cPET6-E](https://www.youtube.com/watch?v=Xb77cPET6-E)
+ - date_published: 2006-07-28T00:00:00+00:00
  - tags: ['reggae']
 
  ## The Pot

@@ -427,11 +427,6 @@
  - [https://www.youtube.com/watch?v=0iRTB-FTMdk](https://www.youtube.com/watch?v=0iRTB-FTMdk)
  - date_published: 2010-11-08T00:00:00+00:00
 
- ## Jamal - Kiedys Bedzie Nas Wiecej [Official Music Video]
- - [https://www.youtube.com/watch?v=C81ig24IPpE](https://www.youtube.com/watch?v=C81ig24IPpE)
- - date_published: 2010-11-08T00:00:00+00:00
- - tags: ['reggae']
-
  ## Maanam - Po to jesteś na świecie [Official Music Video]
  - [https://www.youtube.com/watch?v=11Pdn6HPqo0](https://www.youtube.com/watch?v=11Pdn6HPqo0)
  - date_published: 2010-11-10T00:00:00+00:00

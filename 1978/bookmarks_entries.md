@@ -60,6 +60,10 @@
  - date_published: 1978-08-19T00:00:00+00:00
  - tags: ['70s80s90s']
 
+ ## Kryzys ✹ Swiety Szczyt
+ - [https://www.youtube.com/watch?v=dvhKKSzwlo0](https://www.youtube.com/watch?v=dvhKKSzwlo0)
+ - date_published: 1978-08-28T00:00:00+00:00
+
  ## Village People - YMCA OFFICIAL Music Video 1978
  - [https://www.youtube.com/watch?v=CS9OO0S5w2k](https://www.youtube.com/watch?v=CS9OO0S5w2k)
  - date_published: 1978-09-22T00:00:00+00:00

@@ -337,6 +337,10 @@
  - [https://www.youtube.com/watch?v=nShkRKrozrA](https://www.youtube.com/watch?v=nShkRKrozrA)
  - date_published: 2018-04-24T17:00:10+00:00
 
+ ## Harry Potter — The Rap
+ - [https://www.youtube.com/watch?v=Yn_uHvb5vPQ](https://www.youtube.com/watch?v=Yn_uHvb5vPQ)
+ - date_published: 2018-04-27T00:00:00+00:00
+
  ## Skjalg A. Skagen - Decades
  - [https://www.youtube.com/watch?v=6wn7De2awKs](https://www.youtube.com/watch?v=6wn7De2awKs)
  - date_published: 2018-05-01T00:00:00+00:00
@@ -414,11 +418,6 @@
  - date_published: 2018-05-27T00:00:00+00:00
  - tags: ['dark techno']
 
- ## Bless
- - [https://www.youtube.com/watch?v=oPyw_qf2WMc](https://www.youtube.com/watch?v=oPyw_qf2WMc)
- - date_published: 2018-05-28T00:00:00+00:00
- - tags: ['reggae']
-
  ## Juanes & Mon Laferte: NPR Music Tiny Desk Concert
  - [https://www.youtube.com/watch?v=aWjihS2LHLs](https://www.youtube.com/watch?v=aWjihS2LHLs)
  - date_published: 2018-05-30T00:00:00+00:00
@@ -466,6 +465,10 @@
  - [https://www.youtube.com/watch?v=_gYjh863j4g](https://www.youtube.com/watch?v=_gYjh863j4g)
  - date_published: 2018-06-18T00:00:00+00:00
  - tags: ['synthwave']
+
+ ## With A Little Help From My Friends (Remastered 2009)
+ - [https://www.youtube.com/watch?v=0C58ttB2-Qg](https://www.youtube.com/watch?v=0C58ttB2-Qg)
+ - date_published: 2018-06-19T00:00:00+00:00
 
  ## 「残酷な天使のテーゼ」MUSIC VIDEO（HDver.）/Zankoku na Tenshi no Te-ze“The Cruel Angel's Thesis”
  - [https://www.youtube.com/watch?v=o6wtDPVkKqI](https://www.youtube.com/watch?v=o6wtDPVkKqI)
@@ -557,11 +560,6 @@
 
  ## Droga Wojownika
  - [https://www.youtube.com/watch?v=AmHhpJh8RM8](https://www.youtube.com/watch?v=AmHhpJh8RM8)
- - date_published: 2018-07-28T00:00:00+00:00
- - tags: ['reggae']
-
- ## Kochac Aby Zyc
- - [https://www.youtube.com/watch?v=Xb77cPET6-E](https://www.youtube.com/watch?v=Xb77cPET6-E)
  - date_published: 2018-07-28T00:00:00+00:00
  - tags: ['reggae']
 

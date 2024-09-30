@@ -259,11 +259,6 @@
  - date_published: 2011-05-27T00:00:00+00:00
  - tags: ['funny']
 
- ## Rockers Anthem
- - [https://www.youtube.com/watch?v=ZFmRW9A7saI](https://www.youtube.com/watch?v=ZFmRW9A7saI)
- - date_published: 2011-05-28T00:00:00+00:00
- - tags: ['reggae']
-
  ## Birdy Nam Nam - Abbesses
  - [https://www.youtube.com/watch?v=u6hXgUJM5ck](https://www.youtube.com/watch?v=u6hXgUJM5ck)
  - date_published: 2011-05-29T00:00:00+00:00

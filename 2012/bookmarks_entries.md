@@ -138,11 +138,6 @@
  - [https://www.youtube.com/watch?v=3b1acvZRvV4](https://www.youtube.com/watch?v=3b1acvZRvV4)
  - date_published: 2012-05-09T00:00:00+00:00
 
- ## Natural Dread Killaz - Good sensi
- - [https://www.youtube.com/watch?v=aWddm6sgjUQ](https://www.youtube.com/watch?v=aWddm6sgjUQ)
- - date_published: 2012-05-12T00:00:00+00:00
- - tags: ['reggae']
-
  ## Natural Dread Killaz - Uwierzyć w siebie
  - [https://www.youtube.com/watch?v=C3_kG7eM50E](https://www.youtube.com/watch?v=C3_kG7eM50E)
  - date_published: 2012-05-12T00:00:00+00:00
