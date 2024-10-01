@@ -112,6 +112,11 @@
  - [https://www.youtube.com/watch?v=DpVfF4U75B8](https://www.youtube.com/watch?v=DpVfF4U75B8)
  - date_published: 2013-02-28T00:00:00+00:00
 
+ ## Ras Luta - Dzięki Bogu
+ - [https://www.youtube.com/watch?v=4kZCEBVYhYg](https://www.youtube.com/watch?v=4kZCEBVYhYg)
+ - date_published: 2013-03-01T00:00:00+00:00
+ - tags: ['reggae']
+
  ## Absolute Territory
  - [https://www.youtube.com/watch?v=DTVN5bsnp4A](https://www.youtube.com/watch?v=DTVN5bsnp4A)
  - date_published: 2013-03-04T00:00:00+00:00
