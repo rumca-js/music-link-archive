@@ -142,6 +142,11 @@
  - date_published: 2006-08-17T00:00:00+00:00
  - tags: ['funny']
 
+ ## Boards of Canada - Dayvan Cowboy
+ - [https://www.youtube.com/watch?v=A2zKARkpDW4](https://www.youtube.com/watch?v=A2zKARkpDW4)
+ - date_published: 2006-08-18T00:00:00+00:00
+ - tags: ['chillout']
+
  ## Birdy Nam Nam - Violons
  - [https://www.youtube.com/watch?v=H-KKKs0f6hg](https://www.youtube.com/watch?v=H-KKKs0f6hg)
  - date_published: 2006-08-24T00:00:00+00:00

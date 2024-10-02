@@ -70,6 +70,11 @@
  - date_published: 2023-03-01T00:00:00+00:00
  - tags: ['french house']
 
+ ## AIR - Sexy Boy (from 𝑀𝑜𝑜𝑛 𝑆𝑎𝑓𝑎𝑟𝑖 - Official Audio)
+ - [https://www.youtube.com/watch?v=R6Yfk-RL_9A](https://www.youtube.com/watch?v=R6Yfk-RL_9A)
+ - date_published: 2023-03-01T00:00:00+00:00
+ - tags: ['chillout']
+
  ## "Multipass (I Have No Fire)" / FULL SONG
  - [https://www.youtube.com/watch?v=u5cCTvyyJtA](https://www.youtube.com/watch?v=u5cCTvyyJtA)
  - date_published: 2023-03-05T12:00:37+00:00
