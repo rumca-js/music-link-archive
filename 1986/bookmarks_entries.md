@@ -1,3 +1,8 @@
+ ## Paul Simon - You Can Call Me Al (Lyrics)
+ - [https://www.youtube.com/watch?v=IH8r91eiE0g](https://www.youtube.com/watch?v=IH8r91eiE0g)
+ - date_published: 1986-01-02T00:00:00+00:00
+ - tags: ['70s80s90s']
+
  ## a-ha - Take On Me (Official Video) [Remastered in 4K]
  - [https://www.youtube.com/watch?v=djV11Xbc914](https://www.youtube.com/watch?v=djV11Xbc914)
  - date_published: 1986-01-06T00:00:00+00:00

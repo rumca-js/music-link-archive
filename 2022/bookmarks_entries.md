@@ -33,6 +33,10 @@
  - date_published: 2022-02-15T00:00:00+00:00
  - tags: ['electronic']
 
+ ## Tautumeitas, Renārs Kaupers - Muoseņa (Official Music Video)
+ - [https://www.youtube.com/watch?v=ZJHm0YFeEiE](https://www.youtube.com/watch?v=ZJHm0YFeEiE)
+ - date_published: 2022-02-17T19:00:12+00:00
+
  ## INTERWORLD "METAMORPHOSIS"
  - [https://www.youtube.com/watch?v=317RHaFF7Xk](https://www.youtube.com/watch?v=317RHaFF7Xk)
  - date_published: 2022-02-23T00:00:00+00:00
@@ -235,6 +239,10 @@
  - [https://www.youtube.com/watch?v=k5K7B3cUO9U](https://www.youtube.com/watch?v=k5K7B3cUO9U)
  - date_published: 2022-09-05T00:00:00+00:00
  - tags: ['live']
+
+ ## Highlights of Tautumeitas concert “Skrejceļš” at Skultes port
+ - [https://www.youtube.com/watch?v=sM-B3lDnmDI](https://www.youtube.com/watch?v=sM-B3lDnmDI)
+ - date_published: 2022-09-13T09:14:53+00:00
 
  ## "Forgetaboutit" (Full Song)
  - [https://www.youtube.com/watch?v=NF8U9XZdYCE](https://www.youtube.com/watch?v=NF8U9XZdYCE)

@@ -1,8 +1,3 @@
- ## Paul Simon - You Can Call Me Al (Lyrics)
- - [https://www.youtube.com/watch?v=IH8r91eiE0g](https://www.youtube.com/watch?v=IH8r91eiE0g)
- - date_published: 2016-01-02T00:00:00+00:00
- - tags: ['70s80s90s']
-
  ## "BUSHES OF LOVE" -- Extended Lyric Video
  - [https://www.youtube.com/watch?v=RySHDUU2juM](https://www.youtube.com/watch?v=RySHDUU2juM)
  - date_published: 2016-01-02T00:00:00+00:00
