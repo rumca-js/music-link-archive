@@ -228,6 +228,10 @@
  - date_published: 2010-05-26T00:00:00+00:00
  - tags: ['full album']
 
+ ## Pablopavo & Ludziki - Do Stu (Official Video)
+ - [https://www.youtube.com/watch?v=mERZUcD5pvM](https://www.youtube.com/watch?v=mERZUcD5pvM)
+ - date_published: 2010-05-27T00:00:00+00:00
+
  ## Guano Apes - Open Your Eyes (cover) by CeZik - mixcover winner!
  - [https://www.youtube.com/watch?v=TCVcIgMIozM](https://www.youtube.com/watch?v=TCVcIgMIozM)
  - date_published: 2010-05-31T00:00:00+00:00

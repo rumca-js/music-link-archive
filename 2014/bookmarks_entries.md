@@ -84,6 +84,11 @@
  - date_published: 2014-04-01T00:00:00+00:00
  - tags: ['full album', 'avant-garde metal']
 
+ ## Maja Koman - Babcia mówi
+ - [https://www.youtube.com/watch?v=NKl0MTW-dtk](https://www.youtube.com/watch?v=NKl0MTW-dtk)
+ - date_published: 2014-04-01T00:00:00+00:00
+ - tags: ['funny', 'comedy', 'lgbt']
+
  ## Queens Of The Stone Age - Smooth Sailing
  - [https://www.youtube.com/watch?v=QetvK6ldl2s](https://www.youtube.com/watch?v=QetvK6ldl2s)
  - date_published: 2014-04-08T00:00:00+00:00
@@ -283,6 +288,10 @@
  ## Kimbra - Miracle [Official Music Video]
  - [https://www.youtube.com/watch?v=4K1hoMlxQmg](https://www.youtube.com/watch?v=4K1hoMlxQmg)
  - date_published: 2014-08-19T00:00:00+00:00
+
+ ## LemON - Scarlett [Official Music Video]
+ - [https://www.youtube.com/watch?v=8GE2N8Ye5Tw](https://www.youtube.com/watch?v=8GE2N8Ye5Tw)
+ - date_published: 2014-08-24T00:00:00+00:00
 
  ## Nickel Creek: NPR Music Tiny Desk Concert
  - [https://www.youtube.com/watch?v=jFycqnOpifQ](https://www.youtube.com/watch?v=jFycqnOpifQ)

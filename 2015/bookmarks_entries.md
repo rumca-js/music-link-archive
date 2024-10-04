@@ -305,6 +305,10 @@
  - date_published: 2015-07-16T00:00:00+00:00
  - tags: ['dark techno', 'art', 'electronic']
 
+ ## BAiKA - Jeśli tylko to będzie możliwe (2015)
+ - [https://www.youtube.com/watch?v=34mNopqCqjI](https://www.youtube.com/watch?v=34mNopqCqjI)
+ - date_published: 2015-07-19T00:00:00+00:00
+
  ## Robin Schulz - Sugar (feat. Francesco Yates) (OFFICIAL MUSIC VIDEO)
  - [https://www.youtube.com/watch?v=bvC_0foemLY](https://www.youtube.com/watch?v=bvC_0foemLY)
  - date_published: 2015-07-24T00:00:00+00:00
@@ -452,6 +456,11 @@
  - [https://www.youtube.com/watch?v=woS40mXN5FE](https://www.youtube.com/watch?v=woS40mXN5FE)
  - date_published: 2015-10-04T00:00:00+00:00
  - tags: ['reggae', 'youtube mix']
+
+ ## November project - Optymista
+ - [https://www.youtube.com/watch?v=DbF8nHiLDNU](https://www.youtube.com/watch?v=DbF8nHiLDNU)
+ - date_published: 2015-10-06T00:00:00+00:00
+ - tags: ['reggae', 'ska']
 
  ## Hoo Ba Ba Kanda
  - [https://www.youtube.com/watch?v=6k0JeEKR3Do](https://www.youtube.com/watch?v=6k0JeEKR3Do)

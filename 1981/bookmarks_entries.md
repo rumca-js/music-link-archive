@@ -57,6 +57,11 @@
  - date_published: 1981-09-23T00:00:00+00:00
  - tags: ['70s80s90spl', 'full album']
 
+ ## BUDKA SUFLERA - Za Ostatni Grosz (1981) [STUDIO ALBUM]
+ - [https://www.youtube.com/watch?v=pWRa5fuWNwU](https://www.youtube.com/watch?v=pWRa5fuWNwU)
+ - date_published: 1981-10-27T00:00:00+00:00
+ - tags: ['full album']
+
  ## Luther Vandross - Never Too Much (Official HD Video)
  - [https://www.youtube.com/watch?v=pNj9bXKGOiI](https://www.youtube.com/watch?v=pNj9bXKGOiI)
  - date_published: 1981-11-24T00:00:00+00:00

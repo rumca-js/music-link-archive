@@ -36,6 +36,10 @@
  - [https://www.youtube.com/watch?v=2DiP0mMeaT8](https://www.youtube.com/watch?v=2DiP0mMeaT8)
  - date_published: 2023-02-07T00:00:00+00:00
 
+ ## Vito Bambino - Podpalmy to
+ - [https://www.youtube.com/watch?v=d4XXGAtFtpk](https://www.youtube.com/watch?v=d4XXGAtFtpk)
+ - date_published: 2023-02-17T00:00:00+00:00
+
  ## Orbital - Optical Delusion (2023)
  - [https://www.youtube.com/watch?v=QXJZxv9M0PM](https://www.youtube.com/watch?v=QXJZxv9M0PM)
  - date_published: 2023-02-17T00:00:00+00:00
@@ -231,6 +235,10 @@
  - [https://www.youtube.com/watch?v=VVmgwyRyk_M](https://www.youtube.com/watch?v=VVmgwyRyk_M)
  - date_published: 2023-08-28T00:00:00+00:00
  - tags: ['youtube mix', 'psydub']
+
+ ## EMO - Letni deszcz (Official Video)
+ - [https://www.youtube.com/watch?v=L3JlCNAPeJw](https://www.youtube.com/watch?v=L3JlCNAPeJw)
+ - date_published: 2023-08-30T00:00:00+00:00
 
  ## FastTracker music: Martyn - Synthetic Bitch (GUS PnP clone)
  - [https://www.youtube.com/watch?v=3RFXUJv9Uok](https://www.youtube.com/watch?v=3RFXUJv9Uok)

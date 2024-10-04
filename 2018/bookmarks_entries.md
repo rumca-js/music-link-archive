@@ -13,6 +13,10 @@
  - date_published: 2018-01-03T00:00:00+00:00
  - tags: ['classical', 'youtube mix']
 
+ ## Rotary - Lubiła tańczyć
+ - [https://www.youtube.com/watch?v=Bxzjg6gCb_U](https://www.youtube.com/watch?v=Bxzjg6gCb_U)
+ - date_published: 2018-01-04T00:00:00+00:00
+
  ## Best Of French 79
  - [https://www.youtube.com/watch?v=vnKKNZLVh2Q](https://www.youtube.com/watch?v=vnKKNZLVh2Q)
  - date_published: 2018-01-09T00:00:00+00:00
@@ -37,6 +41,10 @@
  - [https://www.youtube.com/watch?v=HGM2_KKr7yo](https://www.youtube.com/watch?v=HGM2_KKr7yo)
  - date_published: 2018-01-20T00:00:00+00:00
  - tags: ['synthwave']
+
+ ## November project - BYBYĆ
+ - [https://www.youtube.com/watch?v=dufm49FPy-0](https://www.youtube.com/watch?v=dufm49FPy-0)
+ - date_published: 2018-01-22T00:00:00+00:00
 
  ## Can't Buy Me Love - The Beatles - Funk Cover feat. Abby Celso!
  - [https://www.youtube.com/watch?v=lTq0WLThOyY](https://www.youtube.com/watch?v=lTq0WLThOyY)
@@ -625,6 +633,10 @@
  - [https://www.youtube.com/watch?v=VGgaRmRP1ck](https://www.youtube.com/watch?v=VGgaRmRP1ck)
  - date_published: 2018-08-08T00:00:00+00:00
 
+ ## Sarius - Wiking (prod. Gibbs)
+ - [https://www.youtube.com/watch?v=E1OjQ_3kh4A](https://www.youtube.com/watch?v=E1OjQ_3kh4A)
+ - date_published: 2018-08-09T00:00:00+00:00
+
  ## Hang Massive - The Secret Kissing of the Sun and Moon [ Official Video ]
  - [https://www.youtube.com/watch?v=nvmOoSFhhJ4](https://www.youtube.com/watch?v=nvmOoSFhhJ4)
  - date_published: 2018-08-09T00:00:00+00:00
@@ -662,6 +674,10 @@
  - [https://www.youtube.com/watch?v=MO-9l29RzrE](https://www.youtube.com/watch?v=MO-9l29RzrE)
  - date_published: 2018-08-22T00:00:00+00:00
  - tags: ['foreign']
+
+ ## Karolina Czarnecka  - Hera koka hasz LSD (official video)
+ - [https://www.youtube.com/watch?v=i_yIxAsR534](https://www.youtube.com/watch?v=i_yIxAsR534)
+ - date_published: 2018-08-23T00:00:00+00:00
 
  ## Vitas - The 7th Element
  - [https://www.youtube.com/watch?v=989-7xsRLR4](https://www.youtube.com/watch?v=989-7xsRLR4)

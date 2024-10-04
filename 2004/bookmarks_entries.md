@@ -84,6 +84,10 @@
  - date_published: 2004-09-20T00:00:00+00:00
  - tags: ['full album']
 
+ ## Łzy - Agnieszka już dawno tutaj nie mieszka
+ - [https://www.youtube.com/watch?v=kFGz063lzmA](https://www.youtube.com/watch?v=kFGz063lzmA)
+ - date_published: 2004-10-03T00:00:00+00:00
+
  ## HAPPYSAD - Zanim pójdę [OFFICIAL AUDIO]
  - [https://www.youtube.com/watch?v=iv9Z0dnjMzE](https://www.youtube.com/watch?v=iv9Z0dnjMzE)
  - date_published: 2004-10-04T00:00:00+00:00

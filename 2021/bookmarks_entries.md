@@ -271,6 +271,10 @@
  - date_published: 2021-06-13T00:00:00+00:00
  - tags: ['keygen', 'chiptune']
 
+ ## Vito Bambino - Nudy
+ - [https://www.youtube.com/watch?v=KSX_CntKgjI](https://www.youtube.com/watch?v=KSX_CntKgjI)
+ - date_published: 2021-06-15T00:00:00+00:00
+
  ## Why am I anxious?
  - [https://www.youtube.com/watch?v=GbmP2c6TGKc](https://www.youtube.com/watch?v=GbmP2c6TGKc)
  - date_published: 2021-06-17T00:00:00+00:00
@@ -481,6 +485,10 @@
  - date_published: 2021-11-03T00:00:00+00:00
  - tags: ['full album']
 
+ ## Kaśka Sochacka - Ciche dni (LIVE) | Męskie Granie 2021 Żywiec
+ - [https://www.youtube.com/watch?v=cPtAuw9i-EY](https://www.youtube.com/watch?v=cPtAuw9i-EY)
+ - date_published: 2021-11-04T00:00:00+00:00
+
  ## Rascura - Burn It Down (Official Audio)
  - [https://www.youtube.com/watch?v=XVzY6ewu8iU](https://www.youtube.com/watch?v=XVzY6ewu8iU)
  - date_published: 2021-11-05T00:00:00+00:00
@@ -514,6 +522,10 @@
  - [https://www.youtube.com/watch?v=j6hAqPdz5lE](https://www.youtube.com/watch?v=j6hAqPdz5lE)
  - date_published: 2021-11-22T00:00:00+00:00
  - tags: ['electronic rock']
+
+ ## Kaśka Sochacka - Niebo było różowe
+ - [https://www.youtube.com/watch?v=iHDJ_xfW26Y](https://www.youtube.com/watch?v=iHDJ_xfW26Y)
+ - date_published: 2021-11-24T00:00:00+00:00
 
  ## Àbáse – Laroyê (2021 - Album)
  - [https://www.youtube.com/watch?v=b1zR9zm5J1A](https://www.youtube.com/watch?v=b1zR9zm5J1A)

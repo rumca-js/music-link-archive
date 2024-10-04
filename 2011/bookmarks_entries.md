@@ -199,6 +199,11 @@
  - date_published: 2011-04-26T00:00:00+00:00
  - tags: ['classical']
 
+ ## Pablopavo I Ludziki - Indziej (Official Video)
+ - [https://www.youtube.com/watch?v=fCdGtuWB2fs](https://www.youtube.com/watch?v=fCdGtuWB2fs)
+ - date_published: 2011-04-29T00:00:00+00:00
+ - tags: ['poetry']
+
  ## DJ Fresh - Louder (Doctor P & Flux Pavilion Remix)
  - [https://www.youtube.com/watch?v=7cxgao2rYZw](https://www.youtube.com/watch?v=7cxgao2rYZw)
  - date_published: 2011-05-04T00:00:00+00:00
@@ -311,6 +316,10 @@
  - [https://www.youtube.com/watch?v=HamYmjllE6A](https://www.youtube.com/watch?v=HamYmjllE6A)
  - date_published: 2011-06-27T00:00:00+00:00
  - tags: ['live']
+
+ ## Magma - Aicha
+ - [https://www.youtube.com/watch?v=nqNJiwv-m34](https://www.youtube.com/watch?v=nqNJiwv-m34)
+ - date_published: 2011-07-05T00:00:00+00:00
 
  ## Vivaldi: Concerto for 4 Violins in B minor RV 580
  - [https://www.youtube.com/watch?v=SY3Kxf7ZTeI](https://www.youtube.com/watch?v=SY3Kxf7ZTeI)

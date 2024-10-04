@@ -121,6 +121,11 @@
  - date_published: 1984-11-01T00:00:00+00:00
  - tags: ['synthwave']
 
+ ## BUDKA SUFLERA - Czas Czekania, Czas Olśnienia (1984) [STUDIO ALBUM]
+ - [https://www.youtube.com/watch?v=l_e4SmPl_PE](https://www.youtube.com/watch?v=l_e4SmPl_PE)
+ - date_published: 1984-11-07T00:00:00+00:00
+ - tags: ['full album']
+
  ## Out of Touch
  - [https://www.youtube.com/watch?v=DCkJ5lGPqFs](https://www.youtube.com/watch?v=DCkJ5lGPqFs)
  - date_published: 1984-11-08T00:00:00+00:00

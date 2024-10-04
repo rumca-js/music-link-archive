@@ -166,6 +166,11 @@
  - date_published: 1998-10-31T00:00:00+00:00
  - tags: ['trance']
 
+ ## Reni Jusis - Zakrecona [Official Music Video]
+ - [https://www.youtube.com/watch?v=2NNs3pOf22E](https://www.youtube.com/watch?v=2NNs3pOf22E)
+ - date_published: 1998-11-10T00:00:00+00:00
+ - tags: ['cringe', 'electronic dance music']
+
  ## Rob Zombie - Dragula (Hot Rod Herman Remix)
  - [https://www.youtube.com/watch?v=Pwymq-gWhvY](https://www.youtube.com/watch?v=Pwymq-gWhvY)
  - date_published: 1998-11-27T00:00:00+00:00

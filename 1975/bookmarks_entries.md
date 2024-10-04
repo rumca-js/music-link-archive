@@ -73,6 +73,11 @@
  - date_published: 1975-09-16T00:00:00+00:00
  - tags: ['heavy metal', 'full album']
 
+ ## BUDKA SUFLERA - Cień Wielkiej Góry (1975) [STUDIO ALBUM]
+ - [https://www.youtube.com/watch?v=erv6dwfVv20](https://www.youtube.com/watch?v=erv6dwfVv20)
+ - date_published: 1975-10-27T00:00:00+00:00
+ - tags: ['full album']
+
  ## Patti Smith - Gloria (Audio)
  - [https://www.youtube.com/watch?v=bPO0bTaWcFQ](https://www.youtube.com/watch?v=bPO0bTaWcFQ)
  - date_published: 1975-11-04T00:00:00+00:00

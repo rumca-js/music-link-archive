@@ -156,11 +156,6 @@
  - [https://www.youtube.com/watch?v=IlONXD_9T2E](https://www.youtube.com/watch?v=IlONXD_9T2E)
  - date_published: 2006-09-10T00:00:00+00:00
 
- ## Budka Suflera - Noc Komety
- - [https://www.youtube.com/watch?v=ueB0rsmoJKo](https://www.youtube.com/watch?v=ueB0rsmoJKo)
- - date_published: 2006-09-17T00:00:00+00:00
- - tags: ['70s80s90spl']
-
  ## Thirty Seconds To Mars - The Kill (Bury Me)
  - [https://www.youtube.com/watch?v=8yvGCAvOAfM](https://www.youtube.com/watch?v=8yvGCAvOAfM)
  - date_published: 2006-09-22T00:00:00+00:00

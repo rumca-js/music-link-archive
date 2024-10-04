@@ -72,6 +72,10 @@
  - date_published: 1983-07-10T00:00:00+00:00
  - tags: ['power metal', 'heavy metal']
 
+ ## Bajm -Kraina milosci-
+ - [https://www.youtube.com/watch?v=uukbhx0aXhM](https://www.youtube.com/watch?v=uukbhx0aXhM)
+ - date_published: 1983-07-13T00:00:00+00:00
+
  ## Moonlight Shadow (Remastered)
  - [https://www.youtube.com/watch?v=9uYF95jR_ME](https://www.youtube.com/watch?v=9uYF95jR_ME)
  - date_published: 1983-07-26T00:00:00+00:00
@@ -80,6 +84,18 @@
  ## Styx - Mr. Roboto (Official Video)
  - [https://www.youtube.com/watch?v=uc6f_2nPSX8](https://www.youtube.com/watch?v=uc6f_2nPSX8)
  - date_published: 1983-08-10T00:00:00+00:00
+
+ ## BAJM - Różowa Kula
+ - [https://www.youtube.com/watch?v=Isdar8MYpLI](https://www.youtube.com/watch?v=Isdar8MYpLI)
+ - date_published: 1983-08-22T00:00:00+00:00
+
+ ## Prorocy świata
+ - [https://www.youtube.com/watch?v=JqK5aPbI33M](https://www.youtube.com/watch?v=JqK5aPbI33M)
+ - date_published: 1983-08-23T00:00:00+00:00
+
+ ## Żal prostych słów
+ - [https://www.youtube.com/watch?v=VAG56ZruvcE](https://www.youtube.com/watch?v=VAG56ZruvcE)
+ - date_published: 1983-08-23T00:00:00+00:00
 
  ## Lionel Richie - All night long (lyrics)
  - [https://www.youtube.com/watch?v=2PEGcXHhE98](https://www.youtube.com/watch?v=2PEGcXHhE98)
@@ -95,6 +111,15 @@
  - [https://www.youtube.com/watch?v=ZHwVBirqD2s](https://www.youtube.com/watch?v=ZHwVBirqD2s)
  - date_published: 1983-09-01T00:00:00+00:00
  - tags: ['pop', '70s80s90s']
+
+ ## Budka Suflera - Noc Komety
+ - [https://www.youtube.com/watch?v=ueB0rsmoJKo](https://www.youtube.com/watch?v=ueB0rsmoJKo)
+ - date_published: 1983-09-17T00:00:00+00:00
+ - tags: ['70s80s90spl']
+
+ ## BAJM - W drodze do jej serca
+ - [https://www.youtube.com/watch?v=GmdkLTfLf8k](https://www.youtube.com/watch?v=GmdkLTfLf8k)
+ - date_published: 1983-10-05T00:00:00+00:00
 
  ## Philip Glass - Koyaanisqatsi
  - [https://www.youtube.com/watch?v=j3q7bT0v9IE](https://www.youtube.com/watch?v=j3q7bT0v9IE)
@@ -114,6 +139,10 @@
  - [https://www.youtube.com/watch?v=nkRCxq0Et5w](https://www.youtube.com/watch?v=nkRCxq0Et5w)
  - date_published: 1983-10-28T00:00:00+00:00
  - tags: ['punk']
+
+ ## Kraina miłości
+ - [https://www.youtube.com/watch?v=170Uqdl1460](https://www.youtube.com/watch?v=170Uqdl1460)
+ - date_published: 1983-11-09T00:00:00+00:00
 
  ## Biała flaga Republika
  - [https://www.youtube.com/watch?v=gHUDbpI8Ulk](https://www.youtube.com/watch?v=gHUDbpI8Ulk)

@@ -19,6 +19,10 @@
  - [https://www.youtube.com/watch?v=_1lXdLus2WI](https://www.youtube.com/watch?v=_1lXdLus2WI)
  - date_published: 2012-01-18T00:00:00+00:00
 
+ ## Jula - Za każdym razem (Official Video)
+ - [https://www.youtube.com/watch?v=uxo4D3K4988](https://www.youtube.com/watch?v=uxo4D3K4988)
+ - date_published: 2012-01-20T00:00:00+00:00
+
  ## C2C - Down the Road (Official)
  - [https://www.youtube.com/watch?v=k1uUIJPD0Nk](https://www.youtube.com/watch?v=k1uUIJPD0Nk)
  - date_published: 2012-01-23T00:00:00+00:00
@@ -208,6 +212,10 @@
  - date_published: 2012-07-10T00:00:00+00:00
  - tags: ['drum and bass']
 
+ ## Łzy - Narcyz Się Nazywam
+ - [https://www.youtube.com/watch?v=mpySwM3hLjs](https://www.youtube.com/watch?v=mpySwM3hLjs)
+ - date_published: 2012-07-13T00:00:00+00:00
+
  ## The Evolution of PC Games
  - [https://www.youtube.com/watch?v=OuO-s1kugLs](https://www.youtube.com/watch?v=OuO-s1kugLs)
  - date_published: 2012-07-17T00:00:00+00:00
@@ -226,6 +234,10 @@
  - [https://www.youtube.com/watch?v=Ql3g1BUVfJs](https://www.youtube.com/watch?v=Ql3g1BUVfJs)
  - date_published: 2012-07-27T00:00:00+00:00
  - tags: ['drum and bass']
+
+ ## Mela Koteluk - Melodia Ulotna
+ - [https://www.youtube.com/watch?v=wO_lA6hV1Ag](https://www.youtube.com/watch?v=wO_lA6hV1Ag)
+ - date_published: 2012-07-27T00:00:00+00:00
 
  ## Stereopony - Hitohira No Hanabira
  - [https://www.youtube.com/watch?v=vYV-XJdzupY](https://www.youtube.com/watch?v=vYV-XJdzupY)
@@ -296,6 +308,10 @@
  ## Lindsey Stirling - Elements (Dubstep Violin Original Song)
  - [https://www.youtube.com/watch?v=sf6LD2B_kDQ](https://www.youtube.com/watch?v=sf6LD2B_kDQ)
  - date_published: 2012-09-19T00:00:00+00:00
+
+ ## Piotr Rogucki - Drzewo (official video)
+ - [https://www.youtube.com/watch?v=IPzjyc_FvvA](https://www.youtube.com/watch?v=IPzjyc_FvvA)
+ - date_published: 2012-09-24T00:00:00+00:00
 
  ## Wilki - Na zawsze i na wieczność + tekst
  - [https://www.youtube.com/watch?v=NYnhR7IFYaU&pp=ygUed2lsa2kgbmEgemF3c3plIGkgbmEgd2llY3pub3Nj](https://www.youtube.com/watch?v=NYnhR7IFYaU&pp=ygUed2lsa2kgbmEgemF3c3plIGkgbmEgd2llY3pub3Nj)
