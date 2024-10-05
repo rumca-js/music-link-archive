@@ -261,15 +261,27 @@
  - date_published: 2014-07-15T00:00:00+00:00
  - tags: ['anime']
 
+ ## "Weird Al" Yankovic - Word Crimes (Official 4K Video)
+ - [https://www.youtube.com/watch?v=8Gv0H-vPoDc](https://www.youtube.com/watch?v=8Gv0H-vPoDc)
+ - date_published: 2014-07-15T00:00:00+00:00
+
  ## HOME - Resonance
  - [https://www.youtube.com/watch?v=8GW6sLrK40k](https://www.youtube.com/watch?v=8GW6sLrK40k)
  - date_published: 2014-07-17T00:00:00+00:00
  - tags: ['synthwave']
 
+ ## "Weird Al" Yankovic - Tacky (Official 4K Video)
+ - [https://www.youtube.com/watch?v=zq7Eki5EZ8o](https://www.youtube.com/watch?v=zq7Eki5EZ8o)
+ - date_published: 2014-07-28T00:00:00+00:00
+
  ## Saintseneca: NPR Music Tiny Desk Concert
  - [https://www.youtube.com/watch?v=X8hnp9M4JCo](https://www.youtube.com/watch?v=X8hnp9M4JCo)
  - date_published: 2014-07-29T00:00:00+00:00
  - tags: ['live']
+
+ ## "Weird Al" Yankovic - Foil (Official 4K Video)
+ - [https://www.youtube.com/watch?v=urglg3WimHA](https://www.youtube.com/watch?v=urglg3WimHA)
+ - date_published: 2014-07-30T00:00:00+00:00
 
  ## ELUVEITIE - The Call Of The Mountains (OFFICIAL MUSIC VIDEO)
  - [https://www.youtube.com/watch?v=-w2m-TeLi6I](https://www.youtube.com/watch?v=-w2m-TeLi6I)

@@ -514,6 +514,10 @@
  - date_published: 2009-10-03T00:00:00+00:00
  - tags: ['funny']
 
+ ## "Weird Al" Yankovic - White & Nerdy (Official 4K Video)
+ - [https://www.youtube.com/watch?v=N9qYF9DZPdw](https://www.youtube.com/watch?v=N9qYF9DZPdw)
+ - date_published: 2009-10-03T00:00:00+00:00
+
  ## The Strokes - You Only Live Once (Official HD Video)
  - [https://www.youtube.com/watch?v=pT68FS3YbQ4](https://www.youtube.com/watch?v=pT68FS3YbQ4)
  - date_published: 2009-10-03T00:00:00+00:00

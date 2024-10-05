@@ -3,6 +3,10 @@
  - date_published: 1978-01-14T00:00:00+00:00
  - tags: ['70s80s90s']
 
+ ## Die Roboter (2009 Remaster)
+ - [https://www.youtube.com/watch?v=SaoBbCC66I4](https://www.youtube.com/watch?v=SaoBbCC66I4)
+ - date_published: 1978-01-25T00:00:00+00:00
+
  ## The Police - Can't Stand Losing You (Official Music Video)
  - [https://www.youtube.com/watch?v=nH0vjLwMyc4](https://www.youtube.com/watch?v=nH0vjLwMyc4)
  - date_published: 1978-02-23T00:00:00+00:00

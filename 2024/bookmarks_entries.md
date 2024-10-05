@@ -219,6 +219,11 @@
  - [https://www.youtube.com/watch?v=_oAyjUAXxVI](https://www.youtube.com/watch?v=_oAyjUAXxVI)
  - date_published: 2024-08-07T17:00:33+00:00
 
+ ## "Weird Al" Yankovic - It's All About The Pentiums (HD Version)
+ - [https://www.youtube.com/watch?v=WyjWNK22Rb8](https://www.youtube.com/watch?v=WyjWNK22Rb8)
+ - date_published: 2024-08-27T07:00:23+00:00
+ - tags: ['programming']
+
  ## THREESIXTY - Could
  - [https://www.youtube.com/watch?v=hnBuptQ3yRA](https://www.youtube.com/watch?v=hnBuptQ3yRA)
  - date_published: 2024-08-30T16:51:17+00:00

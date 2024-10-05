@@ -213,6 +213,11 @@
  - [https://www.youtube.com/watch?v=tf_ieWnu-SE](https://www.youtube.com/watch?v=tf_ieWnu-SE)
  - date_published: 2011-05-04T00:00:00+00:00
 
+ ## Parfait Tirage
+ - [https://www.youtube.com/watch?v=dJiftdq060s](https://www.youtube.com/watch?v=dJiftdq060s)
+ - date_published: 2011-05-05T00:00:00+00:00
+ - tags: ['foreign']
+
  ## Within Temptation - Faster (Music Video)
  - [https://www.youtube.com/watch?v=iQVei5C2N4E](https://www.youtube.com/watch?v=iQVei5C2N4E)
  - date_published: 2011-05-06T00:00:00+00:00

@@ -148,6 +148,7 @@
  ## Hang Massive - End of Sky [Official Video]
  - [https://www.youtube.com/watch?v=oEJk3Vjii74](https://www.youtube.com/watch?v=oEJk3Vjii74)
  - date_published: 2019-02-26T00:00:00+00:00
+ - tags: ['10']
 
  ## Natalie Prass: NPR Music Tiny Desk Concert
  - [https://www.youtube.com/watch?v=9pTEygixKGY](https://www.youtube.com/watch?v=9pTEygixKGY)
@@ -289,11 +290,6 @@
 
  ## Hémisphère
  - [https://www.youtube.com/watch?v=CefLfzruHg0](https://www.youtube.com/watch?v=CefLfzruHg0)
- - date_published: 2019-05-05T00:00:00+00:00
- - tags: ['foreign']
-
- ## Parfait Tirage
- - [https://www.youtube.com/watch?v=dJiftdq060s](https://www.youtube.com/watch?v=dJiftdq060s)
  - date_published: 2019-05-05T00:00:00+00:00
  - tags: ['foreign']
 
