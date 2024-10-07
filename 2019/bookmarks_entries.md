@@ -803,6 +803,11 @@
  - date_published: 2019-12-10T00:00:00+00:00
  - tags: ['concert']
 
+ ## Mata - Patointeligencja
+ - [https://www.youtube.com/watch?v=wTAibxp37vE](https://www.youtube.com/watch?v=wTAibxp37vE)
+ - date_published: 2019-12-11T00:00:00+00:00
+ - tags: ['hip-hop']
+
  ## Danheim & Gealdýr - Ymir
  - [https://www.youtube.com/watch?v=PskDLbP1x1o](https://www.youtube.com/watch?v=PskDLbP1x1o)
  - date_published: 2019-12-14T00:00:00+00:00
