@@ -1,7 +1,7 @@
  ## Faith No More - Epic (Official Music Video)
  - [https://www.youtube.com/watch?v=ZG_k5CSYKhg](https://www.youtube.com/watch?v=ZG_k5CSYKhg)
  - date_published: 1989-02-21T00:00:00+00:00
- - tags: ['rock']
+ - tags: ['rock', 'alternative metal']
 
  ## Black Velvet
  - [https://www.youtube.com/watch?v=ZHHEmd5mECY](https://www.youtube.com/watch?v=ZHHEmd5mECY)

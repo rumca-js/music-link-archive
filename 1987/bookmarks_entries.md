@@ -21,7 +21,7 @@
  ## Faith No More - We Care a Lot (Official Music Video) [4K]
  - [https://www.youtube.com/watch?v=LQhX8PbNUWI](https://www.youtube.com/watch?v=LQhX8PbNUWI)
  - date_published: 1987-02-21T00:00:00+00:00
- - tags: ['rock']
+ - tags: ['rock', 'alternative metal']
 
  ## Pink Floyd - A Momentary Lapse Of Reason (Full Album)
  - [https://www.youtube.com/watch?v=DEf0iT6r7z4](https://www.youtube.com/watch?v=DEf0iT6r7z4)

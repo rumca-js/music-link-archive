@@ -102,7 +102,7 @@
  ## Deftones - White Pony (Full Album)
  - [https://www.youtube.com/watch?v=v1npHeOskdQ](https://www.youtube.com/watch?v=v1npHeOskdQ)
  - date_published: 2022-04-25T00:00:00+00:00
- - tags: ['full album']
+ - tags: ['full album', 'alternative metal']
 
  ## 'I'll Be There For You' (Friends Theme Song)
  - [https://www.youtube.com/watch?v=s2TyVQGoCYo](https://www.youtube.com/watch?v=s2TyVQGoCYo)

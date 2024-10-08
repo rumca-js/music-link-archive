@@ -48,7 +48,7 @@
  ## Faith No More - Who Cares A Lot? Gratest Hits (Full Album) HQ
  - [https://www.youtube.com/watch?v=G4X4H2IeebM](https://www.youtube.com/watch?v=G4X4H2IeebM)
  - date_published: 1998-04-14T00:00:00+00:00
- - tags: ['full album']
+ - tags: ['full album', 'alternative metal']
 
  ## Die Toten Hosen // „Pushed Again" [Offizielles Muiskvideo]
  - [https://www.youtube.com/watch?v=d2E_iiTd9hQ](https://www.youtube.com/watch?v=d2E_iiTd9hQ)

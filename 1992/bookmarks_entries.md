@@ -49,7 +49,7 @@
  ## Faith No More - Midlife Crisis (Official Music Video) [4K]
  - [https://www.youtube.com/watch?v=U8b88US-6ts](https://www.youtube.com/watch?v=U8b88US-6ts)
  - date_published: 1992-02-21T00:00:00+00:00
- - tags: ['rock']
+ - tags: ['rock', 'alternative metal']
 
  ## In a Dream
  - [https://www.youtube.com/watch?v=BsADszPVcK0](https://www.youtube.com/watch?v=BsADszPVcK0)
@@ -62,7 +62,7 @@
  ## Faith No More - Angel Dust (Full Album) [Official]
  - [https://www.youtube.com/watch?v=k0tUb-87kP8](https://www.youtube.com/watch?v=k0tUb-87kP8)
  - date_published: 1992-03-07T00:00:00+00:00
- - tags: ['full album']
+ - tags: ['full album', 'alternative metal']
 
  ## Amiga music: Assassin (main theme)
  - [https://www.youtube.com/watch?v=b9uN6okempo](https://www.youtube.com/watch?v=b9uN6okempo)

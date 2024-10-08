@@ -6,7 +6,7 @@
  ## Faith No More - Ashes to Ashes (Official Music Video)
  - [https://www.youtube.com/watch?v=Kfq7wHJu21c](https://www.youtube.com/watch?v=Kfq7wHJu21c)
  - date_published: 1997-02-21T00:00:00+00:00
- - tags: ['rock']
+ - tags: ['alternative metal']
 
  ## Tier
  - [https://www.youtube.com/watch?v=QX3FNE6xbco](https://www.youtube.com/watch?v=QX3FNE6xbco)
@@ -170,6 +170,11 @@
  - [https://www.youtube.com/watch?v=bfPZn2FUuG0](https://www.youtube.com/watch?v=bfPZn2FUuG0)
  - date_published: 1997-11-06T00:00:00+00:00
  - tags: ['punk']
+
+ ## Around the Fur
+ - [https://www.youtube.com/watch?v=AFVNrox01SM](https://www.youtube.com/watch?v=AFVNrox01SM)
+ - date_published: 1997-11-08T00:00:00+00:00
+ - tags: ['full album', 'alternative metal']
 
  ## Tiamat ~ A deeper kind of slumber (full album)
  - [https://www.youtube.com/watch?v=G-zGdOaUWCk](https://www.youtube.com/watch?v=G-zGdOaUWCk)

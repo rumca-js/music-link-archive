@@ -155,6 +155,7 @@
  ## Just a Man
  - [https://www.youtube.com/watch?v=h5MFFc0xdwg](https://www.youtube.com/watch?v=h5MFFc0xdwg)
  - date_published: 1995-11-21T00:00:00+00:00
+ - tags: ['alternative metal']
 
  ## Best Remixes of 90s Popular Songs
  - [https://www.youtube.com/watch?v=PAXl0zlucrU](https://www.youtube.com/watch?v=PAXl0zlucrU)

@@ -371,6 +371,10 @@
  - date_published: 2017-06-03T00:00:00+00:00
  - tags: ['lofi', 'youtube mix', 'trip-hop']
 
+ ## LORD OF THE RINGS TRILOGY RECAP RAP
+ - [https://www.youtube.com/watch?v=fwLcV2PipZA](https://www.youtube.com/watch?v=fwLcV2PipZA)
+ - date_published: 2017-06-06T00:00:00+00:00
+
  ## LETNI - "RADIO" (PARODIA Enrique Iglesias- "Subeme La Radio")
  - [https://www.youtube.com/watch?v=qN9WMu_uHH8](https://www.youtube.com/watch?v=qN9WMu_uHH8)
  - date_published: 2017-06-06T00:00:00+00:00

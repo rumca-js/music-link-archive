@@ -46,6 +46,10 @@
  - [https://www.youtube.com/watch?v=yuTMWgOduFM](https://www.youtube.com/watch?v=yuTMWgOduFM)
  - date_published: 1996-05-06T00:00:00+00:00
 
+ ## Deftones-Adrenaline(Full Album)
+ - [https://www.youtube.com/watch?v=7VBmzbjE2uE](https://www.youtube.com/watch?v=7VBmzbjE2uE)
+ - date_published: 1996-05-15T00:00:00+00:00
+
  ## Nas - If I Ruled the World (Imagine That) (Official Audio) ft. Lauryn Hill
  - [https://www.youtube.com/watch?v=-8dyp89uWxA](https://www.youtube.com/watch?v=-8dyp89uWxA)
  - date_published: 1996-05-15T00:00:00+00:00

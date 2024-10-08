@@ -521,6 +521,7 @@
  ## SHAKA PONK - My name is Stain [OFFICIAL VIDEO]
  - [https://www.youtube.com/watch?v=EF2PGnZmXCI](https://www.youtube.com/watch?v=EF2PGnZmXCI)
  - date_published: 2011-11-18T00:00:00+00:00
+ - tags: ['edm']
 
  ## Queen Medley - A Cappella Hommage to Freddie Mercury
  - [https://www.youtube.com/watch?v=sEnTMgzw8ow](https://www.youtube.com/watch?v=sEnTMgzw8ow)
