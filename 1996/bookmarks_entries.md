@@ -121,6 +121,11 @@
  - date_published: 1996-10-10T00:00:00+00:00
  - tags: ['grunge', 'live']
 
+ ## Brown
+ - [https://www.youtube.com/watch?v=45rKFFKEQNs](https://www.youtube.com/watch?v=45rKFFKEQNs)
+ - date_published: 1996-10-18T00:00:00+00:00
+ - tags: ['full album', 'nu metal']
+
  ## Kaliber 44 - Psychodela
  - [https://www.youtube.com/watch?v=4FFpkMwpzQw](https://www.youtube.com/watch?v=4FFpkMwpzQw)
  - date_published: 1996-10-18T00:00:00+00:00

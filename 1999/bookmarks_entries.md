@@ -142,6 +142,11 @@
  - date_published: 1999-08-21T00:00:00+00:00
  - tags: ['full album', 'electronic']
 
+ ## "Weird Al" Yankovic - It's All About The Pentiums (HD Version)
+ - [https://www.youtube.com/watch?v=WyjWNK22Rb8](https://www.youtube.com/watch?v=WyjWNK22Rb8)
+ - date_published: 1999-08-27T07:00:23+00:00
+ - tags: ['programming']
+
  ## Die Sintflut (2023 Remastered)
  - [https://www.youtube.com/watch?v=EHbl5CXfMzU](https://www.youtube.com/watch?v=EHbl5CXfMzU)
  - date_published: 1999-08-31T00:00:00+00:00
@@ -151,6 +156,11 @@
  - [https://www.youtube.com/watch?v=yPJjSIIkNKM](https://www.youtube.com/watch?v=yPJjSIIkNKM)
  - date_published: 1999-08-31T00:00:00+00:00
  - tags: ['monumental dance']
+
+ ## POD - fundamental elements [full album, 1999, Christian Nu Metal]
+ - [https://www.youtube.com/watch?v=AIIQNUxzwrw](https://www.youtube.com/watch?v=AIIQNUxzwrw)
+ - date_published: 1999-09-17T00:00:00+00:00
+ - tags: ['full album', 'nu metal']
 
  ## Santana - Put Your Lights On (Video Version) ft. Everlast
  - [https://www.youtube.com/watch?v=KCBS5EtszYI](https://www.youtube.com/watch?v=KCBS5EtszYI)

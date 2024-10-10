@@ -79,6 +79,11 @@
  - date_published: 2013-02-11T00:00:00+00:00
  - tags: ['funny']
 
+ ## The Naked Song
+ - [https://www.youtube.com/watch?v=ZoCAXTY9btM](https://www.youtube.com/watch?v=ZoCAXTY9btM)
+ - date_published: 2013-02-13T00:00:00+00:00
+ - tags: ['comedy', 'funny', 'satire']
+
  ## Harlem River
  - [https://www.youtube.com/watch?v=JjXEXox3668](https://www.youtube.com/watch?v=JjXEXox3668)
  - date_published: 2013-02-21T00:00:00+00:00
@@ -219,6 +224,11 @@
  ## Anamanaguchi - Endless Fantasy - Full Album (HQ)
  - [https://www.youtube.com/watch?v=EP1mczaq3zo](https://www.youtube.com/watch?v=EP1mczaq3zo)
  - date_published: 2013-05-20T00:00:00+00:00
+ - tags: ['full album']
+
+ ## POD Brown full album
+ - [https://www.youtube.com/watch?v=Tj2IkmiPtfU](https://www.youtube.com/watch?v=Tj2IkmiPtfU)
+ - date_published: 2013-05-21T00:00:00+00:00
  - tags: ['full album']
 
  ## The Sound Defects - The Iron Horse [Full album]

@@ -219,11 +219,6 @@
  - [https://www.youtube.com/watch?v=_oAyjUAXxVI](https://www.youtube.com/watch?v=_oAyjUAXxVI)
  - date_published: 2024-08-07T17:00:33+00:00
 
- ## "Weird Al" Yankovic - It's All About The Pentiums (HD Version)
- - [https://www.youtube.com/watch?v=WyjWNK22Rb8](https://www.youtube.com/watch?v=WyjWNK22Rb8)
- - date_published: 2024-08-27T07:00:23+00:00
- - tags: ['programming']
-
  ## THREESIXTY - Could
  - [https://www.youtube.com/watch?v=hnBuptQ3yRA](https://www.youtube.com/watch?v=hnBuptQ3yRA)
  - date_published: 2024-08-30T16:51:17+00:00
@@ -253,5 +248,10 @@
  ## Aphex Twin - Selected Ambient Works Volume II (Expanded Edition) (Full Album)
  - [https://www.youtube.com/watch?v=MW3tcBRe41w](https://www.youtube.com/watch?v=MW3tcBRe41w)
  - date_published: 2024-10-04T11:00:33+00:00
+ - tags: ['full album']
+
+ ## Klangphonics - Perfect Opposure (Full Album with Visuals)
+ - [https://www.youtube.com/watch?v=OZ0VESjYjyQ](https://www.youtube.com/watch?v=OZ0VESjYjyQ)
+ - date_published: 2024-10-09T10:03:06+00:00
  - tags: ['full album']
 
