@@ -1,7 +1,7 @@
  ## Funny Kenya Song
  - [https://www.youtube.com/watch?v=CFcR96SPF2w](https://www.youtube.com/watch?v=CFcR96SPF2w)
  - date_published: 2008-01-06T00:00:00+00:00
- - tags: ['internet']
+ - tags: ['internet', 'meme', 'viral']
 
  ## L.U.C & RAH - nibyminipocieszne psychomaterionety
  - [https://www.youtube.com/watch?v=ZKfzAO_cTQI](https://www.youtube.com/watch?v=ZKfzAO_cTQI)
@@ -213,6 +213,7 @@
  ## Nobody Beats The Drum - "The Drum"
  - [https://www.youtube.com/watch?v=wrk_cEmNnPc](https://www.youtube.com/watch?v=wrk_cEmNnPc)
  - date_published: 2008-10-28T00:00:00+00:00
+ - tags: ['funny']
 
  ## A Głupi Myśli, Że Nie Ma Boga (Ps 53)
  - [https://www.youtube.com/watch?v=7gl6Tug8CUE](https://www.youtube.com/watch?v=7gl6Tug8CUE)

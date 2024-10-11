@@ -166,6 +166,7 @@
  ## Static-X - The Only (Official Music Video) | Warner Vault
  - [https://www.youtube.com/watch?v=vMCbJB4yNXo](https://www.youtube.com/watch?v=vMCbJB4yNXo)
  - date_published: 2003-10-27T00:00:00+00:00
+ - tags: ['nu metal']
 
  ## Wehikuł Czasu - To Byłby Cud (2003 Remaster)
  - [https://www.youtube.com/watch?v=YoA3497UQeY](https://www.youtube.com/watch?v=YoA3497UQeY)
@@ -194,6 +195,7 @@
  ## The Outsider
  - [https://www.youtube.com/watch?v=_RjfRICu8UI](https://www.youtube.com/watch?v=_RjfRICu8UI)
  - date_published: 2003-11-30T00:00:00+00:00
+ - tags: ['alternative rock']
 
  ## Püdelsi - Uważaj Na Niego
  - [https://www.youtube.com/watch?v=HS7nA2FCxTI](https://www.youtube.com/watch?v=HS7nA2FCxTI)

@@ -26,6 +26,7 @@
  ## Avril Lavigne - Complicated (Official Video)
  - [https://www.youtube.com/watch?v=5NPBIwQyPWE](https://www.youtube.com/watch?v=5NPBIwQyPWE)
  - date_published: 2002-02-25T00:00:00+00:00
+ - tags: ['pop']
 
  ## Franz Ferdinand - Take Me Out
  - [https://www.youtube.com/watch?v=h66dI0q_9As](https://www.youtube.com/watch?v=h66dI0q_9As)

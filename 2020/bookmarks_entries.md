@@ -271,6 +271,11 @@
  - date_published: 2020-04-26T00:00:00+00:00
  - tags: ['synthwave']
 
+ ## Incubus | The Best [Playlist] | Greatest Hits
+ - [https://www.youtube.com/watch?v=Hr6hb0WZd0s](https://www.youtube.com/watch?v=Hr6hb0WZd0s)
+ - date_published: 2020-04-27T00:00:00+00:00
+ - tags: ['full album']
+
  ## Aurora - Full performance (Live at The Current)
  - [https://www.youtube.com/watch?v=Ti1Iae6AcaU](https://www.youtube.com/watch?v=Ti1Iae6AcaU)
  - date_published: 2020-04-28T00:00:00+00:00

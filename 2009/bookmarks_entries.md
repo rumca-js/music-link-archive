@@ -43,6 +43,10 @@
  - [https://www.youtube.com/watch?v=Gxd07p72pr8&pp=ygUZd2lsa2kgbmllIHN0YcWCbyBzacSZIG5pYw%3D%3D](https://www.youtube.com/watch?v=Gxd07p72pr8&pp=ygUZd2lsa2kgbmllIHN0YcWCbyBzacSZIG5pYw%3D%3D)
  - date_published: 2009-02-22T00:00:00+00:00
 
+ ## A Perfect Circle - Weak and Powerless
+ - [https://www.youtube.com/watch?v=CpgHTAXpUOQ](https://www.youtube.com/watch?v=CpgHTAXpUOQ)
+ - date_published: 2009-02-24T00:00:00+00:00
+
  ## Daft Punk - One More Time (Official Video)
  - [https://www.youtube.com/watch?v=FGBhQbmPwH8](https://www.youtube.com/watch?v=FGBhQbmPwH8)
  - date_published: 2009-02-24T00:00:00+00:00
@@ -96,6 +100,10 @@
  - [https://www.youtube.com/watch?v=sOS9aOIXPEk](https://www.youtube.com/watch?v=sOS9aOIXPEk)
  - date_published: 2009-02-26T00:00:00+00:00
  - tags: ['french house']
+
+ ## A Perfect Circle - Weak And Powerless
+ - [https://www.youtube.com/watch?v=s-GsLh6dazI](https://www.youtube.com/watch?v=s-GsLh6dazI)
+ - date_published: 2009-02-27T00:00:00+00:00
 
  ## ATB - Let You Go (Official Video HD)
  - [https://www.youtube.com/watch?v=TL-UC6fxt_s](https://www.youtube.com/watch?v=TL-UC6fxt_s)

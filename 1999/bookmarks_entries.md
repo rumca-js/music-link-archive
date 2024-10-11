@@ -240,7 +240,7 @@
  - [https://www.youtube.com/watch?v=lPzdD2Cw8J4](https://www.youtube.com/watch?v=lPzdD2Cw8J4)
  - date_published: 1999-10-31T00:00:00+00:00
 
- ## L̲imp_B̲i̲zkit - Sgnfcnt_0thr FULL ALBUM
+ ## Limp Bizkit - Sgnfcnt_0thr FULL ALBUM
  - [https://www.youtube.com/watch?v=DM4MlNVO9H8](https://www.youtube.com/watch?v=DM4MlNVO9H8)
  - date_published: 1999-11-08T00:00:00+00:00
  - tags: ['nu metal', 'full album']

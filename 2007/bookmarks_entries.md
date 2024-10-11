@@ -177,10 +177,6 @@
  - date_published: 2007-07-08T00:00:00+00:00
  - tags: ['rock']
 
- ## Czesław Niemen-Sen o Warszawie
- - [https://www.youtube.com/watch?v=ePNUSmH3dMI](https://www.youtube.com/watch?v=ePNUSmH3dMI)
- - date_published: 2007-07-20T00:00:00+00:00
-
  ## Bjork- Big Time Sensuality
  - [https://www.youtube.com/watch?v=-wYmq2Vz5yM](https://www.youtube.com/watch?v=-wYmq2Vz5yM)
  - date_published: 2007-08-04T00:00:00+00:00

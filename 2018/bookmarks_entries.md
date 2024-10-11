@@ -99,6 +99,10 @@
  - date_published: 2018-02-04T00:00:00+00:00
  - tags: ['full album', 'synthwave']
 
+ ## A Perfect Circle - TalkTalk
+ - [https://www.youtube.com/watch?v=-aOyAvbj2Fg](https://www.youtube.com/watch?v=-aOyAvbj2Fg)
+ - date_published: 2018-02-05T00:00:00+00:00
+
  ## Bloodflower
  - [https://www.youtube.com/watch?v=j-Yp43QgSgs](https://www.youtube.com/watch?v=j-Yp43QgSgs)
  - date_published: 2018-02-06T00:00:00+00:00
@@ -203,6 +207,10 @@
  - [https://www.youtube.com/watch?v=CWJ_fAxJTj8](https://www.youtube.com/watch?v=CWJ_fAxJTj8)
  - date_published: 2018-03-08T00:00:00+00:00
  - tags: ['foreign', 'guqin']
+
+ ## A Perfect Circle - Disillusioned [Official Video]
+ - [https://www.youtube.com/watch?v=BIsH686xWl0](https://www.youtube.com/watch?v=BIsH686xWl0)
+ - date_published: 2018-03-09T00:00:00+00:00
 
  ## Rolling in the Deep - Adele - FUNK cover feat. Sarah Dugas!
  - [https://www.youtube.com/watch?v=lTIOugluWb8](https://www.youtube.com/watch?v=lTIOugluWb8)
@@ -320,30 +328,37 @@
  ## A Perfect Circle - Eat The Elephant [Audio]
  - [https://www.youtube.com/watch?v=7IpKcDvAHow](https://www.youtube.com/watch?v=7IpKcDvAHow)
  - date_published: 2018-04-24T17:00:01+00:00
+ - tags: ['alternative rock']
 
  ## A Perfect Circle - By And Down The River [Audio]
  - [https://www.youtube.com/watch?v=IL2N7d4WXzw](https://www.youtube.com/watch?v=IL2N7d4WXzw)
  - date_published: 2018-04-24T17:00:01+00:00
+ - tags: ['alternative rock']
 
  ## A Perfect Circle - Delicious [Audio]
  - [https://www.youtube.com/watch?v=M9kxjxHNtbs](https://www.youtube.com/watch?v=M9kxjxHNtbs)
  - date_published: 2018-04-24T17:00:02+00:00
+ - tags: ['alternative rock']
 
  ## A Perfect Circle - The Contrarian [Audio]
  - [https://www.youtube.com/watch?v=TZnraQmPFq8](https://www.youtube.com/watch?v=TZnraQmPFq8)
  - date_published: 2018-04-24T17:00:03+00:00
+ - tags: ['alternative rock']
 
  ## A Perfect Circle - Feathers [Audio]
  - [https://www.youtube.com/watch?v=lLre0GVbJK0](https://www.youtube.com/watch?v=lLre0GVbJK0)
  - date_published: 2018-04-24T17:00:08+00:00
+ - tags: ['alternative rock']
 
  ## A Perfect Circle - Get The Lead Out [Audio]
  - [https://www.youtube.com/watch?v=u_KhWud4sUA](https://www.youtube.com/watch?v=u_KhWud4sUA)
  - date_published: 2018-04-24T17:00:09+00:00
+ - tags: ['alternative rock']
 
  ## A Perfect Circle - Hourglass [Audio]
  - [https://www.youtube.com/watch?v=nShkRKrozrA](https://www.youtube.com/watch?v=nShkRKrozrA)
  - date_published: 2018-04-24T17:00:10+00:00
+ - tags: ['alternative rock']
 
  ## Harry Potter — The Rap
  - [https://www.youtube.com/watch?v=Yn_uHvb5vPQ](https://www.youtube.com/watch?v=Yn_uHvb5vPQ)

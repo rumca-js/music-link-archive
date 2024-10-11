@@ -683,6 +683,10 @@
  - date_published: 2017-10-17T00:00:00+00:00
  - tags: ['live']
 
+ ## A Perfect Circle - The Doomed [Audio]
+ - [https://www.youtube.com/watch?v=P6kd0FQhd5k](https://www.youtube.com/watch?v=P6kd0FQhd5k)
+ - date_published: 2017-10-17T00:00:00+00:00
+
  ## Guardians of the Galaxy: Awesome Mix (Vol. 1 & Vol. 2) (Full Soundtrack)
  - [https://www.youtube.com/watch?v=Kt-tLuszKBA](https://www.youtube.com/watch?v=Kt-tLuszKBA)
  - date_published: 2017-10-19T00:00:00+00:00

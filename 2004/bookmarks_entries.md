@@ -8,6 +8,11 @@
  - date_published: 2004-02-09T00:00:00+00:00
  - tags: ['industrial metal']
 
+ ## Weak And Powerless (Tilling My Grave Renholder Mix)
+ - [https://www.youtube.com/watch?v=f7NKJ1vV1n0](https://www.youtube.com/watch?v=f7NKJ1vV1n0)
+ - date_published: 2004-02-10T00:00:00+00:00
+ - tags: ['alternative rock']
+
  ## HIM - Wicked Game
  - [https://www.youtube.com/watch?v=ilYV3xujDag](https://www.youtube.com/watch?v=ilYV3xujDag)
  - date_published: 2004-02-22T00:00:00+00:00
