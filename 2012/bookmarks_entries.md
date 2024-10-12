@@ -239,6 +239,11 @@
  - [https://www.youtube.com/watch?v=wO_lA6hV1Ag](https://www.youtube.com/watch?v=wO_lA6hV1Ag)
  - date_published: 2012-07-27T00:00:00+00:00
 
+ ## KONGOS - Come with Me Now
+ - [https://www.youtube.com/watch?v=Gz2GVlQkn4Q](https://www.youtube.com/watch?v=Gz2GVlQkn4Q)
+ - date_published: 2012-07-31T00:00:00+00:00
+ - tags: ['rock']
+
  ## Stereopony - Hitohira No Hanabira
  - [https://www.youtube.com/watch?v=vYV-XJdzupY](https://www.youtube.com/watch?v=vYV-XJdzupY)
  - date_published: 2012-08-06T00:00:00+00:00

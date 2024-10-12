@@ -255,3 +255,13 @@
  - date_published: 2024-10-09T10:03:06+00:00
  - tags: ['full album']
 
+ ## The G - VHS Hero
+ - [https://www.youtube.com/watch?v=HHB7O2wtEL8](https://www.youtube.com/watch?v=HHB7O2wtEL8)
+ - date_published: 2024-10-10T17:00:25+00:00
+ - tags: ['synthwave']
+
+ ## Lappy - Requiem Mass
+ - [https://www.youtube.com/watch?v=LOBkZoz6iyk](https://www.youtube.com/watch?v=LOBkZoz6iyk)
+ - date_published: 2024-10-10T18:43:32+00:00
+ - tags: ['dubstep']
+

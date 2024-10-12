@@ -174,6 +174,11 @@
  - date_published: 1993-08-09T00:00:00+00:00
  - tags: ['hip-hop']
 
+ ## Cocteau Twins - Bluebeard (1993)
+ - [https://www.youtube.com/watch?v=GD-EdxU-rm4](https://www.youtube.com/watch?v=GD-EdxU-rm4)
+ - date_published: 1993-08-13T00:00:00+00:00
+ - tags: ['dream pop']
+
  ## TOOL - Sober (Official Video)
  - [https://www.youtube.com/watch?v=nspxAG12Cpc](https://www.youtube.com/watch?v=nspxAG12Cpc)
  - date_published: 1993-08-30T00:00:00+00:00

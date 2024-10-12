@@ -8,10 +8,20 @@
  - date_published: 1986-01-06T00:00:00+00:00
  - tags: ['70s80s90s']
 
+ ## Cocteau Twins - Pearly Dewdrops' Drops (Official Video)
+ - [https://www.youtube.com/watch?v=s-5Xgw6d3h0](https://www.youtube.com/watch?v=s-5Xgw6d3h0)
+ - date_published: 1986-01-24T00:00:00+00:00
+ - tags: ['dream pop']
+
  ## Berlin - Take My Breath Away (Official Video - Top Gun)
  - [https://www.youtube.com/watch?v=Bx51eegLTY8](https://www.youtube.com/watch?v=Bx51eegLTY8)
  - date_published: 1986-02-08T00:00:00+00:00
  - tags: ['70s80s90s']
+
+ ## Sea, Swallow Me
+ - [https://www.youtube.com/watch?v=1uWbEe7U3ZY](https://www.youtube.com/watch?v=1uWbEe7U3ZY)
+ - date_published: 1986-02-21T00:00:00+00:00
+ - tags: ['dream pop']
 
  ## Wanda i Banda - Siedem Życzeń
  - [https://www.youtube.com/watch?v=RegZhMzTc9E](https://www.youtube.com/watch?v=RegZhMzTc9E)

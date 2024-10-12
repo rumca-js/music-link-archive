@@ -28,6 +28,16 @@
  - date_published: 1990-01-25T00:00:00+00:00
  - tags: ['dream pop']
 
+ ## Fifty-fifty Clown
+ - [https://www.youtube.com/watch?v=b-WUAxgHgHw](https://www.youtube.com/watch?v=b-WUAxgHgHw)
+ - date_published: 1990-02-21T00:00:00+00:00
+ - tags: ['dream pop']
+
+ ## I Wear Your Ring
+ - [https://www.youtube.com/watch?v=EGkBSZgqrQA](https://www.youtube.com/watch?v=EGkBSZgqrQA)
+ - date_published: 1990-02-21T00:00:00+00:00
+ - tags: ['dream pop']
+
  ## Cherry-coloured Funk
  - [https://www.youtube.com/watch?v=PbbUeLkZt74](https://www.youtube.com/watch?v=PbbUeLkZt74)
  - date_published: 1990-02-21T00:00:00+00:00

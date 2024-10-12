@@ -27,6 +27,11 @@
  - date_published: 1991-04-27T00:00:00+00:00
  - tags: ['70s80s90s']
 
+ ## Cocteau Twins Pink Orange Red
+ - [https://www.youtube.com/watch?v=MFN6BaulEX8](https://www.youtube.com/watch?v=MFN6BaulEX8)
+ - date_published: 1991-04-28T00:00:00+00:00
+ - tags: ['dream pop']
+
  ## Army Of Lovers - Obsession - First Version
  - [https://www.youtube.com/watch?v=zNmO233OztQ](https://www.youtube.com/watch?v=zNmO233OztQ)
  - date_published: 1991-05-06T00:00:00+00:00

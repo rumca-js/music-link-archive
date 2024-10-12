@@ -27,6 +27,11 @@
  - [https://www.youtube.com/watch?v=QbdCpi4qTNY](https://www.youtube.com/watch?v=QbdCpi4qTNY)
  - date_published: 1978-03-11T00:00:00+00:00
 
+ ## Kraftwerk - The Robots (Official Video)
+ - [https://www.youtube.com/watch?v=D_8Pma1vHmw](https://www.youtube.com/watch?v=D_8Pma1vHmw)
+ - date_published: 1978-04-03T00:00:00+00:00
+ - tags: ['electronic']
+
  ## Jean Michel Jarre - Equinoxe Full Album (MFSL) [HQ]
  - [https://www.youtube.com/watch?v=RAhgz9aLukk](https://www.youtube.com/watch?v=RAhgz9aLukk)
  - date_published: 1978-05-03T00:00:00+00:00

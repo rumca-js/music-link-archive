@@ -148,6 +148,10 @@
  - [https://www.youtube.com/watch?v=zQEV-XemfcE](https://www.youtube.com/watch?v=zQEV-XemfcE)
  - date_published: 2016-04-01T00:00:00+00:00
 
+ ## Michael Kiwanuka - Love & Hate (Live Session)
+ - [https://www.youtube.com/watch?v=aMZ4QL0orw0](https://www.youtube.com/watch?v=aMZ4QL0orw0)
+ - date_published: 2016-04-07T00:00:00+00:00
+
  ## Łona i Webber - Błąd
  - [https://www.youtube.com/watch?v=H-IVzFIRSVE](https://www.youtube.com/watch?v=H-IVzFIRSVE)
  - date_published: 2016-04-18T00:00:00+00:00

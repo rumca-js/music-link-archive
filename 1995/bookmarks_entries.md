@@ -38,7 +38,7 @@
  ## The Presidents of the United States of America - Peaches (Official HD Music Video)
  - [https://www.youtube.com/watch?v=3GCrzjVdmSg](https://www.youtube.com/watch?v=3GCrzjVdmSg)
  - date_published: 1995-02-27T00:00:00+00:00
- - tags: ['rock']
+ - tags: ['funny', 'rock']
 
  ## Shaggy - Boombastic (Official Music Video)
  - [https://www.youtube.com/watch?v=6W5pq4bIzIw](https://www.youtube.com/watch?v=6W5pq4bIzIw)

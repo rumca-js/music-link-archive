@@ -66,6 +66,10 @@
  - date_published: 1985-05-23T00:00:00+00:00
  - tags: ['youtube mix', '70s80s90s']
 
+ ## Sandra - In The Heat Of The Night [Movies Montage]
+ - [https://www.youtube.com/watch?v=m-n5rY3ticM](https://www.youtube.com/watch?v=m-n5rY3ticM)
+ - date_published: 1985-07-01T00:00:00+00:00
+
  ## Don't You (Forget About Me)
  - [https://www.youtube.com/watch?v=UR-B4tHmaF8](https://www.youtube.com/watch?v=UR-B4tHmaF8)
  - date_published: 1985-07-26T00:00:00+00:00

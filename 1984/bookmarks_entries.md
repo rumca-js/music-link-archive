@@ -141,6 +141,11 @@
  - date_published: 1984-12-14T00:00:00+00:00
  - tags: ['70s80s90s']
 
+ ## Pandora (for Cindy)
+ - [https://www.youtube.com/watch?v=LCaNDUcqHlQ](https://www.youtube.com/watch?v=LCaNDUcqHlQ)
+ - date_published: 1984-12-27T00:00:00+00:00
+ - tags: ['dream pop']
+
  ## Lorelei
  - [https://www.youtube.com/watch?v=o7tcFKakZTA](https://www.youtube.com/watch?v=o7tcFKakZTA)
  - date_published: 1984-12-27T00:00:00+00:00

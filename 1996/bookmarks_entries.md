@@ -55,6 +55,11 @@
  - date_published: 1996-05-15T00:00:00+00:00
  - tags: ['hip-hop']
 
+ ## POD Brown full album
+ - [https://www.youtube.com/watch?v=Tj2IkmiPtfU](https://www.youtube.com/watch?v=Tj2IkmiPtfU)
+ - date_published: 1996-05-21T00:00:00+00:00
+ - tags: ['full album', 'nu metal']
+
  ## Suede - Beautiful Ones (Official Video)
  - [https://www.youtube.com/watch?v=xqovGKdgAXY](https://www.youtube.com/watch?v=xqovGKdgAXY)
  - date_published: 1996-05-26T00:00:00+00:00

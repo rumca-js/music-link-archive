@@ -226,11 +226,6 @@
  - date_published: 2013-05-20T00:00:00+00:00
  - tags: ['full album']
 
- ## POD Brown full album
- - [https://www.youtube.com/watch?v=Tj2IkmiPtfU](https://www.youtube.com/watch?v=Tj2IkmiPtfU)
- - date_published: 2013-05-21T00:00:00+00:00
- - tags: ['full album']
-
  ## The Sound Defects - The Iron Horse [Full album]
  - [https://www.youtube.com/watch?v=-gXrS6eKfjk](https://www.youtube.com/watch?v=-gXrS6eKfjk)
  - date_published: 2013-05-23T00:00:00+00:00

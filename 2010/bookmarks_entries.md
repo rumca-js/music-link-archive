@@ -3,11 +3,6 @@
  - date_published: 2010-01-07T00:00:00+00:00
  - tags: ['symphonic metal']
 
- ## Janusz Gajos- teściowa
- - [https://www.youtube.com/watch?v=0_jT8qpn_HE](https://www.youtube.com/watch?v=0_jT8qpn_HE)
- - date_published: 2010-01-13T00:00:00+00:00
- - tags: ['funny']
-
  ## the Fratellis - Chelsea Dagger
  - [https://www.youtube.com/watch?v=LBaxde247Mw](https://www.youtube.com/watch?v=LBaxde247Mw)
  - date_published: 2010-02-01T00:00:00+00:00

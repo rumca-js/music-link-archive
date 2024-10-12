@@ -61,6 +61,10 @@
  - date_published: 2018-01-23T00:00:00+00:00
  - tags: ['synthwave']
 
+ ## Peggy Gou - 'It Makes You Forget (Itgehane)' (Official Audio)
+ - [https://www.youtube.com/watch?v=SlbVgjFvE3I](https://www.youtube.com/watch?v=SlbVgjFvE3I)
+ - date_published: 2018-01-23T00:00:00+00:00
+
  ## Kali Uchis - After The Storm ft. Tyler, The Creator, Bootsy Collins
  - [https://www.youtube.com/watch?v=9f5zD7ZSNpQ](https://www.youtube.com/watch?v=9f5zD7ZSNpQ)
  - date_published: 2018-01-25T00:00:00+00:00
