@@ -457,6 +457,10 @@
  - date_published: 2014-11-12T00:00:00+00:00
  - tags: ['drum and bass']
 
+ ## Akcent - Przez Twe Oczy Zielone (Oficjalny Teledysk) Napisy PL
+ - [https://www.youtube.com/watch?v=cxtnot8lY4U](https://www.youtube.com/watch?v=cxtnot8lY4U)
+ - date_published: 2014-11-13T00:00:00+00:00
+
  ## Light in Babylon - Bursa'nın Ufak Tefek Taşları
  - [https://www.youtube.com/watch?v=fiWCbNea5_A](https://www.youtube.com/watch?v=fiWCbNea5_A)
  - date_published: 2014-11-13T00:00:00+00:00
@@ -510,6 +514,10 @@
  - [https://www.youtube.com/watch?v=_wYtG7aQTHA](https://www.youtube.com/watch?v=_wYtG7aQTHA)
  - date_published: 2014-12-15T00:00:00+00:00
  - tags: ['funny']
+
+ ## Fall Out Boy - Immortals (from Big Hero 6)
+ - [https://www.youtube.com/watch?v=Y4o_8zbelwY](https://www.youtube.com/watch?v=Y4o_8zbelwY)
+ - date_published: 2014-12-24T00:00:00+00:00
 
  ## I Sat by the Ocean
  - [https://www.youtube.com/watch?v=Ol8eMfmzpe0](https://www.youtube.com/watch?v=Ol8eMfmzpe0)

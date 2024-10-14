@@ -462,6 +462,10 @@
  - date_published: 2015-10-06T00:00:00+00:00
  - tags: ['reggae', 'ska']
 
+ ## Akcent - Przekorny los (Oficjalny Teledysk)
+ - [https://www.youtube.com/watch?v=MWilsN_5Y-s](https://www.youtube.com/watch?v=MWilsN_5Y-s)
+ - date_published: 2015-10-08T00:00:00+00:00
+
  ## Hoo Ba Ba Kanda
  - [https://www.youtube.com/watch?v=6k0JeEKR3Do](https://www.youtube.com/watch?v=6k0JeEKR3Do)
  - date_published: 2015-10-09T00:00:00+00:00

@@ -231,6 +231,10 @@
  - [https://www.youtube.com/watch?v=TCVcIgMIozM](https://www.youtube.com/watch?v=TCVcIgMIozM)
  - date_published: 2010-05-31T00:00:00+00:00
 
+ ## Shakira - Waka Waka (This Time for Africa) (The Official 2010 FIFA World Cup™ Song)
+ - [https://www.youtube.com/watch?v=pRpeEdMmmQ0](https://www.youtube.com/watch?v=pRpeEdMmmQ0)
+ - date_published: 2010-06-04T00:00:00+00:00
+
  ## The X-Files Opening Credits
  - [https://www.youtube.com/watch?v=v4-GcS1UQyg](https://www.youtube.com/watch?v=v4-GcS1UQyg)
  - date_published: 2010-06-04T00:00:00+00:00

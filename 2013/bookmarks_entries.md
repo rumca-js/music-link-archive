@@ -198,6 +198,10 @@
  - date_published: 2013-04-21T00:00:00+00:00
  - tags: ['chiptune']
 
+ ## Long & Junior - Tańcz Tańcz Tańcz - Official Video Clip
+ - [https://www.youtube.com/watch?v=9XolBQsGGBM](https://www.youtube.com/watch?v=9XolBQsGGBM)
+ - date_published: 2013-04-21T00:00:00+00:00
+
  ## Zomboy - Mind Control
  - [https://www.youtube.com/watch?v=Odt_7AEE-XM](https://www.youtube.com/watch?v=Odt_7AEE-XM)
  - date_published: 2013-04-22T00:00:00+00:00

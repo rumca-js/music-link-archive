@@ -213,6 +213,10 @@
  - date_published: 2023-08-04T10:16:52+00:00
  - tags: ['source of music']
 
+ ## Smolasty & Doda - Nim Zajdzie Słońce [Official Music Video]
+ - [https://www.youtube.com/watch?v=uNVBBXa6CB8](https://www.youtube.com/watch?v=uNVBBXa6CB8)
+ - date_published: 2023-08-10T00:00:00+00:00
+
  ## MUSICAL TRIP No.2 2023 Melodic & Progressive House/Techno
  - [https://www.youtube.com/watch?v=_ScMKOfZUMM](https://www.youtube.com/watch?v=_ScMKOfZUMM)
  - date_published: 2023-08-12T00:00:00+00:00
