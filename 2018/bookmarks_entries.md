@@ -94,6 +94,10 @@
  - date_published: 2018-02-01T00:00:00+00:00
  - tags: ['house']
 
+ ## Imagine Dragons - Believer (Lyrics)
+ - [https://www.youtube.com/watch?v=W0DM5lcj6mw](https://www.youtube.com/watch?v=W0DM5lcj6mw)
+ - date_published: 2018-02-01T00:00:00+00:00
+
  ## Dayglow - Can I Call You Tonight? (Official Video)
  - [https://www.youtube.com/watch?v=hh1WeQxfCX0](https://www.youtube.com/watch?v=hh1WeQxfCX0)
  - date_published: 2018-02-02T00:00:00+00:00
@@ -131,6 +135,10 @@
  - [https://www.youtube.com/watch?v=08UWrgr5E5Y](https://www.youtube.com/watch?v=08UWrgr5E5Y)
  - date_published: 2018-02-14T00:00:00+00:00
  - tags: ['hip-hop']
+
+ ## Smolasty feat. Otsochodzi - Uzależniony [Official Music Video]
+ - [https://www.youtube.com/watch?v=LqdG6EI1eSk](https://www.youtube.com/watch?v=LqdG6EI1eSk)
+ - date_published: 2018-02-15T00:00:00+00:00
 
  ## Ours Samplus - Orphan Loops [Full LP]
  - [https://www.youtube.com/watch?v=0En_vSMkMlg](https://www.youtube.com/watch?v=0En_vSMkMlg)
@@ -574,6 +582,10 @@
  - [https://www.youtube.com/watch?v=9O4_awEHh1g](https://www.youtube.com/watch?v=9O4_awEHh1g)
  - date_published: 2018-07-21T00:00:00+00:00
  - tags: ['youtube mix', 'epic']
+
+ ## The Ellie Badge
+ - [https://www.youtube.com/watch?v=Gf_ZNJWgwOM](https://www.youtube.com/watch?v=Gf_ZNJWgwOM)
+ - date_published: 2018-07-23T00:00:00+00:00
 
  ## Save It For The First Time - Scary Pockets feat. Larry Goldings (SCARY GOLDINGS)
  - [https://www.youtube.com/watch?v=ROFcSs_PYa8](https://www.youtube.com/watch?v=ROFcSs_PYa8)

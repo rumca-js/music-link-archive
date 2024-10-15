@@ -17,6 +17,11 @@
  - date_published: 1975-03-08T00:00:00+00:00
  - tags: ['full album']
 
+ ## Mike Oldfield - Ommadawn Full Album
+ - [https://www.youtube.com/watch?v=HlNi-zZF6wI](https://www.youtube.com/watch?v=HlNi-zZF6wI)
+ - date_published: 1975-03-18T00:00:00+00:00
+ - tags: ['full album', 'progressive rock']
+
  ## Pink Floyd - Wish You Were Here
  - [https://www.youtube.com/watch?v=IXdNnw99-Ic](https://www.youtube.com/watch?v=IXdNnw99-Ic)
  - date_published: 1975-04-05T00:00:00+00:00

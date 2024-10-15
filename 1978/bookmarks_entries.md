@@ -83,6 +83,11 @@
  - date_published: 1978-10-08T00:00:00+00:00
  - tags: ['70s80s90s']
 
+ ## Mike Oldfield - Incantations Full Album
+ - [https://www.youtube.com/watch?v=Y9v-Bpx7hII](https://www.youtube.com/watch?v=Y9v-Bpx7hII)
+ - date_published: 1978-10-12T00:00:00+00:00
+ - tags: ['full album', 'progressive rock']
+
  ## Equinoxe 5
  - [https://www.youtube.com/watch?v=MO7--KBgpAQ](https://www.youtube.com/watch?v=MO7--KBgpAQ)
  - date_published: 1978-11-04T00:00:00+00:00

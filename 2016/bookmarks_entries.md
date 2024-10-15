@@ -474,6 +474,10 @@
  - date_published: 2016-11-10T00:00:00+00:00
  - tags: ['downtempo', 'live', 'dub']
 
+ ## Lin-Manuel Miranda, Opetaia Foa'i - We Know The Way
+ - [https://www.youtube.com/watch?v=LOwVQvAIK-k](https://www.youtube.com/watch?v=LOwVQvAIK-k)
+ - date_published: 2016-11-11T00:00:00+00:00
+
  ## LAZERHAWK - SO FAR AWAY
  - [https://www.youtube.com/watch?v=RuYgbCul__s](https://www.youtube.com/watch?v=RuYgbCul__s)
  - date_published: 2016-11-13T00:00:00+00:00

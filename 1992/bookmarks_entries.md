@@ -152,6 +152,11 @@
  - date_published: 1992-05-13T00:00:00+00:00
  - tags: ['70s80s90s']
 
+ ## The Prodigy - Everybody In The Place (Official Video)
+ - [https://www.youtube.com/watch?v=WY87o9IZXWg](https://www.youtube.com/watch?v=WY87o9IZXWg)
+ - date_published: 1992-05-27T00:00:00+00:00
+ - tags: ['rave']
+
  ## White Zombie - Thunder Kiss '65
  - [https://www.youtube.com/watch?v=yPNFVj-pISU](https://www.youtube.com/watch?v=yPNFVj-pISU)
  - date_published: 1992-06-17T00:00:00+00:00
@@ -161,6 +166,11 @@
  - [https://www.youtube.com/watch?v=vETonlaTZ4c](https://www.youtube.com/watch?v=vETonlaTZ4c)
  - date_published: 1992-06-29T00:00:00+00:00
  - tags: ['chiptune']
+
+ ## House of Pain - Jump Around (Official Music Video) [HD]
+ - [https://www.youtube.com/watch?v=jrL_LzX5wv4](https://www.youtube.com/watch?v=jrL_LzX5wv4)
+ - date_published: 1992-07-22T00:00:00+00:00
+ - tags: ['hip-hop']
 
  ## L7 - Shitlist (HQ Audio)
  - [https://www.youtube.com/watch?v=VCZVRQ3z5qE](https://www.youtube.com/watch?v=VCZVRQ3z5qE)
@@ -182,10 +192,20 @@
  - date_published: 1992-08-12T00:00:00+00:00
  - tags: ['ambient', 'electronic']
 
+ ## The Shamen - Ebeneezer Goode HD
+ - [https://www.youtube.com/watch?v=7b2T8K2D-ps](https://www.youtube.com/watch?v=7b2T8K2D-ps)
+ - date_published: 1992-08-13T00:00:00+00:00
+ - tags: ['rave']
+
  ## Amiga music tribute
  - [https://www.youtube.com/watch?v=EuXVy6qXyuI](https://www.youtube.com/watch?v=EuXVy6qXyuI)
  - date_published: 1992-08-30T00:00:00+00:00
  - tags: ['chiptune']
+
+ ## Snow - Informer (Official Music Video) [4K Remaster]
+ - [https://www.youtube.com/watch?v=TSffz_bl6zo](https://www.youtube.com/watch?v=TSffz_bl6zo)
+ - date_published: 1992-09-13T00:00:00+00:00
+ - tags: ['hip-hop']
 
  ## R.E.M. - Man On The Moon (Official HD Music Video)
  - [https://www.youtube.com/watch?v=dLxpNiF0YKs](https://www.youtube.com/watch?v=dLxpNiF0YKs)
@@ -243,6 +263,11 @@
  - date_published: 1992-10-10T00:00:00+00:00
  - tags: ['gothic metal']
 
+ ## SL2 - On A Ragga Tip
+ - [https://www.youtube.com/watch?v=gXCN1DhHTZA](https://www.youtube.com/watch?v=gXCN1DhHTZA)
+ - date_published: 1992-10-10T00:00:00+00:00
+ - tags: ['rave']
+
  ## Alice In Chains - Down in a Hole (Official HD Video)
  - [https://www.youtube.com/watch?v=f8hT3oDDf6c](https://www.youtube.com/watch?v=f8hT3oDDf6c)
  - date_published: 1992-10-25T00:00:00+00:00
@@ -252,6 +277,11 @@
  - [https://www.youtube.com/watch?v=uAE6Il6OTcs](https://www.youtube.com/watch?v=uAE6Il6OTcs)
  - date_published: 1992-10-25T00:00:00+00:00
  - tags: ['grunge']
+
+ ## Shabba Ranks - Ting-A-ling
+ - [https://www.youtube.com/watch?v=wH_0_pijbZY](https://www.youtube.com/watch?v=wH_0_pijbZY)
+ - date_published: 1992-10-25T00:00:00+00:00
+ - tags: ['ragga']
 
  ## Spaceballs - State of the Art - Amiga Demo (HD 50fps)
  - [https://www.youtube.com/watch?v=89wq5EoXy-0](https://www.youtube.com/watch?v=89wq5EoXy-0)
@@ -293,11 +323,6 @@
 
  ## Your Love (Remastered)
  - [https://www.youtube.com/watch?v=eLtKceQ5TfU](https://www.youtube.com/watch?v=eLtKceQ5TfU)
- - date_published: 1992-12-25T00:00:00+00:00
- - tags: ['rave', 'big beat']
-
- ## Everybody In The Place (155 And Rising)
- - [https://www.youtube.com/watch?v=hEXoR9Go3sE](https://www.youtube.com/watch?v=hEXoR9Go3sE)
  - date_published: 1992-12-25T00:00:00+00:00
  - tags: ['rave', 'big beat']
 

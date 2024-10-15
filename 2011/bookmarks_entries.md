@@ -494,6 +494,10 @@
  - date_published: 2011-10-22T00:00:00+00:00
  - tags: ['funny']
 
+ ## Gusttavo Lima - Balada (Tchê Tchê Rere) [DVD Gusttavo Lima e Você - Ao Vivo]
+ - [https://www.youtube.com/watch?v=Z1ZKaR-9Kt4](https://www.youtube.com/watch?v=Z1ZKaR-9Kt4)
+ - date_published: 2011-10-25T00:00:00+00:00
+
  ## DJ Okawari - Kaleidoscope [Full Album]
  - [https://www.youtube.com/watch?v=ZxYrCSdYY6w&pp=ygUKZGogb2thd2FyaQ%3D%3D](https://www.youtube.com/watch?v=ZxYrCSdYY6w&pp=ygUKZGogb2thd2FyaQ%3D%3D)
  - date_published: 2011-10-31T00:00:00+00:00

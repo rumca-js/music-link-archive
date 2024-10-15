@@ -182,6 +182,10 @@
  - [https://www.youtube.com/watch?v=hitEH20pQQY&pp=ygUWd2lsa2kgYmV6ZSBtbmllIG8gbW5pZQ%3D%3D](https://www.youtube.com/watch?v=hitEH20pQQY&pp=ygUWd2lsa2kgYmV6ZSBtbmllIG8gbW5pZQ%3D%3D)
  - date_published: 2014-06-02T00:00:00+00:00
 
+ ## Perfect - Wszystko ma swój czas (official video)
+ - [https://www.youtube.com/watch?v=kZuYff81-Fc](https://www.youtube.com/watch?v=kZuYff81-Fc)
+ - date_published: 2014-06-05T00:00:00+00:00
+
  ## Amiga Retuned Vol 3
  - [https://www.youtube.com/watch?v=sTfgpGXsyqE](https://www.youtube.com/watch?v=sTfgpGXsyqE)
  - date_published: 2014-06-06T00:00:00+00:00

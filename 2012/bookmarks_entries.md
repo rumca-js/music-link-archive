@@ -220,6 +220,10 @@
  - [https://www.youtube.com/watch?v=mpySwM3hLjs](https://www.youtube.com/watch?v=mpySwM3hLjs)
  - date_published: 2012-07-13T00:00:00+00:00
 
+ ## PSY - GANGNAM STYLE(강남스타일) M/V
+ - [https://www.youtube.com/watch?v=9bZkp7q19f0](https://www.youtube.com/watch?v=9bZkp7q19f0)
+ - date_published: 2012-07-15T00:00:00+00:00
+
  ## The Evolution of PC Games
  - [https://www.youtube.com/watch?v=OuO-s1kugLs](https://www.youtube.com/watch?v=OuO-s1kugLs)
  - date_published: 2012-07-17T00:00:00+00:00

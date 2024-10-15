@@ -240,6 +240,10 @@
  - date_published: 2013-05-24T00:00:00+00:00
  - tags: ['full album', 'hip-hop']
 
+ ## Rafal Brzozowski - Za Maly Swiat
+ - [https://www.youtube.com/watch?v=6Z760xtIHzo](https://www.youtube.com/watch?v=6Z760xtIHzo)
+ - date_published: 2013-05-30T00:00:00+00:00
+
  ## Dawid Podsiadło - Trojkaty i Kwadraty
  - [https://www.youtube.com/watch?v=Wg4A_d9F7xk](https://www.youtube.com/watch?v=Wg4A_d9F7xk)
  - date_published: 2013-05-30T00:00:00+00:00
@@ -262,6 +266,10 @@
  - [https://www.youtube.com/watch?v=bpOSxM0rNPM](https://www.youtube.com/watch?v=bpOSxM0rNPM)
  - date_published: 2013-06-19T00:00:00+00:00
  - tags: ['rock']
+
+ ## Mig - Miód Malina (Official Video)
+ - [https://www.youtube.com/watch?v=vwCWwZetRaI](https://www.youtube.com/watch?v=vwCWwZetRaI)
+ - date_published: 2013-06-27T00:00:00+00:00
 
  ## CeZik? Co To Za Pedał?
  - [https://www.youtube.com/watch?v=DEhJgRveaV8](https://www.youtube.com/watch?v=DEhJgRveaV8)
@@ -385,6 +393,11 @@
  - [https://www.youtube.com/watch?v=ckVYO9oI8vc](https://www.youtube.com/watch?v=ckVYO9oI8vc)
  - date_published: 2013-10-02T00:00:00+00:00
  - tags: ['religion']
+
+ ## Chronixx - Here Comes Trouble (Official Music Video)
+ - [https://www.youtube.com/watch?v=LfeIfiiBTfY](https://www.youtube.com/watch?v=LfeIfiiBTfY)
+ - date_published: 2013-10-02T00:00:00+00:00
+ - tags: ['reggae']
 
  ## Epic Rap Battle: Nerd vs. Geek
  - [https://www.youtube.com/watch?v=2Tvy_Pbe5NA](https://www.youtube.com/watch?v=2Tvy_Pbe5NA)

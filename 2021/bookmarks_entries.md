@@ -8,6 +8,10 @@
  - date_published: 2021-01-08T00:00:00+00:00
  - tags: ['live']
 
+ ## a song using ONLY sounds from MINECRAFT
+ - [https://www.youtube.com/watch?v=LrHZcV7uWyw](https://www.youtube.com/watch?v=LrHZcV7uWyw)
+ - date_published: 2021-01-10T00:00:00+00:00
+
  ## PROF - Squad Goals (Official Music Video)
  - [https://www.youtube.com/watch?v=iDaUy4T7rVI](https://www.youtube.com/watch?v=iDaUy4T7rVI)
  - date_published: 2021-01-13T00:00:00+00:00

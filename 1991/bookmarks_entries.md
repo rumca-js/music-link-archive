@@ -106,6 +106,11 @@
  - date_published: 1991-10-10T00:00:00+00:00
  - tags: ['chiptune']
 
+ ## SL2 - DJs Take Control (Night Mix)
+ - [https://www.youtube.com/watch?v=YJr8-xZo40I](https://www.youtube.com/watch?v=YJr8-xZo40I)
+ - date_published: 1991-10-10T00:00:00+00:00
+ - tags: ['rave']
+
  ## Queen - The Show Must Go On (Official Video)
  - [https://www.youtube.com/watch?v=t99KH0TR-J4](https://www.youtube.com/watch?v=t99KH0TR-J4)
  - date_published: 1991-10-15T00:00:00+00:00

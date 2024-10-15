@@ -124,6 +124,7 @@
  ## Melissa Auf der Maur - Out Of Our Minds
  - [https://www.youtube.com/watch?v=oRI5PP0xcpI](https://www.youtube.com/watch?v=oRI5PP0xcpI)
  - date_published: 2010-03-18T00:00:00+00:00
+ - tags: ['alternative rock']
 
  ## Lao Che - Życie Jest Jak Tramwaj (Official Music Video)
  - [https://www.youtube.com/watch?v=YUMHy0y6wUM](https://www.youtube.com/watch?v=YUMHy0y6wUM)

@@ -213,10 +213,6 @@
  - date_published: 2023-08-04T10:16:52+00:00
  - tags: ['source of music']
 
- ## Smolasty & Doda - Nim Zajdzie Słońce [Official Music Video]
- - [https://www.youtube.com/watch?v=uNVBBXa6CB8](https://www.youtube.com/watch?v=uNVBBXa6CB8)
- - date_published: 2023-08-10T00:00:00+00:00
-
  ## MUSICAL TRIP No.2 2023 Melodic & Progressive House/Techno
  - [https://www.youtube.com/watch?v=_ScMKOfZUMM](https://www.youtube.com/watch?v=_ScMKOfZUMM)
  - date_published: 2023-08-12T00:00:00+00:00
@@ -243,6 +239,10 @@
  ## EMO - Letni deszcz (Official Video)
  - [https://www.youtube.com/watch?v=L3JlCNAPeJw](https://www.youtube.com/watch?v=L3JlCNAPeJw)
  - date_published: 2023-08-30T00:00:00+00:00
+
+ ## sanah – Jestem Twoją Bajką (Akademia Pana Kleksa / from Kleks Academy)
+ - [https://www.youtube.com/watch?v=GGiJstIgkq4](https://www.youtube.com/watch?v=GGiJstIgkq4)
+ - date_published: 2023-09-07T00:00:00+00:00
 
  ## FastTracker music: Martyn - Synthetic Bitch (GUS PnP clone)
  - [https://www.youtube.com/watch?v=3RFXUJv9Uok](https://www.youtube.com/watch?v=3RFXUJv9Uok)
@@ -351,6 +351,11 @@
  - [https://www.youtube.com/watch?v=Bte7zzYL1x8](https://www.youtube.com/watch?v=Bte7zzYL1x8)
  - date_published: 2023-11-24T16:30:02+00:00
  - tags: ['electronic']
+
+ ## Nexxus 604 - Dark Forest - Psychedelic trance mix • (4K AI animated music video)
+ - [https://www.youtube.com/watch?v=E6m3OvB819s](https://www.youtube.com/watch?v=E6m3OvB819s)
+ - date_published: 2023-12-02T00:00:00+00:00
+ - tags: ['youtube mix', 'psychodelic trance']
 
  ## RIGĒL - Got This
  - [https://www.youtube.com/watch?v=Tz2DNV3Xunc](https://www.youtube.com/watch?v=Tz2DNV3Xunc)

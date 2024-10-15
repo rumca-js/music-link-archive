@@ -527,6 +527,10 @@
  - date_published: 2019-08-13T00:00:00+00:00
  - tags: ['youtube mix']
 
+ ## Revenge Remix
+ - [https://www.youtube.com/watch?v=DhvO38bKEvg](https://www.youtube.com/watch?v=DhvO38bKEvg)
+ - date_published: 2019-08-14T00:00:00+00:00
+
  ## Momentum
  - [https://www.youtube.com/watch?v=93vIZXP4BeI](https://www.youtube.com/watch?v=93vIZXP4BeI)
  - date_published: 2019-08-15T00:00:00+00:00
@@ -536,6 +540,10 @@
  - [https://www.youtube.com/watch?v=j0uhEHIU6Sk](https://www.youtube.com/watch?v=j0uhEHIU6Sk)
  - date_published: 2019-08-16T00:00:00+00:00
  - tags: ['live']
+
+ ## BARANOVSKI - Czułe miejsce [Official Music Video]
+ - [https://www.youtube.com/watch?v=qiyhs9zp93U](https://www.youtube.com/watch?v=qiyhs9zp93U)
+ - date_published: 2019-08-20T00:00:00+00:00
 
  ## Omae Wa Mou
  - [https://www.youtube.com/watch?v=k6LB6nrkoJU](https://www.youtube.com/watch?v=k6LB6nrkoJU)

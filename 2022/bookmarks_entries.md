@@ -199,7 +199,7 @@
  ## The Prodigy ▶ The·Fat·of·the·Land (Full Album)
  - [https://www.youtube.com/watch?v=GP6F0y3eU0Q](https://www.youtube.com/watch?v=GP6F0y3eU0Q)
  - date_published: 2022-07-22T00:00:00+00:00
- - tags: ['full album']
+ - tags: ['full album', 'rave']
 
  ## 🌊 JÖRMUNGANDR 🌊 (VolfgangTwins) Heavy Viking Music
  - [https://www.youtube.com/watch?v=IIHFxeN4BW4](https://www.youtube.com/watch?v=IIHFxeN4BW4)
@@ -257,6 +257,10 @@
  - [https://www.youtube.com/watch?v=Hfg8u_4SZKs](https://www.youtube.com/watch?v=Hfg8u_4SZKs)
  - date_published: 2022-09-20T00:00:00+00:00
  - tags: ['electronic dance music']
+
+ ## Blanka - Solo [Official Music Video]
+ - [https://www.youtube.com/watch?v=PvQRpV1-ZhY](https://www.youtube.com/watch?v=PvQRpV1-ZhY)
+ - date_published: 2022-09-23T00:00:00+00:00
 
  ## Accelerated
  - [https://www.youtube.com/watch?v=SGKOuqQiZek](https://www.youtube.com/watch?v=SGKOuqQiZek)

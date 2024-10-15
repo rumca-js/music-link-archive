@@ -43,6 +43,11 @@
  - date_published: 1994-02-16T00:00:00+00:00
  - tags: ['children']
 
+ ## M Beat feat General Levy Incredible
+ - [https://www.youtube.com/watch?v=mL2Bgj-za5k](https://www.youtube.com/watch?v=mL2Bgj-za5k)
+ - date_published: 1994-03-06T00:00:00+00:00
+ - tags: ['jungle']
+
  ## Buzu Squat -  Nasze Przebudzenie
  - [https://www.youtube.com/watch?v=zYMHFSc7Tsg](https://www.youtube.com/watch?v=zYMHFSc7Tsg)
  - date_published: 1994-03-07T00:00:00+00:00

@@ -47,6 +47,11 @@
  - date_published: 1985-03-12T00:00:00+00:00
  - tags: ['synthwave']
 
+ ## SL2 - Way in my Brain  (No Coke Mix)
+ - [https://www.youtube.com/watch?v=xI8S1Nn6NRk](https://www.youtube.com/watch?v=xI8S1Nn6NRk)
+ - date_published: 1985-03-25T00:00:00+00:00
+ - tags: ['rave']
+
  ## MacGyver - Intro [HQ]
  - [https://www.youtube.com/watch?v=yOEe1uzurKo](https://www.youtube.com/watch?v=yOEe1uzurKo)
  - date_published: 1985-03-31T00:00:00+00:00

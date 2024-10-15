@@ -211,10 +211,6 @@
  - [https://www.youtube.com/watch?v=s95nd960XsY](https://www.youtube.com/watch?v=s95nd960XsY)
  - date_published: 2024-06-11T16:00:56+00:00
 
- ## Young Leosia - SOBOTA WIECZÓR (feat. Jacuś)
- - [https://www.youtube.com/watch?v=uPULY6PIRZQ](https://www.youtube.com/watch?v=uPULY6PIRZQ)
- - date_published: 2024-06-21T00:00:00+00:00
-
  ## LukHash - Magnétique
  - [https://www.youtube.com/watch?v=aIcbtk8TYo0](https://www.youtube.com/watch?v=aIcbtk8TYo0)
  - date_published: 2024-07-05T15:00:01+00:00
@@ -238,10 +234,6 @@
  ## Jake the Kid - On My Own
  - [https://www.youtube.com/watch?v=chR2BFatt4Y](https://www.youtube.com/watch?v=chR2BFatt4Y)
  - date_published: 2024-09-12T18:47:32+00:00
-
- ## Mata - Lloret de Mar (EA SPORTS FC 25 Official Soundtrack)
- - [https://www.youtube.com/watch?v=6mB-EH98PiA](https://www.youtube.com/watch?v=6mB-EH98PiA)
- - date_published: 2024-09-16T00:00:00+00:00
 
  ## NANOWAR OF STEEL - Stormwarrior Of The Storm (Official Video with Lyrics) | Napalm Records
  - [https://www.youtube.com/watch?v=Jy99ywCp3qU](https://www.youtube.com/watch?v=Jy99ywCp3qU)

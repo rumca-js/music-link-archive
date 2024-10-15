@@ -775,6 +775,11 @@
  - date_published: 2017-11-08T00:00:00+00:00
  - tags: ['funny']
 
+ ## Psychedelic Trance mix November 2017 [video game : Cuphead / Trippy Cartoon]
+ - [https://www.youtube.com/watch?v=geajCOmYRcw](https://www.youtube.com/watch?v=geajCOmYRcw)
+ - date_published: 2017-11-09T00:00:00+00:00
+ - tags: ['youtube mix', 'psychodelic trance']
+
  ## Men I Trust - I hope to be around
  - [https://www.youtube.com/watch?v=DviID8Ni7Ns](https://www.youtube.com/watch?v=DviID8Ni7Ns)
  - date_published: 2017-11-10T00:00:00+00:00
