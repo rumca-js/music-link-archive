@@ -227,6 +227,11 @@
  - [https://www.youtube.com/watch?v=mAv0wHjVlqU](https://www.youtube.com/watch?v=mAv0wHjVlqU)
  - date_published: 2024-09-04T17:30:08+00:00
 
+ ## The Emptiness Machine (Official Music Video) - Linkin Park
+ - [https://www.youtube.com/watch?v=SRXH9AbT280](https://www.youtube.com/watch?v=SRXH9AbT280)
+ - date_published: 2024-09-05T00:00:00+00:00
+ - tags: ['nu metal']
+
  ## LukHash - Magic Gateway
  - [https://www.youtube.com/watch?v=sR2UO8pfsXI](https://www.youtube.com/watch?v=sR2UO8pfsXI)
  - date_published: 2024-09-06T15:01:04+00:00
@@ -239,6 +244,10 @@
  - [https://www.youtube.com/watch?v=Jy99ywCp3qU](https://www.youtube.com/watch?v=Jy99ywCp3qU)
  - date_published: 2024-09-17T12:00:00+00:00
  - tags: ['funny']
+
+ ## Nosowska / Król - Błyszcz (Official Video)
+ - [https://www.youtube.com/watch?v=9eV26_l2pck](https://www.youtube.com/watch?v=9eV26_l2pck)
+ - date_published: 2024-09-19T08:00:28+00:00
 
  ## DreamReaper - Juno Protocol
  - [https://www.youtube.com/watch?v=9QY3ypLTcrQ](https://www.youtube.com/watch?v=9QY3ypLTcrQ)

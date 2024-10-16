@@ -3,6 +3,11 @@
  - date_published: 2000-01-20T00:00:00+00:00
  - tags: ['internet', 'weird', 'memes', 'funny']
 
+ ## In the End
+ - [https://www.youtube.com/watch?v=BLZWkjBXfN8](https://www.youtube.com/watch?v=BLZWkjBXfN8)
+ - date_published: 2000-01-26T00:00:00+00:00
+ - tags: ['nu metal']
+
  ## Robert Gawliński - Trzy noce z deszczem (Official Video)
  - [https://www.youtube.com/watch?v=17Yhra6l2tM](https://www.youtube.com/watch?v=17Yhra6l2tM)
  - date_published: 2000-02-05T00:00:00+00:00
@@ -38,6 +43,11 @@
  - [https://www.youtube.com/watch?v=P4j3nCcMJfM](https://www.youtube.com/watch?v=P4j3nCcMJfM)
  - date_published: 2000-02-22T00:00:00+00:00
  - tags: ['hip-hop']
+
+ ## One Step Closer [Official HD Music Video] - Linkin Park
+ - [https://www.youtube.com/watch?v=4qlCC1GOwFw](https://www.youtube.com/watch?v=4qlCC1GOwFw)
+ - date_published: 2000-03-05T00:00:00+00:00
+ - tags: ['nu metal']
 
  ## Papercut [Official HD Music Video] - Linkin Park
  - [https://www.youtube.com/watch?v=vjVkXlxsO8Q](https://www.youtube.com/watch?v=vjVkXlxsO8Q)

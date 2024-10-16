@@ -36,6 +36,11 @@
  - [https://www.youtube.com/watch?v=2DiP0mMeaT8](https://www.youtube.com/watch?v=2DiP0mMeaT8)
  - date_published: 2023-02-07T00:00:00+00:00
 
+ ## NF - HOPE
+ - [https://www.youtube.com/watch?v=tsmPCi7NKrg](https://www.youtube.com/watch?v=tsmPCi7NKrg)
+ - date_published: 2023-02-16T00:00:00+00:00
+ - tags: ['hip-hop']
+
  ## Vito Bambino - Podpalmy to
  - [https://www.youtube.com/watch?v=d4XXGAtFtpk](https://www.youtube.com/watch?v=d4XXGAtFtpk)
  - date_published: 2023-02-17T00:00:00+00:00

@@ -23,6 +23,11 @@
  - date_published: 2003-03-05T00:00:00+00:00
  - tags: ['nu metal']
 
+ ## Somewhere I Belong (Official Music Video) [4K UPGRADE] – Linkin Park
+ - [https://www.youtube.com/watch?v=zsCD5XCu6CM](https://www.youtube.com/watch?v=zsCD5XCu6CM)
+ - date_published: 2003-03-05T00:00:00+00:00
+ - tags: ['nu metal']
+
  ## Jedi Mind Tricks (Vinnie Paz + Stoupe) - "Blood in Blood Out" [Official Audio]
  - [https://www.youtube.com/watch?v=VhCmyMpWeXc](https://www.youtube.com/watch?v=VhCmyMpWeXc)
  - date_published: 2003-03-26T00:00:00+00:00
@@ -147,6 +152,11 @@
  - [https://www.youtube.com/watch?v=ZeVGrFSvSsM](https://www.youtube.com/watch?v=ZeVGrFSvSsM)
  - date_published: 2003-10-11T00:00:00+00:00
  - tags: ['gothic metal']
+
+ ## Breaking the Habit (Official Music Video) [HD UPGRADE] – Linkin Park
+ - [https://www.youtube.com/watch?v=v2H4l9RpkwM](https://www.youtube.com/watch?v=v2H4l9RpkwM)
+ - date_published: 2003-10-23T00:00:00+00:00
+ - tags: ['nu metal']
 
  ## Korn - Did My Time (Official Video)
  - [https://www.youtube.com/watch?v=xmOOGeZE-aE&pp=ygUEa29ybg%3D%3D](https://www.youtube.com/watch?v=xmOOGeZE-aE&pp=ygUEa29ybg%3D%3D)
