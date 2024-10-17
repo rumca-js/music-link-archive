@@ -285,11 +285,6 @@
  - date_published: 2015-07-11T00:00:00+00:00
  - tags: ['synthwave']
 
- ## Coldplay Greatest Hits Full Album 2021|| Coldplay Best Songs Playlist 2021
- - [https://www.youtube.com/watch?v=iUyBzYK7GUw](https://www.youtube.com/watch?v=iUyBzYK7GUw)
- - date_published: 2015-07-12T00:00:00+00:00
- - tags: ['full album']
-
  ## Formshift - Devolution - HE08
  - [https://www.youtube.com/watch?v=Nt3SBzoUV3M](https://www.youtube.com/watch?v=Nt3SBzoUV3M)
  - date_published: 2015-07-12T00:00:00+00:00
@@ -461,10 +456,6 @@
  - [https://www.youtube.com/watch?v=DbF8nHiLDNU](https://www.youtube.com/watch?v=DbF8nHiLDNU)
  - date_published: 2015-10-06T00:00:00+00:00
  - tags: ['reggae', 'ska']
-
- ## Akcent - Przekorny los (Oficjalny Teledysk)
- - [https://www.youtube.com/watch?v=MWilsN_5Y-s](https://www.youtube.com/watch?v=MWilsN_5Y-s)
- - date_published: 2015-10-08T00:00:00+00:00
 
  ## Hoo Ba Ba Kanda
  - [https://www.youtube.com/watch?v=6k0JeEKR3Do](https://www.youtube.com/watch?v=6k0JeEKR3Do)

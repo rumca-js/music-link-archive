@@ -3,11 +3,6 @@
  - date_published: 2003-01-06T00:00:00+00:00
  - tags: ['poetry', 'ska']
 
- ## The Rasmus - Dead Letters (2003)
- - [https://www.youtube.com/watch?v=DjQR7XdbxpM](https://www.youtube.com/watch?v=DjQR7XdbxpM)
- - date_published: 2003-01-08T00:00:00+00:00
- - tags: ['full album', 'nu metal']
-
  ## Liam Lynch - United states of whatever (2003, 480p)
  - [https://www.youtube.com/watch?v=TixAjME3748](https://www.youtube.com/watch?v=TixAjME3748)
  - date_published: 2003-01-08T00:00:00+00:00

@@ -118,6 +118,11 @@
  - date_published: 2021-03-23T00:00:00+00:00
  - tags: ['funny']
 
+ ## EPICA - Omega - (FULL ALBUM STREAM)
+ - [https://www.youtube.com/watch?v=i28NgaXEF9Y](https://www.youtube.com/watch?v=i28NgaXEF9Y)
+ - date_published: 2021-03-24T00:00:00+00:00
+ - tags: ['full album']
+
  ## L'Impératrice — Tako Tsubo (full audio album)
  - [https://www.youtube.com/watch?v=ownrDFA-zL4](https://www.youtube.com/watch?v=ownrDFA-zL4)
  - date_published: 2021-03-25T00:00:00+00:00

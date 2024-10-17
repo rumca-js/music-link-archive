@@ -8,11 +8,6 @@
  - date_published: 2013-01-09T00:00:00+00:00
  - tags: ['harp', 'classical']
 
- ## Com Truise - In Decay - Full Album
- - [https://www.youtube.com/watch?v=yergWdn968o](https://www.youtube.com/watch?v=yergWdn968o)
- - date_published: 2013-01-09T00:00:00+00:00
- - tags: ['synthwave', 'full album']
-
  ## Wintergatan - Sommarfågel
  - [https://www.youtube.com/watch?v=SBK2AF-NdVA](https://www.youtube.com/watch?v=SBK2AF-NdVA)
  - date_published: 2013-01-10T00:00:00+00:00
@@ -197,10 +192,6 @@
  - [https://www.youtube.com/watch?v=0emL2ACcBkk](https://www.youtube.com/watch?v=0emL2ACcBkk)
  - date_published: 2013-04-21T00:00:00+00:00
  - tags: ['chiptune']
-
- ## Long & Junior - Tańcz Tańcz Tańcz - Official Video Clip
- - [https://www.youtube.com/watch?v=9XolBQsGGBM](https://www.youtube.com/watch?v=9XolBQsGGBM)
- - date_published: 2013-04-21T00:00:00+00:00
 
  ## Zomboy - Mind Control
  - [https://www.youtube.com/watch?v=Odt_7AEE-XM](https://www.youtube.com/watch?v=Odt_7AEE-XM)
@@ -413,11 +404,6 @@
  - [https://www.youtube.com/watch?v=TmSU_wezXZ4](https://www.youtube.com/watch?v=TmSU_wezXZ4)
  - date_published: 2013-10-04T00:00:00+00:00
  - tags: ['full album', 'electronic rock']
-
- ## The Elder Scrolls IV: Oblivion Soundtrack (Full)
- - [https://www.youtube.com/watch?v=XhOEn7Xl8as](https://www.youtube.com/watch?v=XhOEn7Xl8as)
- - date_published: 2013-10-18T00:00:00+00:00
- - tags: ['video games', 'full album']
 
  ## [HD] Windows 7 Sparta Remix (with video!)
  - [https://www.youtube.com/watch?v=37e4GZDuwBE](https://www.youtube.com/watch?v=37e4GZDuwBE)

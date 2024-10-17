@@ -189,11 +189,6 @@
  - date_published: 2017-03-20T00:00:00+00:00
  - tags: ['youtube mix']
 
- ## Paradise Magic Music - 'Back To The 80's' Best of Synthwave And Retro Electro Music
- - [https://www.youtube.com/watch?v=x8gBfEDoEbY](https://www.youtube.com/watch?v=x8gBfEDoEbY)
- - date_published: 2017-03-21T00:00:00+00:00
- - tags: ['youtube mix', 'synthwave']
-
  ## Rammstein: Paris - Wollt Ihr Das Bett In Flammen Sehen? (Official Video)
  - [https://www.youtube.com/watch?v=vqnk9HWbKRA&pp=ygUucmFtbXN0ZWluIHdvbGx0IGlociBkYXMgYmV0dCBpbiBmbGFtbWVuIHNlaGVuIA%3D%3D](https://www.youtube.com/watch?v=vqnk9HWbKRA&pp=ygUucmFtbXN0ZWluIHdvbGx0IGlociBkYXMgYmV0dCBpbiBmbGFtbWVuIHNlaGVuIA%3D%3D)
  - date_published: 2017-03-24T00:00:00+00:00
@@ -365,11 +360,6 @@
  ## Arcade Fire - Everything Now (Official Video)
  - [https://www.youtube.com/watch?v=zC30BYR3CUk](https://www.youtube.com/watch?v=zC30BYR3CUk)
  - date_published: 2017-06-01T00:00:00+00:00
-
- ## Best of Trip-Hop & Downtempo & Hip-Hop Instrumental Vol. 2 Re-Upload
- - [https://www.youtube.com/watch?v=gHSN4DmjPas](https://www.youtube.com/watch?v=gHSN4DmjPas)
- - date_published: 2017-06-03T00:00:00+00:00
- - tags: ['lofi', 'youtube mix', 'trip-hop']
 
  ## LORD OF THE RINGS TRILOGY RECAP RAP
  - [https://www.youtube.com/watch?v=fwLcV2PipZA](https://www.youtube.com/watch?v=fwLcV2PipZA)

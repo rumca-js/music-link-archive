@@ -60,6 +60,7 @@
  ## The Glass Prison
  - [https://www.youtube.com/watch?v=oGAHh0GPKRA](https://www.youtube.com/watch?v=oGAHh0GPKRA)
  - date_published: 2002-04-08T00:00:00+00:00
+ - tags: ['progressive metal']
 
  ## Big Cyc - Rudy się żeni (Official video)
  - [https://www.youtube.com/watch?v=7XbHztbxX60](https://www.youtube.com/watch?v=7XbHztbxX60)

@@ -541,10 +541,6 @@
  - date_published: 2019-08-16T00:00:00+00:00
  - tags: ['live']
 
- ## BARANOVSKI - Czułe miejsce [Official Music Video]
- - [https://www.youtube.com/watch?v=qiyhs9zp93U](https://www.youtube.com/watch?v=qiyhs9zp93U)
- - date_published: 2019-08-20T00:00:00+00:00
-
  ## Omae Wa Mou
  - [https://www.youtube.com/watch?v=k6LB6nrkoJU](https://www.youtube.com/watch?v=k6LB6nrkoJU)
  - date_published: 2019-08-25T00:00:00+00:00
@@ -613,11 +609,6 @@
  - [https://www.youtube.com/watch?v=LBGYHUHctiQ](https://www.youtube.com/watch?v=LBGYHUHctiQ)
  - date_published: 2019-09-17T00:00:00+00:00
  - tags: ['dream pop']
-
- ## NIGHT DRIVE - [synthwave - chillwave - retrowave mix]
- - [https://www.youtube.com/watch?v=QAhvvQQurw4](https://www.youtube.com/watch?v=QAhvvQQurw4)
- - date_published: 2019-09-18T00:00:00+00:00
- - tags: ['youtube mix', 'synthwave']
 
  ## Apashe - Good News (Official Music Video)
  - [https://www.youtube.com/watch?v=Slv9aYoC4FM](https://www.youtube.com/watch?v=Slv9aYoC4FM)

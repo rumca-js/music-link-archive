@@ -18,11 +18,6 @@
  - date_published: 1971-04-19T00:00:00+00:00
  - tags: ['progressive rock', 'full album']
 
- ## Mira Kubasińska i Breakout - Mira (winyl) full album
- - [https://www.youtube.com/watch?v=cOd-rcv-tKM](https://www.youtube.com/watch?v=cOd-rcv-tKM)
- - date_published: 1971-07-15T00:00:00+00:00
- - tags: ['full album', 'blues']
-
  ## Solitude (2009 - Remaster)
  - [https://www.youtube.com/watch?v=lejk2BmBbvk](https://www.youtube.com/watch?v=lejk2BmBbvk)
  - date_published: 1971-07-21T00:00:00+00:00

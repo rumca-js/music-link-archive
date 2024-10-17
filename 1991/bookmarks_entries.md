@@ -96,6 +96,10 @@
  - [https://www.youtube.com/watch?v=CprfjfN5PRs](https://www.youtube.com/watch?v=CprfjfN5PRs)
  - date_published: 1991-09-10T00:00:00+00:00
 
+ ## Primal Scream - Loaded (Official Video)
+ - [https://www.youtube.com/watch?v=Y3ixEzKA4k0](https://www.youtube.com/watch?v=Y3ixEzKA4k0)
+ - date_published: 1991-09-15T00:00:00+00:00
+
  ## Michael Jackson - Black Or White (Official Video - Shortened Version)
  - [https://www.youtube.com/watch?v=F2AitTPI5U0&pp=ygUeYmxhY2sgb3Igd2hpdGUgbWljaGFlbCBqYWNrc29u](https://www.youtube.com/watch?v=F2AitTPI5U0&pp=ygUeYmxhY2sgb3Igd2hpdGUgbWljaGFlbCBqYWNrc29u)
  - date_published: 1991-10-03T00:00:00+00:00
@@ -128,6 +132,10 @@
  - [https://www.youtube.com/watch?v=GLvohMXgcBo](https://www.youtube.com/watch?v=GLvohMXgcBo)
  - date_published: 1991-10-27T00:00:00+00:00
  - tags: ['funk rock']
+
+ ## Metallica: Nothing Else Matters (Official Music Video)
+ - [https://www.youtube.com/watch?v=tAGnKpE4NCI](https://www.youtube.com/watch?v=tAGnKpE4NCI)
+ - date_published: 1991-10-27T00:00:00+00:00
 
  ## R.E.M. - Shiny Happy People (Official Music Video)
  - [https://www.youtube.com/watch?v=YYOKMUTTDdA](https://www.youtube.com/watch?v=YYOKMUTTDdA)

@@ -239,11 +239,6 @@
  - [https://www.youtube.com/watch?v=bDWuyLhvis8](https://www.youtube.com/watch?v=bDWuyLhvis8)
  - date_published: 2011-05-21T00:00:00+00:00
 
- ## Com Truise - Galactic Melt - Full Album
- - [https://www.youtube.com/watch?v=MCs_1EFmjkg](https://www.youtube.com/watch?v=MCs_1EFmjkg)
- - date_published: 2011-05-22T00:00:00+00:00
- - tags: ['synthwave', 'full album']
-
  ## Muse - New Born [HD]
  - [https://www.youtube.com/watch?v=C0uFakDj5D8](https://www.youtube.com/watch?v=C0uFakDj5D8)
  - date_published: 2011-05-23T00:00:00+00:00

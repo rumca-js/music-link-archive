@@ -525,15 +525,15 @@
  - date_published: 2018-06-23T00:00:00+00:00
  - tags: ['foreign']
 
+ ## Retransmisja koncertu -Tabu #Woodstock2014
+ - [https://www.youtube.com/watch?v=2fhdUm26K-w](https://www.youtube.com/watch?v=2fhdUm26K-w)
+ - date_published: 2018-06-28T00:00:00+00:00
+ - tags: ['concert', 'reggae']
+
  ## Virtual Self - Ghost Voices (Shadient Edit)
  - [https://www.youtube.com/watch?v=CetQWhI1QwQ](https://www.youtube.com/watch?v=CetQWhI1QwQ)
  - date_published: 2018-06-30T00:00:00+00:00
  - tags: ['dark techno']
-
- ## Sleepless Nights
- - [https://www.youtube.com/watch?v=KEWbUCwIjEo](https://www.youtube.com/watch?v=KEWbUCwIjEo)
- - date_published: 2018-07-01T00:00:00+00:00
- - tags: ['synthwave']
 
  ## Rakim: NPR Music Tiny Desk Concert
  - [https://www.youtube.com/watch?v=iU0_cYjm8HE](https://www.youtube.com/watch?v=iU0_cYjm8HE)

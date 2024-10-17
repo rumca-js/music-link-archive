@@ -117,11 +117,6 @@
  - date_published: 1980-11-07T00:00:00+00:00
  - tags: ['70s80s90s', 'rock']
 
- ## Italo Disco Megamix
- - [https://www.youtube.com/watch?v=5m8blzZ1lkA](https://www.youtube.com/watch?v=5m8blzZ1lkA)
- - date_published: 1980-11-11T00:00:00+00:00
- - tags: ['disco', 'youtube mix']
-
  ## Yello - Oh Yeah (Official Video)
  - [https://www.youtube.com/watch?v=6jJkdRaa04g](https://www.youtube.com/watch?v=6jJkdRaa04g)
  - date_published: 1980-12-01T00:00:00+00:00

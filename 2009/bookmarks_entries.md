@@ -278,6 +278,11 @@
  - date_published: 2009-05-07T00:00:00+00:00
  - tags: ['youtube mix']
 
+ ## EPICA - Design Your Universe - OFFICIAL FULL ALBUM STREAM
+ - [https://www.youtube.com/watch?v=O7_vg5vTkRk](https://www.youtube.com/watch?v=O7_vg5vTkRk)
+ - date_published: 2009-05-10T00:00:00+00:00
+ - tags: ['full album']
+
  ## Druga Strona Lustra "Okno na świat"
  - [https://www.youtube.com/watch?v=Gl7MWAL8IHo](https://www.youtube.com/watch?v=Gl7MWAL8IHo)
  - date_published: 2009-05-15T00:00:00+00:00
@@ -395,6 +400,11 @@
  - [https://www.youtube.com/watch?v=JukJgxLiFLE](https://www.youtube.com/watch?v=JukJgxLiFLE)
  - date_published: 2009-07-01T00:00:00+00:00
  - tags: ['electro']
+
+ ## Sleepless Nights
+ - [https://www.youtube.com/watch?v=KEWbUCwIjEo](https://www.youtube.com/watch?v=KEWbUCwIjEo)
+ - date_published: 2009-07-01T00:00:00+00:00
+ - tags: ['synthwave']
 
  ## Disturbed - Droppin' Plates
  - [https://www.youtube.com/watch?v=vpL2sWLwEtU](https://www.youtube.com/watch?v=vpL2sWLwEtU)
@@ -686,10 +696,6 @@
 
  ## Deftones - Minerva (Official Music Video) [HD Remaster]
  - [https://www.youtube.com/watch?v=mLa0-sQg1YM](https://www.youtube.com/watch?v=mLa0-sQg1YM)
- - date_published: 2009-10-27T00:00:00+00:00
-
- ## Metallica: Nothing Else Matters (Official Music Video)
- - [https://www.youtube.com/watch?v=tAGnKpE4NCI](https://www.youtube.com/watch?v=tAGnKpE4NCI)
  - date_published: 2009-10-27T00:00:00+00:00
 
  ## Jet - Are You Gonna Be My Girl

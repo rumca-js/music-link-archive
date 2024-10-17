@@ -54,10 +54,6 @@
  - date_published: 2020-02-19T00:00:00+00:00
  - tags: ['dark techno']
 
- ## sanah - Melodia (Official Video)
- - [https://www.youtube.com/watch?v=pxikqLzKZDY](https://www.youtube.com/watch?v=pxikqLzKZDY)
- - date_published: 2020-02-28T00:00:00+00:00
-
  ## Doubtfire
  - [https://www.youtube.com/watch?v=dqSEox9t4Bw](https://www.youtube.com/watch?v=dqSEox9t4Bw)
  - date_published: 2020-02-28T11:28:01+00:00
@@ -106,10 +102,6 @@
  - [https://www.youtube.com/watch?v=zNrKoWG7Cj0](https://www.youtube.com/watch?v=zNrKoWG7Cj0)
  - date_published: 2020-03-13T00:00:00+00:00
  - tags: ['indie pop']
-
- ## Skaldowie - Szanujmy wspomnienia [Official Audio]
- - [https://www.youtube.com/watch?v=OWa7DV_fwcI](https://www.youtube.com/watch?v=OWa7DV_fwcI)
- - date_published: 2020-03-16T00:00:00+00:00
 
  ## I'm A Dude [Lockdown Live Looping Jam #1]
  - [https://www.youtube.com/watch?v=YHWJUh9jfnU](https://www.youtube.com/watch?v=YHWJUh9jfnU)

@@ -27,6 +27,11 @@
  - date_published: 2016-01-21T00:00:00+00:00
  - tags: ['synthwave']
 
+ ## Tabu - Dyskografia (2009-2015) Odsłuch
+ - [https://www.youtube.com/watch?v=zEO03Q2wBXg](https://www.youtube.com/watch?v=zEO03Q2wBXg)
+ - date_published: 2016-01-24T00:00:00+00:00
+ - tags: ['reggea', 'full album']
+
  ## Bramy podnieście szczyty || owca
  - [https://www.youtube.com/watch?v=bC08J3_tX7o](https://www.youtube.com/watch?v=bC08J3_tX7o)
  - date_published: 2016-01-28T00:00:00+00:00
@@ -143,10 +148,6 @@
  - [https://www.youtube.com/watch?v=Q_AYSf9a1Yk](https://www.youtube.com/watch?v=Q_AYSf9a1Yk)
  - date_published: 2016-03-31T00:00:00+00:00
  - tags: ['electronic']
-
- ## Deep Forest - Marta's Song (Clip officiel)
- - [https://www.youtube.com/watch?v=zQEV-XemfcE](https://www.youtube.com/watch?v=zQEV-XemfcE)
- - date_published: 2016-04-01T00:00:00+00:00
 
  ## Michael Kiwanuka - Love & Hate (Live Session)
  - [https://www.youtube.com/watch?v=aMZ4QL0orw0](https://www.youtube.com/watch?v=aMZ4QL0orw0)
@@ -363,6 +364,11 @@
  - [https://www.youtube.com/watch?v=id29ZV9KA7A](https://www.youtube.com/watch?v=id29ZV9KA7A)
  - date_published: 2016-09-19T00:00:00+00:00
  - tags: ['synthwave']
+
+ ## EPICA - The Holographic Principle (OFFICIAL FULL ALBUM STREAM)
+ - [https://www.youtube.com/watch?v=IiIvbrqlXFY](https://www.youtube.com/watch?v=IiIvbrqlXFY)
+ - date_published: 2016-09-19T00:00:00+00:00
+ - tags: ['full album']
 
  ## Memu Bogu || owca
  - [https://www.youtube.com/watch?v=D2EaEw3E40c](https://www.youtube.com/watch?v=D2EaEw3E40c)

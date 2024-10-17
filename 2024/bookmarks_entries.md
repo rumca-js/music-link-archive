@@ -239,6 +239,7 @@
  ## Jake the Kid - On My Own
  - [https://www.youtube.com/watch?v=chR2BFatt4Y](https://www.youtube.com/watch?v=chR2BFatt4Y)
  - date_published: 2024-09-12T18:47:32+00:00
+ - tags: ['synthwave']
 
  ## NANOWAR OF STEEL - Stormwarrior Of The Storm (Official Video with Lyrics) | Napalm Records
  - [https://www.youtube.com/watch?v=Jy99ywCp3qU](https://www.youtube.com/watch?v=Jy99ywCp3qU)
@@ -273,4 +274,8 @@
  - [https://www.youtube.com/watch?v=LOBkZoz6iyk](https://www.youtube.com/watch?v=LOBkZoz6iyk)
  - date_published: 2024-10-10T18:43:32+00:00
  - tags: ['dubstep']
+
+ ## Metallica - The Memory Remains [Music Video][Metal 1997]
+ - [https://odysee.com/@MetalRockRules!:1/Metallica---The-Memory-Remains--Music-Video-HD-Remastered-:6](https://odysee.com/@MetalRockRules!:1/Metallica---The-Memory-Remains--Music-Video-HD-Remastered-:6)
+ - date_published: 2024-10-17T09:52:04+00:00
 

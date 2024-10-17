@@ -22,11 +22,6 @@
  - date_published: 2008-01-29T00:00:00+00:00
  - tags: ['video games']
 
- ## DragonBall Z: The Dust Brothers - "This is Your Life"
- - [https://www.youtube.com/watch?v=_2bSgI_0V5o](https://www.youtube.com/watch?v=_2bSgI_0V5o)
- - date_published: 2008-02-02T00:00:00+00:00
- - tags: ['anime']
-
  ## Cradle Of Filth - Her Ghost In The Fog (OFFICIAL MUSIC VIDEO)
  - [https://www.youtube.com/watch?v=qRNfeMaUBbo](https://www.youtube.com/watch?v=qRNfeMaUBbo)
  - date_published: 2008-02-11T00:00:00+00:00

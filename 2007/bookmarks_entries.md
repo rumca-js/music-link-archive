@@ -23,11 +23,6 @@
  - date_published: 2007-01-27T00:00:00+00:00
  - tags: ['hip-hop']
 
- ## dragonball z dmx party up in here
- - [https://www.youtube.com/watch?v=dZtHMvFs7GE](https://www.youtube.com/watch?v=dZtHMvFs7GE)
- - date_published: 2007-02-03T00:00:00+00:00
- - tags: ['anime', 'hip-hop']
-
  ## Myslovitz | Scenariusz dla moich sąsiadów
  - [https://www.youtube.com/watch?v=AbyJ_h4xfRQ](https://www.youtube.com/watch?v=AbyJ_h4xfRQ)
  - date_published: 2007-02-05T00:00:00+00:00
@@ -177,6 +172,11 @@
  - date_published: 2007-07-08T00:00:00+00:00
  - tags: ['rock']
 
+ ## EPICA - The Divine Conspiracy (OFFICIAL FULL ALBUM STREAM)
+ - [https://www.youtube.com/watch?v=i56bU2eG9F8](https://www.youtube.com/watch?v=i56bU2eG9F8)
+ - date_published: 2007-07-19T00:00:00+00:00
+ - tags: ['full album']
+
  ## Bjork- Big Time Sensuality
  - [https://www.youtube.com/watch?v=-wYmq2Vz5yM](https://www.youtube.com/watch?v=-wYmq2Vz5yM)
  - date_published: 2007-08-04T00:00:00+00:00
@@ -244,18 +244,6 @@
  ## Yaro - "Rowery Dwa" - video
  - [https://www.youtube.com/watch?v=WJ5JYqRtQFQ](https://www.youtube.com/watch?v=WJ5JYqRtQFQ)
  - date_published: 2007-10-24T00:00:00+00:00
-
- ## Eric Clapton - "Forever Man" [Official Music Video]
- - [https://www.youtube.com/watch?v=0gDvR1sZ6I4](https://www.youtube.com/watch?v=0gDvR1sZ6I4)
- - date_published: 2007-10-27T00:00:00+00:00
-
- ## Eric Clapton - Blue Eyes Blue (Video)
- - [https://www.youtube.com/watch?v=HNOR36mPtbk](https://www.youtube.com/watch?v=HNOR36mPtbk)
- - date_published: 2007-10-27T00:00:00+00:00
-
- ## Eric Clapton - "Pretending" [Official Music Video]
- - [https://www.youtube.com/watch?v=zm2PvnM7Vds](https://www.youtube.com/watch?v=zm2PvnM7Vds)
- - date_published: 2007-10-27T00:00:00+00:00
 
  ## Strawberry Fields Forever (From "Across The Universe" Soundtrack)
  - [https://www.youtube.com/watch?v=FPEl86wxqbs](https://www.youtube.com/watch?v=FPEl86wxqbs)

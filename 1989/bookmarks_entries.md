@@ -98,6 +98,10 @@
  - date_published: 1989-10-08T00:00:00+00:00
  - tags: ['nostalgia']
 
+ ## Eric Clapton - "Pretending" [Official Music Video]
+ - [https://www.youtube.com/watch?v=zm2PvnM7Vds](https://www.youtube.com/watch?v=zm2PvnM7Vds)
+ - date_published: 1989-10-27T00:00:00+00:00
+
  ## Maanam - Się Ściemnia [Official Music Video]
  - [https://www.youtube.com/watch?v=_M350-1-I1M](https://www.youtube.com/watch?v=_M350-1-I1M)
  - date_published: 1989-11-09T00:00:00+00:00

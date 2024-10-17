@@ -132,11 +132,6 @@
  - date_published: 2000-06-23T00:00:00+00:00
  - tags: ['hip-hop']
 
- ## Diablo 2 Soundtrack (Full)
- - [https://www.youtube.com/watch?v=P3ZrN-m7VJA](https://www.youtube.com/watch?v=P3ZrN-m7VJA)
- - date_published: 2000-06-27T00:00:00+00:00
- - tags: ['video games', 'full album']
-
  ## Chwile Ulotne
  - [https://www.youtube.com/watch?v=rT-wx-mMPWE](https://www.youtube.com/watch?v=rT-wx-mMPWE)
  - date_published: 2000-06-28T00:00:00+00:00
@@ -286,11 +281,6 @@
  - [https://www.youtube.com/watch?v=ETQCjeMrQEg](https://www.youtube.com/watch?v=ETQCjeMrQEg)
  - date_published: 2000-11-09T00:00:00+00:00
  - tags: ['hip-hop']
-
- ## U2 All That You Can't Leave Behind (Full Album)
- - [https://www.youtube.com/watch?v=phdOfl7Ep3M](https://www.youtube.com/watch?v=phdOfl7Ep3M)
- - date_published: 2000-11-11T00:00:00+00:00
- - tags: ['full album']
 
  ## Theatre of Tragedy - Machine
  - [https://www.youtube.com/watch?v=0CUl4VnSE_4](https://www.youtube.com/watch?v=0CUl4VnSE_4)

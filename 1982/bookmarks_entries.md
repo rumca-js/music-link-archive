@@ -38,11 +38,6 @@
  - date_published: 1982-04-11T00:00:00+00:00
  - tags: ['70s80s90s']
 
- ## Vangelis - Blade Runner Soundtrack (Remastered 2017)
- - [https://www.youtube.com/watch?v=k3fz6CC45ok](https://www.youtube.com/watch?v=k3fz6CC45ok)
- - date_published: 1982-04-12T00:00:00+00:00
- - tags: ['ost', 'full album']
-
  ## Perfect - Autobiografia (Official audio)
  - [https://www.youtube.com/watch?v=1n0MupX-7AM](https://www.youtube.com/watch?v=1n0MupX-7AM)
  - date_published: 1982-05-15T00:00:00+00:00

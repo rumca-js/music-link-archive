@@ -8,6 +8,16 @@
  - date_published: 1999-01-28T00:00:00+00:00
  - tags: ['trance']
 
+ ## DragonBall Z: The Dust Brothers - "This is Your Life"
+ - [https://www.youtube.com/watch?v=_2bSgI_0V5o](https://www.youtube.com/watch?v=_2bSgI_0V5o)
+ - date_published: 1999-02-02T00:00:00+00:00
+ - tags: ['anime']
+
+ ## dragonball z dmx party up in here
+ - [https://www.youtube.com/watch?v=dZtHMvFs7GE](https://www.youtube.com/watch?v=dZtHMvFs7GE)
+ - date_published: 1999-02-03T00:00:00+00:00
+ - tags: ['anime', 'hip-hop']
+
  ## Gregorian - Masters Of Chant: Chapter I (1999)
  - [https://www.youtube.com/watch?v=zjjROqAQya4](https://www.youtube.com/watch?v=zjjROqAQya4)
  - date_published: 1999-02-09T00:00:00+00:00
@@ -89,11 +99,6 @@
  - date_published: 1999-05-12T00:00:00+00:00
  - tags: ['trance', 'full album']
 
- ## Sigur Rós - Ágætis byrjun [Full Album Stream]
- - [https://www.youtube.com/watch?v=Wof1dSX-G2o](https://www.youtube.com/watch?v=Wof1dSX-G2o)
- - date_published: 1999-05-23T00:00:00+00:00
- - tags: ['full album']
-
  ## Creed - Are You Ready?
  - [https://www.youtube.com/watch?v=az9I7_BIj9k](https://www.youtube.com/watch?v=az9I7_BIj9k)
  - date_published: 1999-06-14T00:00:00+00:00
@@ -135,7 +140,7 @@
  ## ЛЕПРИКОНСЫ - Хали-гали, паратрупер. 1999
  - [https://www.youtube.com/watch?v=rUd2diUWDyI](https://www.youtube.com/watch?v=rUd2diUWDyI)
  - date_published: 1999-08-20T00:00:00+00:00
- - tags: ['ska']
+ - tags: ['weird', 'funny', 'ska']
 
  ## Orbital - The Middle Of Nowhere (1999) Full Album
  - [https://www.youtube.com/watch?v=p5tVIcYsMJc](https://www.youtube.com/watch?v=p5tVIcYsMJc)
@@ -221,6 +226,10 @@
  - [https://www.youtube.com/watch?v=VC4ORS5n9Hg](https://www.youtube.com/watch?v=VC4ORS5n9Hg)
  - date_published: 1999-10-25T00:00:00+00:00
  - tags: ['hip-hop']
+
+ ## Eric Clapton - Blue Eyes Blue (Video)
+ - [https://www.youtube.com/watch?v=HNOR36mPtbk](https://www.youtube.com/watch?v=HNOR36mPtbk)
+ - date_published: 1999-10-27T00:00:00+00:00
 
  ## Eric Clapton - Wonderful Tonight [Official Live]
  - [https://www.youtube.com/watch?v=UprwkbzUX6g](https://www.youtube.com/watch?v=UprwkbzUX6g)

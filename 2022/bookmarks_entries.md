@@ -23,11 +23,6 @@
  - date_published: 2022-02-02T00:00:00+00:00
  - tags: ['youtube mix']
 
- ## Classic Melodic Death Metal COMPILATION  | MetalGear
- - [https://www.youtube.com/watch?v=o_btwh1FEe0](https://www.youtube.com/watch?v=o_btwh1FEe0)
- - date_published: 2022-02-15T00:00:00+00:00
- - tags: ['melodic metal', 'youtube mix']
-
  ## Night Club - "Die in the Disco" (Official Animated Video)
  - [https://www.youtube.com/watch?v=R4760pb9ERg](https://www.youtube.com/watch?v=R4760pb9ERg)
  - date_published: 2022-02-15T00:00:00+00:00

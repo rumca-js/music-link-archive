@@ -145,6 +145,10 @@
  - date_published: 1985-10-25T00:00:00+00:00
  - tags: ['70s80s90s']
 
+ ## Eric Clapton - "Forever Man" [Official Music Video]
+ - [https://www.youtube.com/watch?v=0gDvR1sZ6I4](https://www.youtube.com/watch?v=0gDvR1sZ6I4)
+ - date_published: 1985-10-27T00:00:00+00:00
+
  ## Jun Togawa – Suki Suki Daisuki (Official Music Video)
  - [https://www.youtube.com/watch?v=cWlugvcnuSA](https://www.youtube.com/watch?v=cWlugvcnuSA)
  - date_published: 1985-10-29T00:00:00+00:00

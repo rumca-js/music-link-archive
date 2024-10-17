@@ -93,16 +93,6 @@
  - [https://www.youtube.com/watch?v=QetvK6ldl2s](https://www.youtube.com/watch?v=QetvK6ldl2s)
  - date_published: 2014-04-08T00:00:00+00:00
 
- ## Blade Runner • Main Theme • Vangelis
- - [https://www.youtube.com/watch?v=ccJJ0uxigVA](https://www.youtube.com/watch?v=ccJJ0uxigVA)
- - date_published: 2014-04-14T00:00:00+00:00
- - tags: ['ost']
-
- ## The Best of Debussy
- - [https://www.youtube.com/watch?v=qRZmdzCGLYw](https://www.youtube.com/watch?v=qRZmdzCGLYw)
- - date_published: 2014-04-15T00:00:00+00:00
- - tags: ['classical', 'full album']
-
  ## Amiga Retuned Vol 1
  - [https://www.youtube.com/watch?v=uN_ab1GTXvY](https://www.youtube.com/watch?v=uN_ab1GTXvY)
  - date_published: 2014-04-16T00:00:00+00:00
@@ -328,10 +318,6 @@
  - date_published: 2014-09-03T00:00:00+00:00
  - tags: ['synthwave', 'anime']
 
- ## Primal Scream - Loaded (Official Video)
- - [https://www.youtube.com/watch?v=Y3ixEzKA4k0](https://www.youtube.com/watch?v=Y3ixEzKA4k0)
- - date_published: 2014-09-15T00:00:00+00:00
-
  ## Ylvis - Trucker's Hitch [Official music video HD]
  - [https://www.youtube.com/watch?v=TUHgGK-tImY](https://www.youtube.com/watch?v=TUHgGK-tImY)
  - date_published: 2014-09-16T00:00:00+00:00
@@ -460,10 +446,6 @@
  - [https://www.youtube.com/watch?v=oYWda8ghBV8](https://www.youtube.com/watch?v=oYWda8ghBV8)
  - date_published: 2014-11-12T00:00:00+00:00
  - tags: ['drum and bass']
-
- ## Akcent - Przez Twe Oczy Zielone (Oficjalny Teledysk) Napisy PL
- - [https://www.youtube.com/watch?v=cxtnot8lY4U](https://www.youtube.com/watch?v=cxtnot8lY4U)
- - date_published: 2014-11-13T00:00:00+00:00
 
  ## Light in Babylon - Bursa'nın Ufak Tefek Taşları
  - [https://www.youtube.com/watch?v=fiWCbNea5_A](https://www.youtube.com/watch?v=fiWCbNea5_A)
