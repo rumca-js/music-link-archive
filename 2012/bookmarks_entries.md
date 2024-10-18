@@ -207,10 +207,6 @@
  - [https://www.youtube.com/watch?v=F7Ad1AuHriI](https://www.youtube.com/watch?v=F7Ad1AuHriI)
  - date_published: 2012-06-20T00:00:00+00:00
 
- ## I Like To Move It (Original Video)  Madagascar HD
- - [https://www.youtube.com/watch?v=hdcTmpvDO0I](https://www.youtube.com/watch?v=hdcTmpvDO0I)
- - date_published: 2012-07-09T00:00:00+00:00
-
  ## Birdy Nam Nam - "Goin' In (Skrillex "Goin' Hard" Mix)" Video
  - [https://www.youtube.com/watch?v=sgU7XMUyAqY](https://www.youtube.com/watch?v=sgU7XMUyAqY)
  - date_published: 2012-07-10T00:00:00+00:00

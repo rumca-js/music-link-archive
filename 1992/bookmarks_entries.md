@@ -304,7 +304,7 @@
  ## Oldskool Jungle Drum n Bass Mix 92-97
  - [https://www.youtube.com/watch?v=VHXvfSmyjj4](https://www.youtube.com/watch?v=VHXvfSmyjj4)
  - date_published: 1992-11-28T00:00:00+00:00
- - tags: ['youtube mix', 'jungle']
+ - tags: ['jungle', 'drum and bass', 'youtube mix']
 
  ## [Amiga] Wolfchild - Soundtrack
  - [https://www.youtube.com/watch?v=WhwJL3REHRE](https://www.youtube.com/watch?v=WhwJL3REHRE)

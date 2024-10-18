@@ -13,11 +13,6 @@
  - date_published: 2019-01-08T00:00:00+00:00
  - tags: ['full album']
 
- ## Hotline Miami 1&2 - Workout Mix
- - [https://www.youtube.com/watch?v=qo3ewdnBDnA](https://www.youtube.com/watch?v=qo3ewdnBDnA)
- - date_published: 2019-01-08T00:00:00+00:00
- - tags: ['youtube mix']
-
  ## In the Shadows
  - [https://www.youtube.com/watch?v=ozqx31tjztc](https://www.youtube.com/watch?v=ozqx31tjztc)
  - date_published: 2019-01-09T00:00:00+00:00

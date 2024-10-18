@@ -346,6 +346,7 @@
  ## F.O.O.L & THIRST - Motor
  - [https://www.youtube.com/watch?v=kSCLon-1wTo](https://www.youtube.com/watch?v=kSCLon-1wTo)
  - date_published: 2023-11-13T15:59:32+00:00
+ - tags: ['phonk']
 
  ## Classic Blues Music Best Songs - Excellent Collections of Vintage Blues Songs - Best Blues Mix
  - [https://www.youtube.com/watch?v=YUH1IeR1sqo](https://www.youtube.com/watch?v=YUH1IeR1sqo)

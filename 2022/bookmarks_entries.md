@@ -201,11 +201,6 @@
  - date_published: 2022-07-22T00:00:00+00:00
  - tags: ['folk']
 
- ## Auli - Dzied’ papriekšu, brāļa māsa ft. Tautumeitas
- - [https://www.youtube.com/watch?v=Sh6mvZXeh9Y](https://www.youtube.com/watch?v=Sh6mvZXeh9Y)
- - date_published: 2022-07-27T00:00:00+00:00
- - tags: ['foreign']
-
  ## Gibbs - Znikam
  - [https://www.youtube.com/watch?v=alKMn0Yw9xk](https://www.youtube.com/watch?v=alKMn0Yw9xk)
  - date_published: 2022-08-05T00:00:00+00:00

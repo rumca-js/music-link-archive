@@ -275,6 +275,11 @@
  - date_published: 2024-10-10T18:43:32+00:00
  - tags: ['dubstep']
 
+ ## Caspro x Sferro - Hurricane
+ - [https://www.youtube.com/watch?v=l316JrfLTFY](https://www.youtube.com/watch?v=l316JrfLTFY)
+ - date_published: 2024-10-15T16:28:12+00:00
+ - tags: ['synthwave']
+
  ## Metallica - The Memory Remains [Music Video][Metal 1997]
  - [https://odysee.com/@MetalRockRules!:1/Metallica---The-Memory-Remains--Music-Video-HD-Remastered-:6](https://odysee.com/@MetalRockRules!:1/Metallica---The-Memory-Remains--Music-Video-HD-Remastered-:6)
  - date_published: 2024-10-17T09:52:04+00:00
